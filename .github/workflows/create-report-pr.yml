@@ -40,6 +40,6 @@ jobs:
             -d "{
                 \"title\": \"Report $ISSUE_NUMBER: $MOD_NAME\",
                 \"head\": \"report/$ISSUE_NUMBER\",
-                \"base\": \"master\"
+                \"base\": \"master\",
                 \"body\": \"Generated from issue #$ISSUE_NUMBER.\"
             }"
