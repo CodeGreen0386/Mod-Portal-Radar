@@ -1,6 +1,7 @@
 name: Report Mod
 description: Report a mod for AI usage.
 title: "[Report]: "
+labels: ["report"]
 body:
   - type: input
     id: name
