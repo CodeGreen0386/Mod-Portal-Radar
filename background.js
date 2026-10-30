@@ -20,6 +20,6 @@ browser.alarms.create("cache", {
 
 browser.alarms.onAlarm.addListener((alarm) => {
     if (alarm.name === "cache") {
-        cache
+        cache()
     }
 })
