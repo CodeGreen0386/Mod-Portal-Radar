@@ -10,3 +10,16 @@ async function cache() {
         lastUpdates: Date.now()
     })
 }
+
+browser.runtime.onInstalled.addListener(cache)
+browser.runtime.onStartup.addListener(cache)
+
+browser.alarms.create("cache", {
+    periodInMinutes: 60
+})
+
+browser.alarms.onAlarm.addListener((alarm) => {
+    if (alarm.name === "cache") {
+        cache
+    }
+})
