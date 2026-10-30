@@ -7,7 +7,7 @@ async function cache() {
     const mods = await response.json();
     await browser.storage.local.set({
         mods: mods,
-        lastUpdates: Date.now()
+        lastUpdated: Date.now()
     })
 }
 
