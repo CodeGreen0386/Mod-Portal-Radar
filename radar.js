@@ -1,6 +1,22 @@
-async function init() {
-    const {mods = {}} = await browser.storage.local.get("mods")
+let mods = {};
 
+async function init() {
+    const result = await browser.storage.local.get("mods")
+    mods = result.mods ?? {};
+
+    filter()
+
+    const observer = new MutationObserver(() => {
+        filter()
+    })
+
+    observer.observe(document.body, {
+        childList: true,
+        subtree: true
+    })
+}
+
+function filter() {
     let pathname = window.location.pathname
     if (pathname.startsWith("/browse") || pathname.startsWith("/search")) {
         document.querySelectorAll('a[href*="/mod/"]').forEach((link) => {
