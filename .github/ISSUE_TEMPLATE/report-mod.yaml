@@ -1,0 +1,26 @@
+name: Report Mod
+description: Report a mod for AI usage.
+title: "[Report]: "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Internal Name
+      description: The name used in the URL or the zip file.
+    validation:
+      required: true
+  - type: checkboxes
+    id: ai
+    attributes:
+      label: AI Usage
+      description: In what ways the mod uses AI.
+      options:
+        - label: Code
+        - label: Graphics
+        - label: Text
+        - label: Thumbnail
+  - type: textarea
+    id: info
+    attributes:
+      label: Additional info
+      description: Any other necessary information, can be left blank.
