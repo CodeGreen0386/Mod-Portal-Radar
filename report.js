@@ -24,3 +24,4 @@ if (fs.existsSync(output)) {
 }
 
 fs.writeFileSync(output, JSON.stringify(mod, null, 4) + "\n")
+fs.appendFileSync(process.env.GITHUB_ENV, `MOD_NAME=${name}\n`)
