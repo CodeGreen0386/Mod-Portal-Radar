@@ -7,7 +7,7 @@ body:
     attributes:
       label: Internal Name
       description: The name used in the URL or the zip file.
-    validation:
+    validations:
       required: true
   - type: checkboxes
     id: ai
