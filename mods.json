@@ -1,7 +1,9 @@
 {
     "auto-train-refuel": ["code", "thumbnail"],
     "custom-recipe-loader": ["code", "thumbnail"],
+    "dimensional_storage": ["thumbnail"],
     "diode-combinator-redux": ["code", "thumbnail"],
+    "EditorPowerToggle": ["description", "thumbnail"],
     "efficient-flamethrowers": ["code", "description", "thumbnail"],
     "electric-locomotives": ["code", "thumbnail"],
     "entity-renamer": ["code"],
@@ -21,9 +23,12 @@
     "ltn-space-exploration": ["code", "thumbnail"],
     "MegaRPG": ["thumbnail"],
     "miniloader-redux": ["code", "thumbnail"],
+    "miniloader-redux-fork": ["code", "thumbnail"],
     "RequesterChest": ["thumbnail"],
     "research-cost-divider": ["thumbnail"],
     "Sceatorio-Natural-Spawns": ["description", "thumbnail"],
+    "se-train-browser": ["thumbnail"],
     "stack-combinator-redux": ["code", "thumbnail"],
-    "train-tracker": ["code", "thumbnail"]
+    "train-tracker": ["code", "thumbnail"],
+    "wuastbude-miniloader": ["code", "thumbnail"]
 }
