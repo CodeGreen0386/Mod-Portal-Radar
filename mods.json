@@ -1,1 +1,25 @@
-{}
+{
+    "auto-train-refuel": ["code", "thumbnail"],
+    "custom-recipe-loader": ["code", "thumbnail"],
+    "diode-combinator-redux": ["code", "thumbnail"],
+    "efficient-flamethrowers": ["code", "description", "thumbnail"],
+    "electric-locomotives": ["code", "thumbnail"],
+    "entity-renamer": ["code"],
+    "even-distribution-updated": ["code"],
+    "even-pickier-dollies": ["code", "thumbnail"],
+    "exotic-space-industries-remembrance": ["code", "description", "thumbnail"],
+    "extended-underground-pipes": ["code", "thumbnail"],
+    "fiber-optics": ["code", "thumbnail"],
+    "filter-combinator-improved": ["code"],
+    "interstellar-progression-overhaul": ["description", "thumbnail"],
+    "inventory-sensor-improved": ["code", "thumbnail"],
+    "lamp_led_display": ["code", "thumbnail"],
+    "logistics-sensor": ["code", "thumbnail"],
+    "ltn-train-info": ["code", "thumbnail"],
+    "ltn-space-exploration": ["code", "thumbnail"],
+    "MegaRPG": ["thumbnail"],
+    "miniloader-redux": ["code", "thumbnail"],
+    "Sceatorio-Natural-Spawns": ["description", "thumbnail"],
+    "stack-combinator-redux": ["code", "thumbnail"],
+    "train-tracker": ["code", "thumbnail"]
+}
