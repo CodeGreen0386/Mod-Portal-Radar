@@ -1,0 +1,45 @@
+name: Create report PR
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+jobs:
+  process:
+    if: contains(github.event.issue.labels.*.name, 'report')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Process report
+        env:
+          ISSUE_BODY: ${{github.event.issue.body}}
+        run: node report.js
+      - name: Commit and push
+        env:
+          ISSUE_NUMBER: ${{github.event.issue.number}}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "report/$ISSUE_NUMBER"
+          git add mods/
+          git commit -m "Report $ISSUE_NUMBER: $MOD_NAME"
+          git push origin "report/$ISSUE_NUMBER"
+      - name: Create pull request
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          REPO: ${{github.repository}}
+          ISSUE_NUMBER: ${{github.event.issue.number}}
+        run: |
+          curl -X POST \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/$REPO/pulls \
+            -d "{
+                \"title\": \"Report $ISSUE_NUMBER: $MOD_NAME\",
+                \"head\": \"report/$ISSUE_NUMBER\",
+                \"base\": \"master\"
+                \"body\": \"Generated from issue #$ISSUE_NUMBER.\"
+            }"
