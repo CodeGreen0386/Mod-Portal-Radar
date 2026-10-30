@@ -18,7 +18,7 @@ async function init() {
 
 function filter() {
     let pathname = window.location.pathname
-    if (pathname.startsWith("/browse") || pathname.startsWith("/search")) {
+    if (pathname === "/" || pathname.startsWith("/search") || pathname.startsWith("/browse")) {
         document.querySelectorAll('a[href*="/mod/"]').forEach((link) => {
             if (link.className === "result-field") return
 
