@@ -1,4 +1,5 @@
 {
+    "atrm": ["description", "thumbnail"],
     "auto-train-refuel": ["code", "thumbnail"],
     "custom-recipe-loader": ["code", "thumbnail"],
     "dimensional_storage": ["thumbnail"],
@@ -24,11 +25,13 @@
     "MegaRPG": ["thumbnail"],
     "miniloader-redux": ["code", "thumbnail"],
     "miniloader-redux-fork": ["code", "thumbnail"],
+    "no-aquilo": ["code", "thumbnail"],
     "RequesterChest": ["thumbnail"],
     "research-cost-divider": ["thumbnail"],
     "Sceatorio-Natural-Spawns": ["description", "thumbnail"],
     "se-train-browser": ["thumbnail"],
     "stack-combinator-redux": ["code", "thumbnail"],
+    "team-starts-expanded": ["description", "thumbnail"],
     "train-tracker": ["code", "thumbnail"],
     "wuastbude-miniloader": ["code", "thumbnail"]
 }
