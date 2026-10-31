@@ -119,6 +119,12 @@
         "text": false,
         "thumbnail": true
     },
+    "dark-matter-replicators-reborn": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "dimensional_storage": {
         "code": false,
         "graphics": false,
