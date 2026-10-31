@@ -83,6 +83,13 @@
         "text": false,
         "thumbnail": true
     },
+    "YKR_Quality_Cultivation": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "adjustable-quality": {
         "code": true,
         "graphics": false,
@@ -203,6 +210,13 @@
         "text": false,
         "thumbnail": true
     },
+    "exotic-space-industries-remembrance": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "factorio-admin-command-center-locales": {
         "code": false,
         "graphics": false,
@@ -257,6 +271,20 @@
         "text": false,
         "thumbnail": true
     },
+    "pipe-dream": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "pole_range_plus": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "productivity-through-science": {
         "code": false,
         "graphics": false,
@@ -298,6 +326,13 @@
         "graphics": false,
         "text": false,
         "thumbnail": true
+    },
+    "spidertrons-manager": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
     },
     "st-pollution-on-kill": {
         "code": false,
