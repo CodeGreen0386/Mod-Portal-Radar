@@ -34,28 +34,35 @@ function filter() {
             }
         }
 
-        let buttons = panel.querySelector(".mod-download-section")
+        createButton(panel, link)
+    })
+}
 
-        const mr12 = document.createElement("div")
-        mr12.className = "mr12"
-        buttons.insertBefore(buttons.appendChild(mr12), buttons.children[1])
+function createButton(panel, link) {
+    if (panel.querySelector("#report-ai-usage")) return
 
-        const button = document.createElement("button")
-        button.className = "button"
-        button.innerText = "Report"
-        button.title = "Report AI usage"
-        button.style.minWidth = "44px"
-        mr12.appendChild(button)
+    let buttons = panel.querySelector(".mod-download-section")
 
-        let modTitle = panel.querySelector(".result-field").innerText
+    const mr12 = document.createElement("div")
+    mr12.className = "mr12"
+    buttons.insertBefore(buttons.appendChild(mr12), buttons.children[1])
 
-        button.addEventListener("click", () => {
-            const url = new URL("https://github.com/CodeGreen0386/Mod-Portal-Radar/issues/new")
-            url.searchParams.set("template", "report-mod.yml")
-            url.searchParams.set("title", `Report: ${modTitle}`)
-            url.searchParams.set("url", link.href)
-            window.open(url)
-        })
+    const button = document.createElement("button")
+    button.id = "report-ai-usage"
+    button.className = "button"
+    button.innerText = "Report"
+    button.title = "Report AI usage"
+    button.style.minWidth = "44px"
+    mr12.appendChild(button)
+
+    let modTitle = panel.querySelector(".result-field").innerText
+
+    button.addEventListener("click", () => {
+        const url = new URL("https://github.com/CodeGreen0386/Mod-Portal-Radar/issues/new")
+        url.searchParams.set("template", "report-mod.yml")
+        url.searchParams.set("title", `Report: ${modTitle}`)
+        url.searchParams.set("url", link.href)
+        window.open(url)
     })
 }
 
