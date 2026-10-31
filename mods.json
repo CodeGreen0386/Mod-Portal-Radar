@@ -179,6 +179,12 @@
         "text": true,
         "thumbnail": true
     },
+    "global-storage": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "immersive_locomotives_fork": {
         "code": true,
         "graphics": false,
