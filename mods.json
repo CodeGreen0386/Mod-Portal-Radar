@@ -203,6 +203,13 @@
         "text": false,
         "thumbnail": true
     },
+    "exotic-space-industries-remembrance": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "factorio-admin-command-center-locales": {
         "code": false,
         "graphics": false,
