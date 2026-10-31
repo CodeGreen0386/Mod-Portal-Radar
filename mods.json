@@ -443,6 +443,13 @@
         "text": true,
         "thumbnail": true
     },
+    "train-foundry-stc": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "turbo_player": {
         "code": false,
         "graphics": false,
