@@ -6,20 +6,23 @@ async function init() {
 
     filter()
 
-    const observer = new MutationObserver(() => {
-        filter()
-    })
+    let results = document.getElementById("search-results")
+    if (results) {
+        const observer = new MutationObserver(() => {
+            filter()
+        })
 
-    observer.observe(document.getElementById("search-results"), {
-        childList: true,
-    })
+        observer.observe(results, {
+            childList: true,
+        })
+    }
 }
 
 function filter() {
     let pathname = window.location.pathname
     let shouldHide = pathname === "/" || pathname.startsWith("/search") || pathname.startsWith("/browse")
     document.querySelectorAll('a[href*="/mod/"]').forEach((link) => {
-        if (link.className === "result-field") return
+        if (link.className !== "block") return
 
         let panel = link
         for (let i = 0; i < 5; i++) {
@@ -55,7 +58,7 @@ function createButton(panel, link) {
     button.style.minWidth = "44px"
     mr12.appendChild(button)
 
-    let modTitle = panel.querySelector(".result-field").innerText
+    let modTitle = panel.querySelector("h2").innerText
 
     button.addEventListener("click", () => {
         const url = new URL("https://github.com/CodeGreen0386/Mod-Portal-Radar/issues/new")
