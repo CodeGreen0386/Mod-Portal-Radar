@@ -145,6 +145,13 @@
         "text": false,
         "thumbnail": true
     },
+    "angelbob-spaceage-rebalance": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "area-heating-tower": {
         "code": false,
         "graphics": true,
