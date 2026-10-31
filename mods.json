@@ -143,6 +143,12 @@
         "text": false,
         "thumbnail": true
     },
+    "berbcorp-lava-oil-landfill": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "big-pink-eraser": {
         "code": false,
         "graphics": false,
