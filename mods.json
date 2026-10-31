@@ -60,6 +60,13 @@
         "text": true,
         "thumbnail": true
     },
+    "PoweredFloorContinued": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "RExtended": {
         "code": false,
         "graphics": true,
