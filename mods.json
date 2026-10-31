@@ -167,6 +167,12 @@
         "text": true,
         "thumbnail": true
     },
+    "quality-control": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "radar_range_speed_control": {
         "code": true,
         "graphics": true,
