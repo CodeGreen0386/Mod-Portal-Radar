@@ -5,6 +5,12 @@
         "text": true,
         "thumbnail": true
     },
+    "MetalAndStarsSkin": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": false
+    },
     "atrm": {
         "code": false,
         "graphics": false,
