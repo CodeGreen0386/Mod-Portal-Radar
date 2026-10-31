@@ -71,6 +71,12 @@
         "text": true,
         "thumbnail": true
     },
+    "auto-build-and-deconstruct": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "auto-train-refuel": {
         "code": true,
         "graphics": false,
