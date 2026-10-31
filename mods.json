@@ -221,6 +221,12 @@
         "text": false,
         "thumbnail": true
     },
+    "productivity-through-science": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "py_ai_speed_module": {
         "code": true,
         "graphics": false,
