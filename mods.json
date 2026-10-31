@@ -131,6 +131,12 @@
         "text": false,
         "thumbnail": true
     },
+    "factorio-admin-command-center-locales": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "factorio-admin-command-center": {
         "code": false,
         "graphics": false,
