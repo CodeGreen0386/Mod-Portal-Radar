@@ -35,6 +35,12 @@
         "text": false,
         "thumbnail": true
     },
+    "tech-cards-retexture-AI-powered": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": false
+    },
     "turbo_player": {
         "code": false,
         "graphics": false,
