@@ -125,6 +125,12 @@
         "text": false,
         "thumbnail": true
     },
+    "big-pink-eraser": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "custom-recipe-loader": {
         "code": true,
         "graphics": false,
