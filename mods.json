@@ -95,6 +95,12 @@
         "text": false,
         "thumbnail": true
     },
+    "inicio_rapido": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "oxygen_survival": {
         "code": false,
         "graphics": true,
