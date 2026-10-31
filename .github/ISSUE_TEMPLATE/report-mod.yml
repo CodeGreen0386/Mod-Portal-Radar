@@ -4,10 +4,11 @@ title: "Report: "
 labels: ["report"]
 body:
   - type: input
-    id: name
+    id: url
     attributes:
-      label: Internal Name
-      description: The name of the mod used in the URL or zip file.
+      label: Mod URL
+      description: The link to the mod on the mod portal.
+      placeholder: https://mods.factorio.com/mod/<mod-name>
     validations:
       required: true
   - type: checkboxes
