@@ -23,6 +23,12 @@
         "text": false,
         "thumbnail": true
     },
+    "diode-combinator-redux": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "turbo_player": {
         "code": false,
         "graphics": false,
