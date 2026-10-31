@@ -51,11 +51,11 @@ function createButton(panel, link) {
     buttons.insertBefore(buttons.appendChild(mr12), buttons.children[1])
 
     const button = document.createElement("a")
-    button.id = "report-ai-usage"
     button.className = "button"
-    button.innerText = "Report"
+    button.id = "report-ai-usage"
     button.title = "Report AI usage"
     button.style.minWidth = "44px"
+    button.style.textAlign = "center"
     button.target = "_blank"
 
     let modTitle = panel.querySelector("h2").innerText
@@ -66,6 +66,11 @@ function createButton(panel, link) {
     button.href = url.toString()
 
     mr12.appendChild(button)
+
+    const flag = document.createElement("i")
+    flag.className = "fa-solid fa-flag"
+    button.appendChild(flag)
+    
 }
 
 init()
