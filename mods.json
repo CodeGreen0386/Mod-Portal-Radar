@@ -243,6 +243,13 @@
         "text": true,
         "thumbnail": true
     },
+    "crushing-industry-tweaks": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "custom-recipe-loader": {
         "code": true,
         "graphics": false,
