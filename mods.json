@@ -29,6 +29,12 @@
         "text": false,
         "thumbnail": true
     },
+    "adjustable-quality": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "ai-coworker": {
         "code": false,
         "graphics": false,
