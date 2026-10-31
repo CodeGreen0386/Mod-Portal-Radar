@@ -316,6 +316,13 @@
         "text": false,
         "thumbnail": false
     },
+    "ready-to-shoot-2": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "resource-editor-tool": {
         "code": false,
         "graphics": false,
