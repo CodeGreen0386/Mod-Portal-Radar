@@ -362,6 +362,13 @@
         "thumbnail": true,
         "other": false
     },
+    "faster-rocket-animations": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "fireproof-land-mines-2-0-port": {
         "code": false,
         "graphics": false,
