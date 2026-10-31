@@ -35,6 +35,12 @@
         "text": false,
         "thumbnail": false
     },
+    "PI-Instrumental-songs": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "PI-house-made-music": {
         "code": false,
         "graphics": false,
