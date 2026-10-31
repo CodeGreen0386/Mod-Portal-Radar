@@ -209,6 +209,12 @@
         "text": false,
         "thumbnail": true
     },
+    "space_teleport_v2": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "tech-cards-retexture-AI-powered": {
         "code": false,
         "graphics": true,
