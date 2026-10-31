@@ -233,6 +233,12 @@
         "text": true,
         "thumbnail": true
     },
+    "lazy-bastards-friend": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "oxygen_survival": {
         "code": false,
         "graphics": true,
