@@ -281,6 +281,12 @@
         "text": false,
         "thumbnail": true
     },
+    "space-age-easy-mode": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "space_teleport_v2": {
         "code": false,
         "graphics": false,
