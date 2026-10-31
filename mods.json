@@ -1,4 +1,10 @@
 {
+    "Deep_Core_Operations_cn": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "EditorPowerToggle": {
         "code": false,
         "graphics": false,
