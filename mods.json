@@ -65,6 +65,12 @@
         "text": false,
         "thumbnail": true
     },
+    "py_ai_speed_module": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "radar_range_speed_control": {
         "code": true,
         "graphics": true,
