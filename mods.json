@@ -1,38 +1,32 @@
 {
-    "atrm": ["text", "thumbnail"],
-    "auto-train-refuel": ["code", "thumbnail"],
-    "custom-recipe-loader": ["code", "thumbnail"],
-    "dimensional_storage": ["thumbnail"],
-    "diode-combinator-redux": ["code", "thumbnail"],
-    "EditorPowerToggle": ["text", "thumbnail"],
-    "efficient-flamethrowers": ["code", "text", "thumbnail"],
-    "electric-locomotives": ["code", "thumbnail"],
-    "entity-renamer": ["code"],
-    "even-distribution-updated": ["code"],
-    "even-pickier-dollies": ["code", "thumbnail"],
-    "exotic-space-industries-remembrance": ["code", "text", "thumbnail"],
-    "extended-underground-pipes": ["code", "thumbnail"],
-    "fiber-optics": ["code", "thumbnail"],
-    "filter-combinator-improved": ["code"],
-    "interstellar-progression-overhaul": ["text", "thumbnail"],
-    "inventory-sensor-improved": ["code", "thumbnail"],
-    "Kovarex": ["thumbnail"],
-    "lamp_led_display": ["code", "thumbnail"],
-    "LilEinstein": ["thumbnail"],
-    "logistics-sensor": ["code", "thumbnail"],
-    "ltn-train-info": ["code", "thumbnail"],
-    "ltn-space-exploration": ["code", "thumbnail"],
-    "MegaRPG": ["thumbnail"],
-    "miniloader-redux": ["code", "thumbnail"],
-    "miniloader-redux-fork": ["code", "thumbnail"],
-    "no-aquilo": ["code", "thumbnail"],
-    "RequesterChest": ["thumbnail"],
-    "research-cost-divider": ["thumbnail"],
-    "Sceatorio-Natural-Spawns": ["text", "thumbnail"],
-    "se-train-browser": ["thumbnail"],
-    "stack-combinator-redux": ["code", "thumbnail"],
-    "team-starts-expanded": ["text", "thumbnail"],
-    "train-tracker": ["code", "thumbnail"],
-    "UPS-silos": ["code", "thumbnail"],
-    "wuastbude-miniloader": ["code", "thumbnail"]
+    "atrm": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
+    "auto-train-refuel": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
+    "custom-recipe-loader": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
+    "dimensional_storage": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
+    "turbo_player": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    }
 }
