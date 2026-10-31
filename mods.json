@@ -47,6 +47,12 @@
         "text": true,
         "thumbnail": true
     },
+    "Unlimited_Inventory": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "VanillaReviseV2": {
         "code": false,
         "graphics": false,
