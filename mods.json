@@ -257,6 +257,12 @@
         "text": false,
         "thumbnail": true
     },
+    "st-pollution-on-kill": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "tech-cards-retexture-AI-powered": {
         "code": false,
         "graphics": true,
