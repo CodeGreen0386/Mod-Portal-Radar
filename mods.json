@@ -47,6 +47,12 @@
         "text": false,
         "thumbnail": true
     },
+    "radar_range_speed_control": {
+        "code": true,
+        "graphics": true,
+        "text": false,
+        "thumbnail": false
+    },
     "tech-cards-retexture-AI-powered": {
         "code": false,
         "graphics": true,
