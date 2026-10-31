@@ -95,6 +95,12 @@
         "text": false,
         "thumbnail": true
     },
+    "factorio-admin-command-center": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "immersive_locomotives_fork": {
         "code": true,
         "graphics": false,
