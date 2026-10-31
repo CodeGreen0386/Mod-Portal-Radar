@@ -11,6 +11,12 @@
         "text": true,
         "thumbnail": true
     },
+    "Instant-Crafting": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "KrastorioAirPurifier21": {
         "code": false,
         "graphics": false,
