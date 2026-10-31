@@ -129,6 +129,13 @@
         "thumbnail": true,
         "other": false
     },
+    "SpaceIndustryContinued": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "TeleportAnywhere": {
         "code": false,
         "graphics": false,
