@@ -13,6 +13,13 @@
         "thumbnail": true,
         "other": false
     },
+    "Compatibility-Mod-5D-and-bobspower": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "Compatibility-Mod-5D-and-bobswarfare": {
         "code": false,
         "graphics": false,
