@@ -35,6 +35,12 @@
         "text": false,
         "thumbnail": true
     },
+    "air-cleaning": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "air-logistics-tower": {
         "code": false,
         "graphics": false,
