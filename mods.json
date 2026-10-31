@@ -185,6 +185,12 @@
         "text": true,
         "thumbnail": true
     },
+    "fireproof-land-mines-2-0-port": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "global-storage": {
         "code": false,
         "graphics": false,
