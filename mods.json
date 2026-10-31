@@ -205,6 +205,13 @@
         "thumbnail": true,
         "other": false
     },
+    "auto-loader-chest": {
+        "code": true,
+        "graphics": true,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "auto-train-refuel": {
         "code": true,
         "graphics": false,
