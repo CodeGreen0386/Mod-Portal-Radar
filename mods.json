@@ -47,6 +47,12 @@
         "text": false,
         "thumbnail": true
     },
+    "air-scrubbing-ru": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "atrm": {
         "code": false,
         "graphics": false,
