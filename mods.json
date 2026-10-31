@@ -1,4 +1,11 @@
 {
+    "CzechTranslations": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "Deep_Core_Operations_cn": {
         "code": false,
         "graphics": false,
