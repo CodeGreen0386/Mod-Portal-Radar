@@ -166,6 +166,13 @@
         "thumbnail": true,
         "other": false
     },
+    "aquilo-start": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "area-heating-tower": {
         "code": false,
         "graphics": true,
