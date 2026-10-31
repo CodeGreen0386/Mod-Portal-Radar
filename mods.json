@@ -41,6 +41,12 @@
         "text": true,
         "thumbnail": true
     },
+    "TeleportFavorites": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "VanillaReviseV2": {
         "code": false,
         "graphics": false,
@@ -184,6 +190,12 @@
         "graphics": true,
         "text": false,
         "thumbnail": false
+    },
+    "resource-editor-tool": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
     },
     "tech-cards-retexture-AI-powered": {
         "code": false,
