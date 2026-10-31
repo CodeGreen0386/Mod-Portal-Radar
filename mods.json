@@ -271,6 +271,13 @@
         "text": false,
         "thumbnail": true
     },
+    "pipe-dream": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "productivity-through-science": {
         "code": false,
         "graphics": false,
