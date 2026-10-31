@@ -16,7 +16,7 @@ jobs:
       - name: Process report
         env:
           ISSUE_BODY: ${{github.event.issue.body}}
-        run: node report.js
+        run: node scripts/report.js
       - name: Commit and push
         env:
           ISSUE_NUMBER: ${{github.event.issue.number}}
