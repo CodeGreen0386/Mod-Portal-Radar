@@ -11,6 +11,12 @@
         "text": false,
         "thumbnail": false
     },
+    "ai_combinator": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "atrm": {
         "code": false,
         "graphics": false,
