@@ -255,6 +255,13 @@
         "text": true,
         "thumbnail": true
     },
+    "hmph-wiretap": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "immersive_locomotives_fork": {
         "code": true,
         "graphics": false,
