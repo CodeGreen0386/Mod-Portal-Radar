@@ -23,6 +23,12 @@
         "text": false,
         "thumbnail": false
     },
+    "PowerArmorMK11": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "VanillaReviseV2": {
         "code": false,
         "graphics": false,
