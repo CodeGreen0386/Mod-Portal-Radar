@@ -52,5 +52,11 @@
         "graphics": false,
         "text": true,
         "thumbnail": true
+    },
+    "xiuxian-english-translation": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": false
     }
 }
