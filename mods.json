@@ -143,6 +143,12 @@
         "text": false,
         "thumbnail": true
     },
+    "cliff-builder": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "custom-recipe-loader": {
         "code": true,
         "graphics": false,
