@@ -17,6 +17,12 @@
         "text": false,
         "thumbnail": true
     },
+    "ai-engineer": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "ai_combinator": {
         "code": false,
         "graphics": false,
