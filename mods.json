@@ -278,6 +278,13 @@
         "thumbnail": true,
         "other": false
     },
+    "pole_range_plus": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "productivity-through-science": {
         "code": false,
         "graphics": false,
