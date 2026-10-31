@@ -10,4 +10,4 @@ for (const file of files) {
     mods[name] = data
 }
 
-fs.writeSync("mods.json", JSON.stringify(mods, null, 4) + "\n")
+fs.writeFileSync("mods.json", JSON.stringify(mods, null, 4) + "\n")
