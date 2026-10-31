@@ -15,12 +15,13 @@ body:
     id: ai
     attributes:
       label: AI Usage
-      description: In what ways the mod uses AI.
+      description: In what ways the mod uses AI. (check all that apply)
       options:
         - label: Code
         - label: Graphics
         - label: Text
         - label: Thumbnail
+        - label: Other
   - type: textarea
     id: info
     attributes:
