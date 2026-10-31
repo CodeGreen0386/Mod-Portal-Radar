@@ -80,6 +80,13 @@
         "text": true,
         "thumbnail": true
     },
+    "SeaBlock-RU-Localization": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "TeleportAnywhere": {
         "code": false,
         "graphics": false,
