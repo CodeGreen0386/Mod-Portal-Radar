@@ -229,6 +229,13 @@
         "text": true,
         "thumbnail": true
     },
+    "factory-night-watch": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "fireproof-land-mines-2-0-port": {
         "code": false,
         "graphics": false,
