@@ -404,6 +404,13 @@
         "thumbnail": true,
         "other": false
     },
+    "sprint": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "st-pollution-on-kill": {
         "code": false,
         "graphics": false,
