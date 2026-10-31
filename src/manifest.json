@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Mod Portal Radar",
     "version": "1.0",
-    "description": "Tags or hides Factorio mods made with AI, using a community-maintained list.",
+    "description": "Hide and tag AI-involved Factorio mods, using a community-maintained database.",
     "permissions": ["storage", "alarms"],
 
     "browser_specific_settings": {
