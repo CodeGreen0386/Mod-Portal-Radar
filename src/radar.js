@@ -50,23 +50,22 @@ function createButton(panel, link) {
     mr12.className = "mr12"
     buttons.insertBefore(buttons.appendChild(mr12), buttons.children[1])
 
-    const button = document.createElement("button")
+    const button = document.createElement("a")
     button.id = "report-ai-usage"
     button.className = "button"
     button.innerText = "Report"
     button.title = "Report AI usage"
     button.style.minWidth = "44px"
-    mr12.appendChild(button)
+    button.target = "_blank"
 
     let modTitle = panel.querySelector("h2").innerText
+    const url = new URL("https://github.com/CodeGreen0386/Mod-Portal-Radar/issues/new")
+    url.searchParams.set("template", "report-mod.yml")
+    url.searchParams.set("title", `Report: ${modTitle}`)
+    url.searchParams.set("url", link.href)
+    button.href = url.toString()
 
-    button.addEventListener("click", () => {
-        const url = new URL("https://github.com/CodeGreen0386/Mod-Portal-Radar/issues/new")
-        url.searchParams.set("template", "report-mod.yml")
-        url.searchParams.set("title", `Report: ${modTitle}`)
-        url.searchParams.set("url", link.href)
-        window.open(url)
-    })
+    mr12.appendChild(button)
 }
 
 init()
