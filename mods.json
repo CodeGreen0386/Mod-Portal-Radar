@@ -17,6 +17,12 @@
         "text": false,
         "thumbnail": true
     },
+    "Li-VariationFactory": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "MetalAndStarsSkin": {
         "code": false,
         "graphics": true,
