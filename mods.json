@@ -1,4 +1,10 @@
 {
+    "EditorPowerToggle": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "atrm": {
         "code": false,
         "graphics": false,
