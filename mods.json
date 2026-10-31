@@ -11,6 +11,12 @@
         "text": false,
         "thumbnail": false
     },
+    "ai-coworker": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "ai_combinator": {
         "code": false,
         "graphics": false,
