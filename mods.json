@@ -53,6 +53,12 @@
         "text": true,
         "thumbnail": true
     },
+    "TeleportAnywhere": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "TeleportFavorites": {
         "code": false,
         "graphics": false,
