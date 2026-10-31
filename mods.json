@@ -107,6 +107,12 @@
         "text": true,
         "thumbnail": true
     },
+    "oxygen_survival_climate": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "py_ai_speed_module": {
         "code": true,
         "graphics": false,
