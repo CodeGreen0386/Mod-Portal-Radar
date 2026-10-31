@@ -1,8 +1,20 @@
 {
+    "Deep_Core_Operations_cn": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "EditorPowerToggle": {
         "code": false,
         "graphics": false,
         "text": true,
+        "thumbnail": true
+    },
+    "KrastorioAirPurifier21": {
+        "code": false,
+        "graphics": false,
+        "text": false,
         "thumbnail": true
     },
     "MetalAndStarsSkin": {
@@ -11,7 +23,73 @@
         "text": false,
         "thumbnail": false
     },
+    "PowerArmorMK11": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
+    "RiftRail": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
+    "VanillaReviseV2": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
+    "adjustable-quality": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
+    "ai-coworker": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
+    "ai-engineer": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
+    "ai_combinator": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
+    "air-cleaning": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
+    "air-logistics-tower": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
+    "air-scrubbing-ru": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "atrm": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
+    "auto-build-and-deconstruct": {
         "code": false,
         "graphics": false,
         "text": true,
@@ -41,11 +119,53 @@
         "text": false,
         "thumbnail": true
     },
+    "even-pickier-dollies": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
+    "factorio-admin-command-center": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "immersive_locomotives_fork": {
         "code": true,
         "graphics": false,
         "text": false,
         "thumbnail": true
+    },
+    "inicio_rapido": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
+    "oxygen_survival": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
+    "oxygen_survival_climate": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
+    "py_ai_speed_module": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
+    "radar_range_speed_control": {
+        "code": true,
+        "graphics": true,
+        "text": false,
+        "thumbnail": false
     },
     "tech-cards-retexture-AI-powered": {
         "code": false,
