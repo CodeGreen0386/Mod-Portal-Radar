@@ -11,7 +11,19 @@
         "text": true,
         "thumbnail": true
     },
+    "Instant-Crafting": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "KrastorioAirPurifier21": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
+    "Li-VariationFactory": {
         "code": false,
         "graphics": false,
         "text": false,
@@ -23,6 +35,18 @@
         "text": false,
         "thumbnail": false
     },
+    "PI-Instrumental-songs": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
+    "PI-house-made-music": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "PowerArmorMK11": {
         "code": true,
         "graphics": false,
@@ -33,6 +57,24 @@
         "code": false,
         "graphics": false,
         "text": true,
+        "thumbnail": true
+    },
+    "TeleportAnywhere": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
+    "TeleportFavorites": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
+    "Unlimited_Inventory": {
+        "code": false,
+        "graphics": false,
+        "text": false,
         "thumbnail": true
     },
     "VanillaReviseV2": {
@@ -83,6 +125,18 @@
         "text": false,
         "thumbnail": true
     },
+    "alternative-pentapod-egg-recipe": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
+    "area-heating-tower": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "atrm": {
         "code": false,
         "graphics": false,
@@ -101,10 +155,34 @@
         "text": false,
         "thumbnail": true
     },
+    "berbcorp-lava-oil-landfill": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
+    "big-pink-eraser": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
+    "cliff-builder": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "custom-recipe-loader": {
         "code": true,
         "graphics": false,
         "text": false,
+        "thumbnail": true
+    },
+    "dark-matter-replicators-reborn": {
+        "code": false,
+        "graphics": false,
+        "text": true,
         "thumbnail": true
     },
     "dimensional_storage": {
@@ -125,7 +203,25 @@
         "text": false,
         "thumbnail": true
     },
+    "factorio-admin-command-center-locales": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "factorio-admin-command-center": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
+    "fireproof-land-mines-2-0-port": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
+    "global-storage": {
         "code": false,
         "graphics": false,
         "text": true,
@@ -143,6 +239,12 @@
         "text": true,
         "thumbnail": true
     },
+    "lazy-bastards-friend": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "oxygen_survival": {
         "code": false,
         "graphics": true,
@@ -155,8 +257,20 @@
         "text": false,
         "thumbnail": true
     },
+    "productivity-through-science": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "py_ai_speed_module": {
         "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
+    "quality-control": {
+        "code": false,
         "graphics": false,
         "text": true,
         "thumbnail": true
@@ -167,11 +281,41 @@
         "text": false,
         "thumbnail": false
     },
+    "resource-editor-tool": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
+    "space-age-easy-mode": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
+    "space_teleport_v2": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
+    "st-pollution-on-kill": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "tech-cards-retexture-AI-powered": {
         "code": false,
         "graphics": true,
         "text": false,
         "thumbnail": false
+    },
+    "time-control": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
     },
     "turbo_player": {
         "code": false,
