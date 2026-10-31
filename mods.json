@@ -35,6 +35,12 @@
         "text": false,
         "thumbnail": false
     },
+    "PI-house-made-music": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "PowerArmorMK11": {
         "code": true,
         "graphics": false,
