@@ -111,6 +111,13 @@
         "text": false,
         "thumbnail": true
     },
+    "WePlayWindowOutputCombinator": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "YKR_Quality_Cultivation": {
         "code": false,
         "graphics": false,
