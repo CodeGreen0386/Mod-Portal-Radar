@@ -281,6 +281,12 @@
         "text": false,
         "thumbnail": false
     },
+    "time-control": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true
+    },
     "turbo_player": {
         "code": false,
         "graphics": false,
