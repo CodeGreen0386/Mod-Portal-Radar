@@ -18,6 +18,13 @@
         "text": true,
         "thumbnail": true
     },
+    "Hephaestus": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "Instant-Crafting": {
         "code": false,
         "graphics": false,
