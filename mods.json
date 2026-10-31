@@ -327,6 +327,13 @@
         "text": false,
         "thumbnail": true
     },
+    "spidertrons-manager": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "st-pollution-on-kill": {
         "code": false,
         "graphics": false,
