@@ -23,6 +23,12 @@
         "text": false,
         "thumbnail": false
     },
+    "VanillaReviseV2": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "ai-coworker": {
         "code": false,
         "graphics": false,
