@@ -95,6 +95,12 @@
         "text": false,
         "thumbnail": true
     },
+    "oxygen_survival": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "py_ai_speed_module": {
         "code": true,
         "graphics": false,
