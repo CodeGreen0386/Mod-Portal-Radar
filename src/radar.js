@@ -1,3 +1,5 @@
+const loggedIn = !document.querySelector('a[href^="/login"]')
+
 let mods = {}
 
 async function init() {
@@ -37,7 +39,9 @@ function filter() {
             }
         }
 
-        createButton(panel, link)
+        if (loggedIn) {
+            createButton(panel, link)
+        }
     })
 }
 
@@ -70,7 +74,6 @@ function createButton(panel, link) {
     const flag = document.createElement("i")
     flag.className = "fa-solid fa-flag"
     button.appendChild(flag)
-    
 }
 
 init()
