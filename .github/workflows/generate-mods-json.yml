@@ -1,0 +1,24 @@
+name: Generate mods.json
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'mods/**'
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Generate mods.json
+        run: node scripts/mods.js
+      - name: Commit mods.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add mods.json
+          git commit -m "Update mods.json"
+          git push
