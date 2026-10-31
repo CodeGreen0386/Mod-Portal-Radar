@@ -1,6 +1,6 @@
-import fs from "fs";
+import fs from "fs"
 
-const body = process.env.ISSUE_BODY;
+const body = process.env.ISSUE_BODY
 
 function getSection(name) {
     const re = new RegExp(`### ${name}\\s*\\n(.*?)(?=\\n### |$)`, "s")
@@ -30,7 +30,7 @@ const mod = {
     text: /- \[x\] Text/.test(aiUsage),
     thumbnail: /- \[x\] Thumbnail/.test(aiUsage),
     other: /- \[x\] Other/.test(aiUsage)
-};
+}
 
 fs.writeFileSync(output, JSON.stringify(mod, null, 4) + "\n")
 fs.appendFileSync(process.env.GITHUB_ENV, `MOD_NAME=${name}\n`)

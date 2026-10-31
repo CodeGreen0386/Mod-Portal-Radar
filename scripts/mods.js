@@ -6,7 +6,7 @@ const files = fs.readdirSync("mods")
 
 for (const file of files) {
     const name = file.replace(".json", "")
-    const data = JSON.parse(fs.readFileSync(`mods/${file}`, "utf8"));
+    const data = JSON.parse(fs.readFileSync(`mods/${file}`, "utf8"))
     mods[name] = data
 }
 

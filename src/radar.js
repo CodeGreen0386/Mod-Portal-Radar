@@ -1,8 +1,8 @@
-let mods = {};
+let mods = {}
 
 async function init() {
     const result = await browser.storage.local.get("mods")
-    mods = result.mods ?? {};
+    mods = result.mods ?? {}
 
     filter()
 
@@ -35,4 +35,4 @@ function filter() {
     }
 }
 
-init();
+init()
