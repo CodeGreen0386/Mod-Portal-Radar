@@ -7,8 +7,8 @@ function getSection(name) {
     return body.match(re)?.[1].trim() ?? ""
 }
 
-const URL = getSection("Mod URL")
-const parsedURL = new URL(URL)
+const rawURL = getSection("Mod URL")
+const parsedURL = new URL(rawURL)
 if (parsedURL.hostname !== "mods.factorio.com") {
     throw new Error("Invalid URL")
 }
