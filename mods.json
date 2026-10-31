@@ -35,6 +35,12 @@
         "text": false,
         "thumbnail": true
     },
+    "immersive_locomotives_fork": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "tech-cards-retexture-AI-powered": {
         "code": false,
         "graphics": true,
