@@ -421,6 +421,13 @@
         "thumbnail": true,
         "other": false
     },
+    "winter-is-coming": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "xiuxian-english-translation": {
         "code": false,
         "graphics": true,
