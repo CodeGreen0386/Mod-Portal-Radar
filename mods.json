@@ -299,6 +299,13 @@
         "text": true,
         "thumbnail": true
     },
+    "factorio-research-queue-for-space_age": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "factory-night-watch": {
         "code": true,
         "graphics": false,
