@@ -1,13 +1,13 @@
 name: Report Mod
 description: Report a mod for AI usage.
-title: "[Report]: "
+title: "Report: "
 labels: ["report"]
 body:
   - type: input
     id: name
     attributes:
       label: Internal Name
-      description: The name used in the URL or the zip file.
+      description: The name of the mod used in the URL or zip file.
     validations:
       required: true
   - type: checkboxes
