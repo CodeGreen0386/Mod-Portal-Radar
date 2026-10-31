@@ -153,6 +153,13 @@
         "text": false,
         "thumbnail": true
     },
+    "WePlayLightningRodEquipment": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "WePlayWindowOutputCombinator": {
         "code": false,
         "graphics": false,
