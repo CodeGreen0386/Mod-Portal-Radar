@@ -113,6 +113,12 @@
         "text": false,
         "thumbnail": true
     },
+    "area-heating-tower": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "atrm": {
         "code": false,
         "graphics": false,
