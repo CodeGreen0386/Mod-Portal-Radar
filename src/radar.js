@@ -34,7 +34,7 @@ function filter() {
             }
         }
 
-        let buttons = panel.children[1].children[0].children[1]
+        let buttons = panel.querySelector(".mod-download-section")
 
         const mr12 = document.createElement("div")
         mr12.className = "mr12"
@@ -46,6 +46,16 @@ function filter() {
         button.title = "Report AI usage"
         button.style.minWidth = "44px"
         mr12.appendChild(button)
+
+        let modTitle = panel.querySelector(".result-field").innerText
+
+        button.addEventListener("click", () => {
+            const url = new URL("https://github.com/CodeGreen0386/Mod-Portal-Radar/issues/new")
+            url.searchParams.set("template", "report-mod.yml")
+            url.searchParams.set("title", `Report: ${modTitle}`)
+            url.searchParams.set("url", link.href)
+            window.open(url)
+        })
     })
 }
 
