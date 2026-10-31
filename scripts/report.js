@@ -8,12 +8,12 @@ function getSection(name) {
 }
 
 const URL = getSection("Mod URL")
-const parsedURL = URL(URL)
+const parsedURL = new URL(URL)
 if (parsedURL.hostname !== "mods.factorio.com") {
     throw new Error("Invalid URL")
 }
 
-const name = URL.split("/mod/")[1]?.split("?")[0]
+const name = parsedURL.pathname.split("/mod/")[1]
 if (!name) {
     throw new Error("Missing mod name in URL")
 }
