@@ -119,6 +119,12 @@
         "text": false,
         "thumbnail": true
     },
+    "alternative-pentapod-egg-recipe": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true
+    },
     "area-heating-tower": {
         "code": false,
         "graphics": true,
