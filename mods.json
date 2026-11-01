@@ -103,6 +103,13 @@
         "text": true,
         "thumbnail": true
     },
+    "PlanetPadTeleporter": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "PowerArmorMK11": {
         "code": true,
         "graphics": false,
