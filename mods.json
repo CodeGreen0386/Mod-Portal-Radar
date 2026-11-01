@@ -369,6 +369,13 @@
         "thumbnail": true,
         "other": false
     },
+    "factorissimo-gadgetroch": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "factory-night-watch": {
         "code": true,
         "graphics": false,
