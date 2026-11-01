@@ -314,6 +314,13 @@
         "text": false,
         "thumbnail": true
     },
+    "car_defenes": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "cliff-builder": {
         "code": false,
         "graphics": false,
