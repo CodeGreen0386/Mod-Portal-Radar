@@ -71,6 +71,13 @@
         "text": false,
         "thumbnail": true
     },
+    "LilEinstein": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "MegaRPG": {
         "code": false,
         "graphics": false,
