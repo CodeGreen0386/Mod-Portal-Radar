@@ -123,6 +123,13 @@
         "thumbnail": true,
         "other": false
     },
+    "Quantum-Teleporter": {
+        "code": true,
+        "graphics": true,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "RExtended": {
         "code": false,
         "graphics": true,
