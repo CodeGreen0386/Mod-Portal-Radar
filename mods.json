@@ -574,6 +574,13 @@
         "text": false,
         "thumbnail": true
     },
+    "resource-outpost-planner": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "space-age-easy-mode": {
         "code": false,
         "graphics": false,
