@@ -46,6 +46,13 @@
         "text": true,
         "thumbnail": true
     },
+    "Exteros-QoL-System": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "Hephaestus": {
         "code": true,
         "graphics": false,
