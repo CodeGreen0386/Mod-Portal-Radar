@@ -502,6 +502,13 @@
         "thumbnail": true,
         "other": false
     },
+    "pocket-planner": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "pocket-supply": {
         "code": false,
         "graphics": false,
