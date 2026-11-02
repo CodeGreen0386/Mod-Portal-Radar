@@ -367,6 +367,13 @@
         "text": true,
         "thumbnail": true
     },
+    "default-quickbar": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "dimensional_storage": {
         "code": false,
         "graphics": false,
@@ -462,6 +469,13 @@
         "graphics": true,
         "text": true,
         "thumbnail": true
+    },
+    "k2-standalone-balance": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
     },
     "lazy-bastards-friend": {
         "code": false,
@@ -571,6 +585,13 @@
         "text": true,
         "thumbnail": true
     },
+    "stackwise-circuits": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "tech-cards-retexture-AI-powered": {
         "code": false,
         "graphics": true,
@@ -615,5 +636,12 @@
         "graphics": true,
         "text": true,
         "thumbnail": false
+    },
+    "yuoki-quinityn": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
     }
 }
