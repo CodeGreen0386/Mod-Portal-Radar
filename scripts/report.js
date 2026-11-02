@@ -19,9 +19,9 @@ if (!name) {
 }
 
 const output = `mods/${name}.json`
-if (fs.existsSync(output)) {
-    throw new Error("Mod already exists") // TODO: change to allow updating of checkboxes
-}
+// if (fs.existsSync(output)) {
+//     throw new Error("Mod already exists")
+// }
 
 const aiUsage = getSection("AI Usage")
 const mod = {
