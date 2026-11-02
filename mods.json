@@ -529,6 +529,13 @@
         "text": false,
         "thumbnail": true
     },
+    "py-better-caravans": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "py_ai_speed_module": {
         "code": true,
         "graphics": false,
