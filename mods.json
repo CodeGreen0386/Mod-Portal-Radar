@@ -536,6 +536,13 @@
         "thumbnail": true,
         "other": false
     },
+    "py-caravan-swarm": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "py_ai_speed_module": {
         "code": true,
         "graphics": false,
