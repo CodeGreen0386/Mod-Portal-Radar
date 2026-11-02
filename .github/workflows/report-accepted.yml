@@ -2,9 +2,6 @@ name: Report accepted
 on:
   issues:
     types: [labeled]
-concurrency:
-  group: ${{github.workflow}}
-  cancel-in-progress: false
 permissions:
   contents: write
   issues: write
