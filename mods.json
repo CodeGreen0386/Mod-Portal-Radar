@@ -530,7 +530,7 @@
         "thumbnail": true
     },
     "py-better-caravans": {
-        "code": false,
+        "code": true,
         "graphics": false,
         "text": false,
         "thumbnail": true,
