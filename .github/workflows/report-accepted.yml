@@ -26,10 +26,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add mods/
-          git commit -m "Report $ISSUE_NUMBER: $MOD_NAME"
+          git commit -m "Report #$ISSUE_NUMBER: $MOD_NAME"
           git push origin master
       - name: Close issue
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
           ISSUE_NUMBER: ${{github.event.issue.number}}
-        run: gh issue close "ISSUE_NUMBER" --reason completed
+        run: gh issue close "$ISSUE_NUMBER" --reason completed
