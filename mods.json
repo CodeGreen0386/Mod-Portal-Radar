@@ -335,6 +335,13 @@
         "text": false,
         "thumbnail": true
     },
+    "bot-priority": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "car_defenes": {
         "code": false,
         "graphics": false,
