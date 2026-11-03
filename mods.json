@@ -6,6 +6,13 @@
         "thumbnail": true,
         "other": false
     },
+    "Aquilo_Ofenhocker": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "Compatibility-Mod-5D-and-bobsassembly": {
         "code": false,
         "graphics": false,
@@ -210,6 +217,13 @@
         "graphics": false,
         "text": true,
         "thumbnail": true
+    },
+    "Thud": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
     },
     "UTLogistics": {
         "code": true,
