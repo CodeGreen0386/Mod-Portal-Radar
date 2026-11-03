@@ -677,6 +677,13 @@
         "thumbnail": true,
         "other": false
     },
+    "pressure-barrel": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "production-ratio": {
         "code": false,
         "graphics": false,
