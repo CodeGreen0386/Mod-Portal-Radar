@@ -216,6 +216,13 @@
         "thumbnail": false,
         "other": false
     },
+    "WePlayRocketLauncherEquipment": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "WePlayWindowOutputCombinator": {
         "code": false,
         "graphics": false,
