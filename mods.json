@@ -614,6 +614,13 @@
         "text": false,
         "thumbnail": true
     },
+    "speedy_bots": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "spidertrons-manager": {
         "code": false,
         "graphics": false,
