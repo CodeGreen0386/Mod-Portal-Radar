@@ -750,6 +750,13 @@
         "thumbnail": true,
         "other": false
     },
+    "real-industrial-chemistry": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "resource-editor-tool": {
         "code": false,
         "graphics": false,
