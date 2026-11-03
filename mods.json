@@ -10,7 +10,7 @@
         "code": true,
         "graphics": false,
         "text": true,
-        "thumbnail": true,
+        "thumbnail": false,
         "other": false
     },
     "Compatibility-Mod-5D-and-bobsassembly": {
