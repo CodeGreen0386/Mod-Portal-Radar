@@ -204,6 +204,13 @@
         "text": true,
         "thumbnail": true
     },
+    "UTLogistics": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "Unlimited_Inventory": {
         "code": false,
         "graphics": false,
