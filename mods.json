@@ -499,6 +499,13 @@
         "text": false,
         "thumbnail": true
     },
+    "industrial-worlds": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "inicio_rapido": {
         "code": true,
         "graphics": true,
