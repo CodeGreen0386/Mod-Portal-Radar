@@ -67,6 +67,13 @@
         "thumbnail": true,
         "other": false
     },
+    "Fulgora_Replicators": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "Hephaestus": {
         "code": true,
         "graphics": false,
@@ -203,6 +210,13 @@
         "graphics": false,
         "text": true,
         "thumbnail": true
+    },
+    "UTLogistics": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
     },
     "Unlimited_Inventory": {
         "code": false,
