@@ -6,7 +6,7 @@ on:
     paths:
       - 'mods/**'
 concurrency:
-  group: ${{github.workflow}}
+  group: push
   cancel-in-progress: false
 permissions:
   contents: write
