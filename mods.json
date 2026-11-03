@@ -81,6 +81,13 @@
         "thumbnail": true,
         "other": false
     },
+    "Haystack": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "Hephaestus": {
         "code": true,
         "graphics": false,
