@@ -477,6 +477,13 @@
         "text": true,
         "thumbnail": true
     },
+    "interstellar-progression-overhaul": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "k2-standalone-balance": {
         "code": true,
         "graphics": false,
