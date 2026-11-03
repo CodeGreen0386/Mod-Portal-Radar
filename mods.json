@@ -1,4 +1,11 @@
 {
+    "ABS-FriendsGPTComp": {
+        "code": true,
+        "graphics": true,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "Compatibility-Mod-5D-and-bobsassembly": {
         "code": false,
         "graphics": false,
