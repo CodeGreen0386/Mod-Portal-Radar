@@ -763,6 +763,13 @@
         "thumbnail": true,
         "other": false
     },
+    "russian-bobs-angels": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "space-age-easy-mode": {
         "code": false,
         "graphics": false,
