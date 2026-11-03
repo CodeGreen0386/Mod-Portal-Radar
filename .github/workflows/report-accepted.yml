@@ -4,7 +4,7 @@ on:
     types: [labeled]
 concurrency:
   group: push
-  cancel-in-progress: false
+  queue: max
 permissions:
   contents: write
   issues: write

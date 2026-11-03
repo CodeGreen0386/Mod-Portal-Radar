@@ -7,7 +7,7 @@ on:
       - 'mods/**'
 concurrency:
   group: push
-  cancel-in-progress: false
+  queue: max
 permissions:
   contents: write
 jobs:
