@@ -1,6 +1,6 @@
 # Mod Portal Radar
 
-Hide and tag AI-involved Factorio mods, using a community-maintained database.
+Hide and tag Factorio mods with AI usage, powered by a community-maintained database.
 
 ## Installation
 
