@@ -306,6 +306,13 @@
         "thumbnail": false,
         "other": false
     },
+    "arabic-complete": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "area-heating-tower": {
         "code": false,
         "graphics": true,
