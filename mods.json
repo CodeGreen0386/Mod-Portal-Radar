@@ -306,6 +306,13 @@
         "thumbnail": false,
         "other": false
     },
+    "arabic-complete": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "area-heating-tower": {
         "code": false,
         "graphics": true,
@@ -491,6 +498,13 @@
         "graphics": false,
         "text": false,
         "thumbnail": true
+    },
+    "industrial-worlds": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
     },
     "inicio_rapido": {
         "code": true,
