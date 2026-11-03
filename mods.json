@@ -646,6 +646,13 @@
         "thumbnail": true,
         "other": false
     },
+    "train-interiors": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "turbo_player": {
         "code": false,
         "graphics": false,
