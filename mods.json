@@ -511,6 +511,13 @@
         "text": true,
         "thumbnail": true
     },
+    "nomad": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "oxygen_survival": {
         "code": false,
         "graphics": true,
