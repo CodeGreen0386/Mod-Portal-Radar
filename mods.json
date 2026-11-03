@@ -623,6 +623,13 @@
         "thumbnail": true,
         "other": false
     },
+    "maritime-industry": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "nomad": {
         "code": false,
         "graphics": false,
