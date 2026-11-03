@@ -634,6 +634,13 @@
         "thumbnail": true,
         "other": false
     },
+    "tanvec-ai-cn": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "tech-cards-retexture-AI-powered": {
         "code": false,
         "graphics": true,
