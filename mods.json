@@ -647,6 +647,13 @@
         "text": false,
         "thumbnail": false
     },
+    "thats-no-rock": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "time-control": {
         "code": false,
         "graphics": false,
