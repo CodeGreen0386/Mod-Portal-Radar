@@ -225,6 +225,13 @@
         "text": true,
         "thumbnail": true
     },
+    "The_Beast": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "Thud": {
         "code": true,
         "graphics": false,
