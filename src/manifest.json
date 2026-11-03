@@ -2,12 +2,12 @@
     "manifest_version": 3,
     "name": "Mod Portal Radar",
     "version": "1.0",
-    "description": "Hide and tag AI-involved Factorio mods, using a community-maintained database.",
+    "description": "Hide and tag Factorio mods with AI usage, powered by a community-maintained database.",
     "permissions": ["storage", "alarms"],
 
     "browser_specific_settings": {
         "gecko": {
-            "id": "ModPortalRadar@mozilla.org",
+            "id": "Mod-Portal-Radar@github.com",
             "data_collection_permissions": {
                 "required": ["none"]
             }
