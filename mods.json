@@ -1436,6 +1436,13 @@
         "text": false,
         "thumbnail": false
     },
+    "radioactive-elements": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "razi-more-asteroids": {
         "code": false,
         "graphics": false,
