@@ -726,6 +726,13 @@
         "text": false,
         "thumbnail": true
     },
+    "personal-autocraft": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "personal-repair-network": {
         "code": false,
         "graphics": false,
