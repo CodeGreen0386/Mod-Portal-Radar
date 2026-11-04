@@ -684,6 +684,13 @@
         "thumbnail": true,
         "other": false
     },
+    "planet-crafter-nauvis": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "pocket-planner": {
         "code": true,
         "graphics": false,
