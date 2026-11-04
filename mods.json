@@ -269,6 +269,13 @@
         "thumbnail": true,
         "other": false
     },
+    "SpacePlatformOrgUI-Enhanced": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "TeleportAnywhere": {
         "code": false,
         "graphics": false,
