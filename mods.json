@@ -890,6 +890,13 @@
         "thumbnail": true,
         "other": false
     },
+    "easy-materials-2-1-ready": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "estrogen-mod": {
         "code": false,
         "graphics": false,
