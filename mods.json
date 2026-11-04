@@ -764,6 +764,13 @@
         "thumbnail": true,
         "other": false
     },
+    "berbcorp-item-stack-tuning": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "berbcorp-lane-balancers": {
         "code": false,
         "graphics": false,
