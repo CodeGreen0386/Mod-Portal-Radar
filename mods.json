@@ -1078,6 +1078,13 @@
         "thumbnail": true,
         "other": false
     },
+    "sanity-check": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "space-age-easy-mode": {
         "code": false,
         "graphics": false,
