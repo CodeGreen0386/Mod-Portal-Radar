@@ -342,6 +342,13 @@
         "thumbnail": true,
         "other": false
     },
+    "YKR_NewStartGame": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "YKR_Quality_Cultivation": {
         "code": false,
         "graphics": false,
