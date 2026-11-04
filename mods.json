@@ -101,6 +101,13 @@
         "text": false,
         "thumbnail": true
     },
+    "Inventory-Declutter-Pocket-Dimension": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "KrastorioAirPurifier21": {
         "code": false,
         "graphics": false,
