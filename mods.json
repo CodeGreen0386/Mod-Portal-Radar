@@ -757,6 +757,13 @@
         "thumbnail": true,
         "other": false
     },
+    "dustline": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "early-elevated-rails": {
         "code": true,
         "graphics": false,
