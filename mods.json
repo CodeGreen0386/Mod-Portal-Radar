@@ -1,4 +1,11 @@
 {
+    "ABS-CosmoDroneGPTComp": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "ABS-FriendsGPTComp": {
         "code": true,
         "graphics": true,
