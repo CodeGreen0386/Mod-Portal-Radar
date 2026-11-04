@@ -719,6 +719,13 @@
         "thumbnail": true,
         "other": false
     },
+    "fast-start-2": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "faster-rocket-animations": {
         "code": false,
         "graphics": false,
