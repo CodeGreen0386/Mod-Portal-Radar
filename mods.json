@@ -658,6 +658,13 @@
         "thumbnail": true,
         "other": false
     },
+    "berbcorp-warehousing": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "better-pumpjacks": {
         "code": false,
         "graphics": false,
