@@ -560,6 +560,13 @@
         "text": true,
         "thumbnail": true
     },
+    "better-pumpjacks": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "big-pink-eraser": {
         "code": false,
         "graphics": false,
