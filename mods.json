@@ -930,6 +930,13 @@
         "thumbnail": true,
         "other": false
     },
+    "caesium": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "car_defenes": {
         "code": false,
         "graphics": false,
