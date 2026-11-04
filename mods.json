@@ -638,6 +638,20 @@
         "thumbnail": true,
         "other": false
     },
+    "berbcorp-biochamber-no-egg": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-cheaper-foundations": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "berbcorp-coal-oil-assembler": {
         "code": false,
         "graphics": false,
@@ -724,6 +738,13 @@
     "berbcorp-threshold-valves": {
         "code": false,
         "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-upgrade-cargo-bay-slots": {
+        "code": false,
+        "graphics": false,
         "text": true,
         "thumbnail": true,
         "other": false
@@ -1163,6 +1184,13 @@
         "other": false
     },
     "no-biter-egg-recipe-productivity-module-3": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "no-spoilage-recipe-efficiency-module-3": {
         "code": false,
         "graphics": false,
         "text": true,
