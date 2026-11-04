@@ -1674,6 +1674,13 @@
         "thumbnail": true,
         "other": false
     },
+    "very-fluffy": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "where-dat-is": {
         "code": false,
         "graphics": false,
