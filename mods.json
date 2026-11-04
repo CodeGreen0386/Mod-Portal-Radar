@@ -384,6 +384,13 @@
         "thumbnail": true,
         "other": false
     },
+    "YKR_inventory_100slot": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "YKR_inventory_500slot": {
         "code": false,
         "graphics": false,
