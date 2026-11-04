@@ -659,6 +659,13 @@
         "thumbnail": true,
         "other": false
     },
+    "berbcorp-infinite-resources-ups-safe": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "berbcorp-inserter-control": {
         "code": false,
         "graphics": false,
