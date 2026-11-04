@@ -1071,6 +1071,13 @@
         "text": false,
         "thumbnail": true
     },
+    "even_distribution": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "exotic-space-industries-remembrance": {
         "code": true,
         "graphics": false,
