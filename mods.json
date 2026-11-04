@@ -714,6 +714,13 @@
         "thumbnail": true,
         "other": false
     },
+    "berbcorp-upgrade-personal-trash-slots": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "berbcorp-uses-more-long-inserters": {
         "code": false,
         "graphics": false,
