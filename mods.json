@@ -911,6 +911,13 @@
         "thumbnail": true,
         "other": false
     },
+    "just-one-last-task": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "k2-standalone-balance": {
         "code": true,
         "graphics": false,
