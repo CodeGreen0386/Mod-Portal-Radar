@@ -964,6 +964,13 @@
         "text": true,
         "thumbnail": true
     },
+    "cma-graphics": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "coal-oil-2-1-ready": {
         "code": false,
         "graphics": false,
