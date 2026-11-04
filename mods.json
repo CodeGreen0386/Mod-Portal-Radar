@@ -1120,6 +1120,13 @@
         "thumbnail": true,
         "other": false
     },
+    "self-expanding-blueprints": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "space-age-easy-mode": {
         "code": false,
         "graphics": false,
