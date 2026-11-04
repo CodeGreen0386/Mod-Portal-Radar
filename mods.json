@@ -753,7 +753,7 @@
     "berbcorp-expansion-harness": {
         "code": false,
         "graphics": false,
-        "text": false,
+        "text": true,
         "thumbnail": true,
         "other": false
     },
