@@ -349,6 +349,13 @@
         "text": false,
         "thumbnail": true
     },
+    "Vehicle-Teleportator": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "WePlayBurnerModule": {
         "code": false,
         "graphics": false,
