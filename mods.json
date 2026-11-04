@@ -637,6 +637,13 @@
         "text": true,
         "thumbnail": true
     },
+    "berbcorp-loaders": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "better-pumpjacks": {
         "code": false,
         "graphics": false,
