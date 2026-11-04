@@ -20,6 +20,13 @@
         "thumbnail": false,
         "other": false
     },
+    "Atmos-Shotgun-Tiers": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "BRCombinator": {
         "code": false,
         "graphics": false,
