@@ -356,6 +356,13 @@
         "thumbnail": true,
         "other": false
     },
+    "YKR_PTBR": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "YKR_Quality_Cultivation": {
         "code": false,
         "graphics": false,
