@@ -76,6 +76,13 @@
         "thumbnail": true,
         "other": false
     },
+    "DCO-Tweaks": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "Deep_Core_Operations_cn": {
         "code": false,
         "graphics": false,
