@@ -655,7 +655,7 @@
     "berbcorp-belts": {
         "code": false,
         "graphics": false,
-        "text": false,
+        "text": true,
         "thumbnail": true,
         "other": false
     },
