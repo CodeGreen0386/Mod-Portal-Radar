@@ -300,6 +300,13 @@
         "thumbnail": false,
         "other": false
     },
+    "YKR_Logistic_Chests": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "YKR_Quality_Cultivation": {
         "code": false,
         "graphics": false,
