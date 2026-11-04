@@ -335,6 +335,13 @@
         "thumbnail": false,
         "other": false
     },
+    "WePlaySpaceAge": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "WePlayWindowOutputCombinator": {
         "code": false,
         "graphics": false,
