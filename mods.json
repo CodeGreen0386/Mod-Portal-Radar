@@ -1003,6 +1003,13 @@
         "thumbnail": true,
         "other": false
     },
+    "trainConstructionSiteFork": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "turbo_player": {
         "code": false,
         "graphics": false,
