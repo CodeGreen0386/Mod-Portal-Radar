@@ -810,6 +810,13 @@
         "text": true,
         "thumbnail": true
     },
+    "coal-oil-2-1-ready": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "colonial-horizons": {
         "code": true,
         "graphics": false,
