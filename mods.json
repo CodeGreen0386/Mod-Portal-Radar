@@ -657,6 +657,13 @@
         "thumbnail": true,
         "other": false
     },
+    "brave-new-mts": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "car_defenes": {
         "code": false,
         "graphics": false,
