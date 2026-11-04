@@ -918,6 +918,13 @@
         "thumbnail": true,
         "other": false
     },
+    "land-title-registry": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "lazy-bastards-friend": {
         "code": false,
         "graphics": false,
