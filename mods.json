@@ -1559,7 +1559,7 @@
         "code": false,
         "graphics": true,
         "text": true,
-        "thumbnail": false,
+        "thumbnail": true,
         "other": false
     },
     "razi-more-asteroids": {
