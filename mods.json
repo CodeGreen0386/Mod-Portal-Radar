@@ -624,6 +624,13 @@
         "thumbnail": true,
         "other": false
     },
+    "berbcorp-area-cleaner": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "berbcorp-barrel-capacity": {
         "code": false,
         "graphics": false,
@@ -645,7 +652,49 @@
         "thumbnail": true,
         "other": false
     },
+    "berbcorp-biolab-no-biter-egg-needed": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-cheaper-artificial-yumako-soil": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "berbcorp-cheaper-foundations": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-cheaper-ice-platform": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-cheaper-landfill": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-cheaper-overgrowth-jellynut-soil": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-cheaper-overgrowth-yumako-soil": {
         "code": false,
         "graphics": false,
         "text": true,
@@ -1191,6 +1240,13 @@
         "other": false
     },
     "no-spoilage-recipe-efficiency-module-3": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "no-tungsten-recipe-speed-module-3": {
         "code": false,
         "graphics": false,
         "text": true,
