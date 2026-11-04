@@ -783,6 +783,13 @@
         "thumbnail": true,
         "other": false
     },
+    "cargo-landing-pad-logistics": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "circuit-box": {
         "code": true,
         "graphics": false,
