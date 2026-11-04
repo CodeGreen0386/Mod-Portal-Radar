@@ -1323,6 +1323,13 @@
         "thumbnail": true,
         "other": false
     },
+    "neodymium": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "no-biter-egg-recipe-productivity-module-3": {
         "code": false,
         "graphics": false,
