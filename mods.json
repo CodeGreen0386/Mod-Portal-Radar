@@ -1099,6 +1099,13 @@
         "text": true,
         "thumbnail": true
     },
+    "logistic-network-grids": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "logistic-reactors-2-fixed": {
         "code": false,
         "graphics": false,
