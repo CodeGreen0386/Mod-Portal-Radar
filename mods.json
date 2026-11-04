@@ -707,9 +707,23 @@
         "thumbnail": true,
         "other": false
     },
+    "berbcorp-no-biter-egg-overgrowth-soil": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "berbcorp-pipe-to-ground-tier-2": {
         "code": false,
         "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-threshold-valves": {
+        "code": false,
+        "graphics": true,
         "text": true,
         "thumbnail": true,
         "other": false
@@ -1547,7 +1561,28 @@
         "thumbnail": true,
         "other": false
     },
+    "zzz-berbcorp-no-aquilo-belt-freeze": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "zzz-berbcorp-no-aquilo-fluid-freeze": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "zzz-berbcorp-no-aquilo-pumpjack-freeze": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "zzz-berbcorp-roboport-dont-freeze-on-aquilo": {
         "code": false,
         "graphics": false,
         "text": true,
