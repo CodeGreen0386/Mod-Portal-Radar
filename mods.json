@@ -140,6 +140,13 @@
         "thumbnail": true,
         "other": false
     },
+    "MtnFortressAddonsPt2": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "PI-Instrumental-songs": {
         "code": true,
         "graphics": false,
