@@ -519,6 +519,13 @@
         "thumbnail": false,
         "other": false
     },
+    "even-better-deconstruction-planner": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "even-pickier-dollies": {
         "code": false,
         "graphics": false,
