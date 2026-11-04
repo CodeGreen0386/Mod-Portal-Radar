@@ -714,6 +714,13 @@
         "thumbnail": true,
         "other": false
     },
+    "mining-yield-multiplier": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "nomad": {
         "code": false,
         "graphics": false,
