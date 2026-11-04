@@ -617,6 +617,13 @@
         "text": false,
         "thumbnail": true
     },
+    "berbcorp-barrel-capacity": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "berbcorp-belts": {
         "code": false,
         "graphics": false,
