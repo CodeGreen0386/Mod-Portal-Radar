@@ -300,6 +300,13 @@
         "text": false,
         "thumbnail": true
     },
+    "WePlayBurnerModule": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "WePlayChooChooTaxi": {
         "code": false,
         "graphics": false,
