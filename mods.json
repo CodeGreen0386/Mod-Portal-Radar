@@ -461,6 +461,13 @@
         "thumbnail": true,
         "other": false
     },
+    "circuit-box": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "cliff-builder": {
         "code": false,
         "graphics": false,
