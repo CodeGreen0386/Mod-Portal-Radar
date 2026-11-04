@@ -321,6 +321,13 @@
         "thumbnail": true,
         "other": false
     },
+    "WePlayJunkCannon": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "WePlayLightningRodEquipment": {
         "code": false,
         "graphics": false,
