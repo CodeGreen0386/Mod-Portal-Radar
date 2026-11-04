@@ -1037,6 +1037,13 @@
         "thumbnail": true,
         "other": false
     },
+    "resource-balance": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "resource-editor-tool": {
         "code": false,
         "graphics": false,
