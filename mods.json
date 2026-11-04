@@ -1121,6 +1121,13 @@
         "thumbnail": true,
         "other": false
     },
+    "research-cost-shaper": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "resource-balance": {
         "code": false,
         "graphics": false,
