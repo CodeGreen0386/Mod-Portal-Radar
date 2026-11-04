@@ -384,6 +384,13 @@
         "thumbnail": false,
         "other": false
     },
+    "WePlayMrFusion": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "WePlayRocketLauncherEquipment": {
         "code": false,
         "graphics": false,
