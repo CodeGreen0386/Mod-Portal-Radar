@@ -1344,6 +1344,13 @@
         "thumbnail": true,
         "other": false
     },
+    "molybdenum": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "mts-dimension-warp": {
         "code": true,
         "graphics": false,
