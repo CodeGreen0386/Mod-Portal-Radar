@@ -631,6 +631,13 @@
         "thumbnail": true,
         "other": false
     },
+    "berbcorp-coal-oil-assembler": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "berbcorp-electro-heater": {
         "code": false,
         "graphics": false,
