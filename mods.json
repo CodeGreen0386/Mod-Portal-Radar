@@ -638,6 +638,13 @@
         "thumbnail": true,
         "other": false
     },
+    "berbcorp-double-heat-pipe-heating-radius": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "berbcorp-electro-heater": {
         "code": false,
         "graphics": false,
