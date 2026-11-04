@@ -363,6 +363,13 @@
         "thumbnail": true,
         "other": false
     },
+    "YKR_Stake_Size": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "YKR_inventory": {
         "code": false,
         "graphics": false,
