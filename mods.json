@@ -533,6 +533,13 @@
         "text": false,
         "thumbnail": true
     },
+    "disco-science-lite": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "estrogen-mod": {
         "code": false,
         "graphics": false,
