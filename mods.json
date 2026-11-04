@@ -1146,6 +1146,13 @@
         "thumbnail": true,
         "other": false
     },
+    "factory-levels": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "factory-night-watch": {
         "code": true,
         "graphics": false,
