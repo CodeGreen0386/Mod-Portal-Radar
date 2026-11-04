@@ -356,6 +356,13 @@
         "thumbnail": true,
         "other": false
     },
+    "YKR_inventory": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "YRK_underground_belts": {
         "code": false,
         "graphics": false,
