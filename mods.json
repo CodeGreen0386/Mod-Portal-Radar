@@ -726,6 +726,13 @@
         "thumbnail": true,
         "other": false
     },
+    "factorio_llm_use": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "factorissimo-gadgetroch": {
         "code": true,
         "graphics": false,
