@@ -568,6 +568,13 @@
         "thumbnail": true,
         "other": false
     },
+    "early-elevated-rails": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "estrogen-mod": {
         "code": false,
         "graphics": false,
