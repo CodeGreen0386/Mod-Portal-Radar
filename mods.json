@@ -20,6 +20,13 @@
         "thumbnail": false,
         "other": false
     },
+    "BeaconAdjust": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "Compatibility-Mod-5D-and-bobsassembly": {
         "code": false,
         "graphics": false,
