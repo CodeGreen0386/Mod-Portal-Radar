@@ -1682,9 +1682,9 @@
         "thumbnail": true
     },
     "tweaked-computers": {
-        "code": false,
+        "code": true,
         "graphics": false,
-        "text": false,
+        "text": true,
         "thumbnail": false,
         "other": false
     },
