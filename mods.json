@@ -717,6 +717,13 @@
         "thumbnail": true,
         "other": false
     },
+    "diggy": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "dimensional_storage": {
         "code": false,
         "graphics": false,
