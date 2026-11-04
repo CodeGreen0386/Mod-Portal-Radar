@@ -491,6 +491,13 @@
         "text": false,
         "thumbnail": true
     },
+    "estrogen-mod": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "even-pickier-dollies": {
         "code": false,
         "graphics": false,
