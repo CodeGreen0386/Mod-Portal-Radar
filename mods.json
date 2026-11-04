@@ -952,6 +952,13 @@
         "thumbnail": true,
         "other": false
     },
+    "mts-dimension-warp": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "multi-team-support": {
         "code": true,
         "graphics": false,
