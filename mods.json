@@ -1426,6 +1426,13 @@
         "thumbnail": true,
         "other": false
     },
+    "phosphorus": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "pipe-dream": {
         "code": false,
         "graphics": false,
