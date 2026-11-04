@@ -1207,6 +1207,13 @@
         "text": true,
         "thumbnail": true
     },
+    "hive-mind": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "hmph-wiretap": {
         "code": false,
         "graphics": false,
