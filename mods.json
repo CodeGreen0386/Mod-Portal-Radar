@@ -624,6 +624,13 @@
         "thumbnail": true,
         "other": false
     },
+    "berbcorp-lane-balancers": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "berbcorp-lava-oil-landfill": {
         "code": false,
         "graphics": false,
