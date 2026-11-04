@@ -1103,6 +1103,13 @@
         "thumbnail": true,
         "other": false
     },
+    "supply-challenge-plus-plus": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "tanvec-ai-cn": {
         "code": false,
         "graphics": false,
