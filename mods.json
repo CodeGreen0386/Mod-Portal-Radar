@@ -622,6 +622,13 @@
         "thumbnail": true,
         "other": false
     },
+    "blueprint-share": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "bot-priority": {
         "code": true,
         "graphics": false,
