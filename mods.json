@@ -692,6 +692,13 @@
         "thumbnail": true,
         "other": false
     },
+    "cargo-bay-loader": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "circuit-box": {
         "code": true,
         "graphics": false,
