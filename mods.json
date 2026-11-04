@@ -624,6 +624,13 @@
         "thumbnail": true,
         "other": false
     },
+    "berbcorp-agricultural-science-no-egg": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "berbcorp-area-cleaner": {
         "code": false,
         "graphics": false,
@@ -656,6 +663,13 @@
         "code": false,
         "graphics": false,
         "text": false,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-cheaper-artificial-jellynut-soil": {
+        "code": false,
+        "graphics": false,
+        "text": true,
         "thumbnail": true,
         "other": false
     },
@@ -1556,6 +1570,13 @@
         "graphics": true,
         "text": false,
         "thumbnail": false
+    },
+    "teleporters-2-1-ready": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
     },
     "thats-no-rock": {
         "code": false,
