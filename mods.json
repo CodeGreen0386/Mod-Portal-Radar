@@ -234,6 +234,13 @@
         "thumbnail": true,
         "other": false
     },
+    "SeaBlock21": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "ShoterBeltPlanner": {
         "code": true,
         "graphics": false,
