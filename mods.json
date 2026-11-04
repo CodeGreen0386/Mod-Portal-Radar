@@ -1546,5 +1546,12 @@
         "text": true,
         "thumbnail": true,
         "other": false
+    },
+    "zzz-berbcorp-no-aquilo-fluid-freeze": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
     }
 }
