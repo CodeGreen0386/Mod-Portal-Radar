@@ -1091,6 +1091,13 @@
         "text": true,
         "thumbnail": true
     },
+    "space-platform-blueprint-helper": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "space_teleport_v2": {
         "code": false,
         "graphics": false,
