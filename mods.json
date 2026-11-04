@@ -812,6 +812,13 @@
         "thumbnail": true,
         "other": false
     },
+    "berbcorp-teleporters-addon-2-1-ready": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "berbcorp-threshold-valves": {
         "code": false,
         "graphics": true,
