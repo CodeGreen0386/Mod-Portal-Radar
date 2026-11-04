@@ -930,6 +930,13 @@
         "thumbnail": true,
         "other": false
     },
+    "cadmium": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "caesium": {
         "code": false,
         "graphics": false,
