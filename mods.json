@@ -1158,6 +1158,13 @@
         "thumbnail": false,
         "other": false
     },
+    "this-is-my-island": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "time-control": {
         "code": false,
         "graphics": false,
