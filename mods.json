@@ -274,6 +274,13 @@
         "thumbnail": true,
         "other": false
     },
+    "UTLCouplingYard": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "UTLogistics": {
         "code": true,
         "graphics": false,
