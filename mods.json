@@ -1669,6 +1669,13 @@
         "thumbnail": false,
         "other": false
     },
+    "tellurium": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "thats-no-rock": {
         "code": false,
         "graphics": false,
