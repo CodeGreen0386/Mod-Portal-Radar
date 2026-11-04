@@ -1010,6 +1010,13 @@
         "thumbnail": false,
         "other": false
     },
+    "trainConstructionSiteManager": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "turbo_player": {
         "code": false,
         "graphics": false,
