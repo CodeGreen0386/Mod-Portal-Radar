@@ -652,6 +652,13 @@
         "thumbnail": true,
         "other": false
     },
+    "berbcorp-inserter-control": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "berbcorp-lane-balancers": {
         "code": false,
         "graphics": false,
