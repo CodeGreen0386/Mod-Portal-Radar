@@ -921,6 +921,13 @@
         "thumbnail": false,
         "other": false
     },
+    "tdr_central": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "tech-cards-retexture-AI-powered": {
         "code": false,
         "graphics": true,
