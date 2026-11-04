@@ -617,6 +617,13 @@
         "text": false,
         "thumbnail": true
     },
+    "berbcorp-agricultural-power-planner": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "berbcorp-barrel-capacity": {
         "code": false,
         "graphics": false,
