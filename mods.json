@@ -1473,6 +1473,13 @@
         "text": true,
         "thumbnail": true
     },
+    "quality-compressor": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "quality-control": {
         "code": false,
         "graphics": false,
