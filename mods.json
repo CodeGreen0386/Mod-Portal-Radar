@@ -161,6 +161,13 @@
         "thumbnail": true,
         "other": false
     },
+    "Nanobots3": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "PI-Instrumental-songs": {
         "code": true,
         "graphics": false,
