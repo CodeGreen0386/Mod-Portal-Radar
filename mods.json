@@ -617,6 +617,13 @@
         "text": false,
         "thumbnail": true
     },
+    "berbcorp-belts": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "berbcorp-lava-oil-landfill": {
         "code": false,
         "graphics": false,
