@@ -363,6 +363,13 @@
         "thumbnail": false,
         "other": false
     },
+    "YKR_PolesMax": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": true
+    },
     "YKR_Quality_Cultivation": {
         "code": false,
         "graphics": false,
