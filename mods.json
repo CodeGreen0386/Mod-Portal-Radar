@@ -335,6 +335,13 @@
         "thumbnail": false,
         "other": false
     },
+    "YKR_Far_Reach": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "YKR_Logistic_Chests": {
         "code": false,
         "graphics": false,
@@ -357,6 +364,13 @@
         "other": false
     },
     "YKR_inventory": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "YKR_inventory_500slot": {
         "code": false,
         "graphics": false,
         "text": true,
