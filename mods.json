@@ -1078,6 +1078,13 @@
         "thumbnail": true,
         "other": false
     },
+    "extremely-fluffy": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "factorio-admin-command-center-locales": {
         "code": false,
         "graphics": false,
