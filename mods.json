@@ -614,6 +614,13 @@
         "thumbnail": false,
         "other": false
     },
+    "factory-extensions": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "factory-night-watch": {
         "code": true,
         "graphics": false,
