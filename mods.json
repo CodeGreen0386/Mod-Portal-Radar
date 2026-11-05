@@ -391,6 +391,13 @@
         "thumbnail": true,
         "other": false
     },
+    "WePlayBurnerBooster": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "WePlayBurnerModule": {
         "code": false,
         "graphics": false,
