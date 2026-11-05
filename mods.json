@@ -1091,6 +1091,13 @@
         "thumbnail": true,
         "other": false
     },
+    "carna": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "circuit-box": {
         "code": true,
         "graphics": false,
