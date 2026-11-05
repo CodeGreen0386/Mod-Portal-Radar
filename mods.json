@@ -1485,6 +1485,13 @@
         "thumbnail": true,
         "other": false
     },
+    "k2-science-flasks": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "k2-standalone-balance": {
         "code": true,
         "graphics": false,
