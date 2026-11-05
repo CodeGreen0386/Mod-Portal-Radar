@@ -1981,6 +1981,13 @@
         "thumbnail": true,
         "other": false
     },
+    "sem-levelup-plus-fork": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "space-age-easy-mode": {
         "code": false,
         "graphics": false,
