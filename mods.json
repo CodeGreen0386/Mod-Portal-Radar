@@ -440,6 +440,13 @@
         "thumbnail": true,
         "other": false
     },
+    "WePlayPlutoniumJetpackFuel": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "WePlayRocketLauncherEquipment": {
         "code": false,
         "graphics": false,
