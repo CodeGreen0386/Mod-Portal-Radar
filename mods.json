@@ -13,6 +13,13 @@
         "thumbnail": true,
         "other": false
     },
+    "AllDaPower": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "Aquilo_Ofenhocker": {
         "code": true,
         "graphics": false,
