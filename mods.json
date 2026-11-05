@@ -608,6 +608,13 @@
         "thumbnail": false,
         "other": false
     },
+    "aai-loaders-stacking-filtering-bob": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "adjustable-quality": {
         "code": true,
         "graphics": false,
