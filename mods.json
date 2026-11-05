@@ -1092,7 +1092,7 @@
         "other": false
     },
     "carna": {
-        "code": false,
+        "code": true,
         "graphics": false,
         "text": false,
         "thumbnail": false,
