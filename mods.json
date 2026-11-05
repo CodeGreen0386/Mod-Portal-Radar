@@ -1205,6 +1205,13 @@
         "thumbnail": true,
         "other": false
     },
+    "early-foundations-fulgora-exclusive": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "easy-materials-2-1-ready": {
         "code": false,
         "graphics": false,
