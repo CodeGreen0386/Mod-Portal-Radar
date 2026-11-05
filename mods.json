@@ -1555,6 +1555,13 @@
         "thumbnail": true,
         "other": false
     },
+    "lawlzer-enemy-overhaul": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "lazy-bastards-friend": {
         "code": false,
         "graphics": false,
