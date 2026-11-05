@@ -1869,6 +1869,13 @@
         "thumbnail": true,
         "other": false
     },
+    "robot-battery-swap": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "russian-bobs-angels": {
         "code": false,
         "graphics": false,
