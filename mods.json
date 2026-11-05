@@ -69,6 +69,13 @@
         "thumbnail": true,
         "other": false
     },
+    "CheaperCoalSynthesis": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "Compatibility-Mod-5D-and-bobsassembly": {
         "code": false,
         "graphics": false,
