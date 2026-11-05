@@ -1452,6 +1452,13 @@
         "thumbnail": true,
         "other": false
     },
+    "hydrocarbon-industry": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "immersive_locomotives_fork": {
         "code": true,
         "graphics": false,
