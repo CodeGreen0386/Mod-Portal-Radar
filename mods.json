@@ -1905,6 +1905,13 @@
         "thumbnail": false,
         "other": false
     },
+    "weplay_se_kr": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "where-dat-is": {
         "code": false,
         "graphics": false,
