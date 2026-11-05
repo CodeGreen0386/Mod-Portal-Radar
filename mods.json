@@ -305,6 +305,13 @@
         "thumbnail": true,
         "other": false
     },
+    "RealisticReactorsReborn_MasterShogoFork": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "RiftRail": {
         "code": false,
         "graphics": false,
