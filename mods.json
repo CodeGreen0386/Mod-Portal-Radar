@@ -1904,6 +1904,13 @@
         "text": true,
         "thumbnail": false
     },
+    "yi_engines": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "yuoki-quinityn": {
         "code": true,
         "graphics": true,
