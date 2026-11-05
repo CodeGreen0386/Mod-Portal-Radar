@@ -1470,6 +1470,13 @@
         "thumbnail": true,
         "other": false
     },
+    "magic-science-chest-optimized": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "magnesium": {
         "code": false,
         "graphics": false,
