@@ -1028,6 +1028,13 @@
         "thumbnail": true,
         "other": false
     },
+    "bots-infinite-charge-updated": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "brave-new-mts": {
         "code": true,
         "graphics": false,
