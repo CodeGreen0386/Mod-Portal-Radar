@@ -1233,6 +1233,13 @@
         "thumbnail": true,
         "other": false
     },
+    "electromagnetic-plant-boost": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "estrogen-mod": {
         "code": false,
         "graphics": false,
