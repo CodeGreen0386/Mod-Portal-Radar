@@ -1631,6 +1631,13 @@
         "thumbnail": true,
         "other": false
     },
+    "seablock-2-fixed": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "self-expanding-blueprints": {
         "code": true,
         "graphics": false,
