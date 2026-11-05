@@ -1911,6 +1911,13 @@
         "thumbnail": false,
         "other": false
     },
+    "yi_pfw": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "yi_railway": {
         "code": true,
         "graphics": false,
