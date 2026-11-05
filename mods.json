@@ -1,4 +1,11 @@
 {
+    "ABS-CosmoDroneGPTComp": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "ABS-FriendsGPTComp": {
         "code": true,
         "graphics": true,
@@ -6,11 +13,60 @@
         "thumbnail": true,
         "other": false
     },
+    "AllDaPower": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "AluminiumX": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "Aquilo_Ofenhocker": {
         "code": true,
         "graphics": false,
         "text": true,
         "thumbnail": false,
+        "other": false
+    },
+    "Atmos-Enemy-Range-Visualizer": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "Atmos-Shotgun-Tiers": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "BRCombinator": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "BeaconAdjust": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
+    "BlueprintPrimer": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
         "other": false
     },
     "Compatibility-Mod-5D-and-bobsassembly": {
@@ -48,6 +104,13 @@
         "thumbnail": true,
         "other": false
     },
+    "DCO-Tweaks": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "Deep_Core_Operations_cn": {
         "code": false,
         "graphics": false,
@@ -61,6 +124,13 @@
         "thumbnail": true
     },
     "Exteros-QoL-System": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "FactorioCasino": {
         "code": false,
         "graphics": false,
         "text": true,
@@ -95,11 +165,25 @@
         "thumbnail": true,
         "other": false
     },
+    "InfiniteOres": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "Instant-Crafting": {
         "code": false,
         "graphics": false,
         "text": false,
         "thumbnail": true
+    },
+    "Inventory-Declutter-Pocket-Dimension": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
     },
     "KrastorioAirPurifier21": {
         "code": false,
@@ -138,6 +222,27 @@
         "graphics": false,
         "text": false,
         "thumbnail": true,
+        "other": false
+    },
+    "MtnFortressAddonsPt2": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
+    "MysteriousStranger": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "Nanobots3": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
         "other": false
     },
     "PI-Instrumental-songs": {
@@ -199,10 +304,31 @@
         "text": true,
         "thumbnail": true
     },
+    "Sceatorio-Natural-Spawns": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "SeaBlock-RU-Localization": {
         "code": false,
         "graphics": false,
         "text": false,
+        "thumbnail": true,
+        "other": false
+    },
+    "SeaBlock21": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "ShoterBeltPlanner": {
+        "code": true,
+        "graphics": false,
+        "text": true,
         "thumbnail": true,
         "other": false
     },
@@ -218,6 +344,13 @@
         "graphics": false,
         "text": false,
         "thumbnail": true,
+        "other": false
+    },
+    "SpacePlatformOrgUI-Enhanced": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
         "other": false
     },
     "TeleportAnywhere": {
@@ -246,6 +379,13 @@
         "thumbnail": true,
         "other": false
     },
+    "UTLCouplingYard": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "UTLogistics": {
         "code": true,
         "graphics": false,
@@ -265,6 +405,27 @@
         "text": false,
         "thumbnail": true
     },
+    "Vehicle-Teleportator": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
+    "WePlayBurnerBooster": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "WePlayBurnerModule": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "WePlayChooChooTaxi": {
         "code": false,
         "graphics": false,
@@ -279,11 +440,32 @@
         "thumbnail": true,
         "other": false
     },
+    "WePlayJunkCannon": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "WePlayLightningRodEquipment": {
         "code": false,
         "graphics": false,
         "text": true,
         "thumbnail": false,
+        "other": false
+    },
+    "WePlayMrFusion": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "WePlayPlutoniumJetpackFuel": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
         "other": false
     },
     "WePlayRocketLauncherEquipment": {
@@ -293,7 +475,42 @@
         "thumbnail": false,
         "other": false
     },
+    "WePlaySinkLastSlot": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "WePlaySpaceAge": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
+    "WePlayTeslaEquipment": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "WePlayWindowOutputCombinator": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "YKR_Easy_Mats": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "YKR_Far_Reach": {
         "code": false,
         "graphics": false,
         "text": true,
@@ -307,6 +524,27 @@
         "thumbnail": true,
         "other": false
     },
+    "YKR_NewStartGame": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "YKR_PTBR": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "YKR_PolesMax": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": true
+    },
     "YKR_Quality_Cultivation": {
         "code": false,
         "graphics": false,
@@ -314,11 +552,74 @@
         "thumbnail": true,
         "other": false
     },
+    "YKR_Stake_Size": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "YKR_inventory": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "YKR_inventory_100slot": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "YKR_inventory_500slot": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "YRK_underground_belts": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "Yuoki": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "adjustable-quality": {
         "code": true,
         "graphics": false,
         "text": true,
         "thumbnail": true
+    },
+    "advanced-assembling-machine-improved": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "advanced-furnaces-2-updated": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "ai-agent-bridge": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
     },
     "ai-coworker": {
         "code": false,
@@ -369,6 +670,13 @@
         "thumbnail": true,
         "other": false
     },
+    "antimony": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "aquilo-start": {
         "code": true,
         "graphics": false,
@@ -388,6 +696,13 @@
         "graphics": true,
         "text": true,
         "thumbnail": true
+    },
+    "atan-ash-fork": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
     },
     "atrm": {
         "code": false,
@@ -415,17 +730,269 @@
         "thumbnail": true,
         "other": false
     },
+    "auto-train-manager": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "auto-train-refuel": {
         "code": true,
         "graphics": false,
         "text": false,
         "thumbnail": true
     },
+    "berbcorp-agricultural-power-planner": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-agricultural-science-no-egg": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-area-cleaner": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-barrel-capacity": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-belts": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-biochamber-no-egg": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-biolab-no-biter-egg-needed": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-cheaper-artificial-jellynut-soil": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-cheaper-artificial-yumako-soil": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-cheaper-foundations": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-cheaper-ice-platform": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-cheaper-landfill": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-cheaper-overgrowth-jellynut-soil": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-cheaper-overgrowth-yumako-soil": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-coal-oil-assembler": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-coal-to-wood-recipe": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-double-heat-pipe-heating-radius": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-electro-heater": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-expansion-harness": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-filter-assistant": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-infinite-resources-ups-safe": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-inserter-control": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-item-stack-tuning": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-lane-balancers": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "berbcorp-lava-oil-landfill": {
         "code": false,
         "graphics": false,
         "text": true,
         "thumbnail": true
+    },
+    "berbcorp-loaders": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-no-biter-egg-overgrowth-soil": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-pipe-to-ground-tier-2": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-teleporters-addon-2-1-ready": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "berbcorp-threshold-valves": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-upgrade-cargo-bay-slots": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-upgrade-personal-trash-slots": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-uses-more-long-inserters": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-uses-warehousing": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "berbcorp-warehousing": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "better-pumpjacks": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
     },
     "big-pink-eraser": {
         "code": false,
@@ -440,7 +1007,35 @@
         "thumbnail": true,
         "other": false
     },
+    "biter-resource-farms": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "black-market-2-updated": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "blueprint-deconstruction-markers": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "blueprint-from-helmod": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "blueprint-share": {
         "code": false,
         "graphics": false,
         "text": true,
@@ -454,8 +1049,64 @@
         "thumbnail": true,
         "other": false
     },
+    "bots-infinite-charge-updated": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "brave-new-mts": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "cadmium": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "caesium": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "car_defenes": {
         "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "cargo-bay-loader": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "cargo-landing-pad-logistics": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "carna": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
+    "circuit-box": {
+        "code": true,
         "graphics": false,
         "text": true,
         "thumbnail": true,
@@ -466,6 +1117,27 @@
         "graphics": false,
         "text": true,
         "thumbnail": true
+    },
+    "cma-graphics": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "coal-oil-2-1-ready": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "colonial-horizons": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
     },
     "crushing-industry-tweaks": {
         "code": false,
@@ -500,6 +1172,13 @@
         "thumbnail": true,
         "other": false
     },
+    "diggy": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "dimensional_storage": {
         "code": false,
         "graphics": false,
@@ -511,6 +1190,48 @@
         "graphics": false,
         "text": false,
         "thumbnail": true
+    },
+    "disco-science-lite": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "divisor_tres_vias": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "dustline": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "early-elevated-rails": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "early-foundations-fulgora-exclusive": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "easy-materials-2-1-ready": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
     },
     "estrogen-mod": {
         "code": false,
@@ -526,17 +1247,45 @@
         "thumbnail": false,
         "other": false
     },
+    "even-distribution-fork": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "even-distribution-updated": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "even-pickier-dollies": {
         "code": false,
         "graphics": false,
         "text": false,
         "thumbnail": true
     },
+    "even_distribution": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "exotic-space-industries-remembrance": {
         "code": true,
         "graphics": false,
         "text": true,
         "thumbnail": true,
+        "other": false
+    },
+    "extremely-fluffy": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
         "other": false
     },
     "factorio-admin-command-center-locales": {
@@ -550,6 +1299,13 @@
         "graphics": false,
         "text": true,
         "thumbnail": true
+    },
+    "factorio-autodrive": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
     },
     "factorio-light-space-age": {
         "code": false,
@@ -565,6 +1321,13 @@
         "thumbnail": true,
         "other": false
     },
+    "factorio_llm_use": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "factorissimo-gadgetroch": {
         "code": true,
         "graphics": false,
@@ -572,10 +1335,45 @@
         "thumbnail": false,
         "other": false
     },
+    "factory-extensions": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "factory-levels": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "factory-night-watch": {
         "code": true,
         "graphics": false,
         "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "factory-planning-room": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "fast-quality-buttons": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "fast-start-2": {
+        "code": false,
+        "graphics": false,
+        "text": false,
         "thumbnail": true,
         "other": false
     },
@@ -599,11 +1397,25 @@
         "thumbnail": true,
         "other": false
     },
+    "gallium": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "global-storage": {
         "code": false,
         "graphics": false,
         "text": true,
         "thumbnail": true
+    },
+    "hive-mind": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
     },
     "hmph-wiretap": {
         "code": false,
@@ -638,10 +1450,31 @@
         "thumbnail": true,
         "other": false
     },
+    "just-one-last-task": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
+    "k2-planet-mod": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "k2-standalone-balance": {
         "code": true,
         "graphics": false,
         "text": false,
+        "thumbnail": true,
+        "other": false
+    },
+    "land-title-registry": {
+        "code": true,
+        "graphics": false,
+        "text": true,
         "thumbnail": true,
         "other": false
     },
@@ -651,7 +1484,28 @@
         "text": true,
         "thumbnail": true
     },
+    "logistic-network-grids": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "logistic-reactors-2-fixed": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "magic-science-chest-optimized": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "magnesium": {
         "code": false,
         "graphics": false,
         "text": true,
@@ -665,8 +1519,99 @@
         "thumbnail": true,
         "other": false
     },
+    "matts-logistics-updated": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "max-rate-calculator-updated": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "miniloader-redux-fork": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "mining-yield-multiplier": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "molybdenum": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "mts-dimension-warp": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "multi-team-support": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "neodymium": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "no-biter-egg-recipe-productivity-module-3": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "no-spoilage-recipe-efficiency-module-3": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "no-tungsten-recipe-speed-module-3": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "nomad": {
         "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "objective-chests": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "open-discord-bridge": {
+        "code": true,
         "graphics": false,
         "text": true,
         "thumbnail": true,
@@ -684,7 +1629,21 @@
         "text": false,
         "thumbnail": true
     },
+    "personal-autocraft": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "personal-repair-network": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "phosphorus": {
         "code": false,
         "graphics": false,
         "text": true,
@@ -705,6 +1664,20 @@
         "thumbnail": true,
         "other": false
     },
+    "planet-express": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "planet-zoo": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "pocket-planner": {
         "code": true,
         "graphics": false,
@@ -720,6 +1693,20 @@
         "other": false
     },
     "pole_range_plus": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "pollution-absorber-improved": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "power-logistics": {
         "code": false,
         "graphics": false,
         "text": true,
@@ -766,17 +1753,45 @@
         "text": true,
         "thumbnail": true
     },
+    "quality-compressor": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "quality-control": {
         "code": false,
         "graphics": false,
         "text": true,
         "thumbnail": true
     },
+    "quality-cycler": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "quality-unlocked-from-start-updated": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "radar_range_speed_control": {
         "code": true,
         "graphics": true,
         "text": false,
         "thumbnail": false
+    },
+    "radioactive-elements": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
     },
     "razi-more-asteroids": {
         "code": false,
@@ -793,6 +1808,20 @@
         "other": false
     },
     "real-industrial-chemistry": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "research-cost-shaper": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "resource-balance": {
         "code": false,
         "graphics": false,
         "text": true,
@@ -819,11 +1848,46 @@
         "thumbnail": true,
         "other": false
     },
+    "sanity-check": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "schmuels-bot-start": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
+    "seablock-2-fixed": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "self-expanding-blueprints": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "space-age-easy-mode": {
         "code": false,
         "graphics": false,
         "text": true,
         "thumbnail": true
+    },
+    "space-platform-blueprint-helper": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
     },
     "space_teleport_v2": {
         "code": false,
@@ -865,11 +1929,25 @@
         "thumbnail": true,
         "other": false
     },
+    "supply-challenge-plus-plus": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "tanvec-ai-cn": {
         "code": false,
         "graphics": false,
         "text": true,
         "thumbnail": false,
+        "other": false
+    },
+    "tdr_central": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
         "other": false
     },
     "tech-cards-retexture-AI-powered": {
@@ -878,11 +1956,32 @@
         "text": false,
         "thumbnail": false
     },
+    "teleporters-2-1-ready": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "tellurium": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "thats-no-rock": {
         "code": false,
         "graphics": false,
         "text": true,
         "thumbnail": false,
+        "other": false
+    },
+    "this-is-my-island": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
         "other": false
     },
     "time-control": {
@@ -905,13 +2004,55 @@
         "thumbnail": true,
         "other": false
     },
+    "trainConstructionSiteFork": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "trainConstructionSiteManager": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "turbo_player": {
         "code": false,
         "graphics": false,
         "text": true,
         "thumbnail": true
     },
+    "tweaked-computers": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "vagor_perevodchik": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "very-fluffy": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "weplay_se_kr": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
+    "where-dat-is": {
         "code": false,
         "graphics": false,
         "text": true,
@@ -931,9 +2072,79 @@
         "text": true,
         "thumbnail": false
     },
+    "yi_engines": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "yi_pfw": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "yi_railway": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "yuoki-quinityn": {
         "code": true,
         "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "z_yira_UP": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "z_yira_american": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "z_yira_yuokirails": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "zzz-berbcorp-no-aquilo-belt-freeze": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "zzz-berbcorp-no-aquilo-fluid-freeze": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "zzz-berbcorp-no-aquilo-pumpjack-freeze": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
+    "zzz-berbcorp-roboport-dont-freeze-on-aquilo": {
+        "code": false,
+        "graphics": false,
         "text": true,
         "thumbnail": true,
         "other": false
