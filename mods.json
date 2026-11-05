@@ -185,6 +185,13 @@
         "thumbnail": false,
         "other": false
     },
+    "K1-space": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "KrastorioAirPurifier21": {
         "code": false,
         "graphics": false,
