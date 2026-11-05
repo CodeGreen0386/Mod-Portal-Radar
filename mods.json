@@ -20,6 +20,13 @@
         "thumbnail": true,
         "other": false
     },
+    "AluminiumX": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "Aquilo_Ofenhocker": {
         "code": true,
         "graphics": false,
