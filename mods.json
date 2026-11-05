@@ -1000,6 +1000,13 @@
         "thumbnail": true,
         "other": false
     },
+    "black-market-2-updated": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "blueprint-deconstruction-markers": {
         "code": false,
         "graphics": false,
