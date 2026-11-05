@@ -109,6 +109,13 @@
         "thumbnail": true,
         "other": false
     },
+    "FactorioCasino": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "ForeverMine": {
         "code": true,
         "graphics": false,
