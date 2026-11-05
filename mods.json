@@ -1153,6 +1153,13 @@
         "text": true,
         "thumbnail": true
     },
+    "factorio-autodrive": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "factorio-light-space-age": {
         "code": false,
         "graphics": false,
