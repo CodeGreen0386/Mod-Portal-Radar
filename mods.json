@@ -1153,6 +1153,13 @@
         "thumbnail": true,
         "other": false
     },
+    "crop-spray": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "crushing-industry-tweaks": {
         "code": false,
         "graphics": true,
