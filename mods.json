@@ -2066,7 +2066,7 @@
         "other": false
     },
     "yi_pfw": {
-        "code": true,
+        "code": false,
         "graphics": false,
         "text": true,
         "thumbnail": false,
