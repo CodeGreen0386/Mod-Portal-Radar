@@ -545,6 +545,13 @@
         "thumbnail": true,
         "other": false
     },
+    "Yuoki": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "adjustable-quality": {
         "code": true,
         "graphics": false,
