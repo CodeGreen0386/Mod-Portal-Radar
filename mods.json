@@ -1456,6 +1456,13 @@
         "thumbnail": true,
         "other": false
     },
+    "max-rate-calculator-updated": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "miniloader-redux-fork": {
         "code": true,
         "graphics": false,
