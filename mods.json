@@ -1205,6 +1205,13 @@
         "thumbnail": false,
         "other": false
     },
+    "even-distribution-updated": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "even-pickier-dollies": {
         "code": false,
         "graphics": false,
