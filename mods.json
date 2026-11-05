@@ -1505,6 +1505,13 @@
         "thumbnail": true,
         "other": false
     },
+    "machine-swapper": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "magic-science-chest-optimized": {
         "code": true,
         "graphics": false,
