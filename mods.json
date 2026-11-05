@@ -510,6 +510,13 @@
         "thumbnail": false,
         "other": false
     },
+    "YKR_Early_Scrapper": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "YKR_Easy_Mats": {
         "code": false,
         "graphics": false,
