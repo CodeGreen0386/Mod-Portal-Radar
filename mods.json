@@ -1731,6 +1731,13 @@
         "thumbnail": true,
         "other": false
     },
+    "quality-unlocked-from-start-updated": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "radar_range_speed_control": {
         "code": true,
         "graphics": true,
