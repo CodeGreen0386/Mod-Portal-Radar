@@ -1457,6 +1457,13 @@
         "text": true,
         "thumbnail": true
     },
+    "interplanetary-rockets": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "interstellar-progression-overhaul": {
         "code": false,
         "graphics": false,
