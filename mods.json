@@ -1566,6 +1566,13 @@
         "thumbnail": true,
         "other": false
     },
+    "planet-zoo": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "pocket-planner": {
         "code": true,
         "graphics": false,
