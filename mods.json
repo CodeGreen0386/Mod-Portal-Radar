@@ -677,6 +677,13 @@
         "thumbnail": true,
         "other": false
     },
+    "apia-bone-flesh": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "aquilo-start": {
         "code": true,
         "graphics": false,
