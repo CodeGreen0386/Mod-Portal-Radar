@@ -19,9 +19,6 @@ if (!name) {
 }
 
 const output = `mods/${name}.json`
-// if (fs.existsSync(output)) {
-//     throw new Error("Mod already exists")
-// }
 
 const aiUsage = getSection("AI Usage")
 const mod = {
@@ -32,5 +29,14 @@ const mod = {
     other: /- \[x\] Other/.test(aiUsage)
 }
 
-fs.writeFileSync(output, JSON.stringify(mod, null, 4) + "\n")
-fs.appendFileSync(process.env.GITHUB_ENV, `MOD_NAME=${name}\n`)
+let anyUsed = false
+for ([key, value] of Object.entries(mod)) {
+    anyUsed = anyUsed || value
+}
+
+if (anyUsed) {
+    fs.writeFileSync(output, JSON.stringify(mod, null, 4) + "\n")
+    fs.appendFileSync(process.env.GITHUB_ENV, `MOD_NAME=${name}\n`)
+} else if (fs.existsSync(output)) {
+    fs.unlinkSync(output)
+}
