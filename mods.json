@@ -1932,6 +1932,20 @@
         "thumbnail": false,
         "other": false
     },
+    "z_yira_american": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "z_yira_yuokirails": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "zzz-berbcorp-no-aquilo-belt-freeze": {
         "code": false,
         "graphics": false,
