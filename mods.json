@@ -1925,6 +1925,13 @@
         "thumbnail": true,
         "other": false
     },
+    "z_yira_UP": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "zzz-berbcorp-no-aquilo-belt-freeze": {
         "code": false,
         "graphics": false,
