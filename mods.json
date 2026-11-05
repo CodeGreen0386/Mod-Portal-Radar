@@ -697,6 +697,13 @@
         "text": true,
         "thumbnail": true
     },
+    "atan-ash-fork": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "atrm": {
         "code": false,
         "graphics": false,
