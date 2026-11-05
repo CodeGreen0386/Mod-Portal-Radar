@@ -30,8 +30,8 @@ const mod = {
 }
 
 let anyUsed = false
-for ([key, value] of Object.entries(mod)) {
-    anyUsed = anyUsed || value
+for (let [_, used] of Object.entries(mod)) {
+    anyUsed = anyUsed || used
 }
 
 if (anyUsed) {
