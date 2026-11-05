@@ -151,6 +151,13 @@
         "thumbnail": true,
         "other": false
     },
+    "InfiniteOres": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "Instant-Crafting": {
         "code": false,
         "graphics": false,
