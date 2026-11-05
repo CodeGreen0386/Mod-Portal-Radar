@@ -217,6 +217,13 @@
         "thumbnail": true,
         "other": false
     },
+    "MysteriousStranger": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "Nanobots3": {
         "code": false,
         "graphics": false,
