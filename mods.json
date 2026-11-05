@@ -2052,6 +2052,13 @@
         "thumbnail": false,
         "other": false
     },
+    "uranium_geiger_continued": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "vagor_perevodchik": {
         "code": false,
         "graphics": false,
