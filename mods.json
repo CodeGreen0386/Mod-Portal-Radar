@@ -1216,6 +1216,13 @@
         "thumbnail": true,
         "other": false
     },
+    "factory-planning-room": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "fast-quality-buttons": {
         "code": false,
         "graphics": false,
