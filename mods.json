@@ -1450,6 +1450,13 @@
         "thumbnail": false,
         "other": false
     },
+    "k2-planet-mod": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "k2-standalone-balance": {
         "code": true,
         "graphics": false,
