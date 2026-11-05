@@ -1484,6 +1484,13 @@
         "thumbnail": true,
         "other": false
     },
+    "matts-logistics-updated": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "max-rate-calculator-updated": {
         "code": true,
         "graphics": false,
