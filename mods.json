@@ -1657,6 +1657,13 @@
         "thumbnail": true,
         "other": false
     },
+    "pollution-absorber-improved": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "power-logistics": {
         "code": false,
         "graphics": false,
