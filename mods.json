@@ -297,6 +297,13 @@
         "text": true,
         "thumbnail": true
     },
+    "Sceatorio-Natural-Spawns": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "SeaBlock-RU-Localization": {
         "code": false,
         "graphics": false,
