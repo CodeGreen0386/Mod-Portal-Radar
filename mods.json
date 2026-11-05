@@ -1065,6 +1065,13 @@
         "thumbnail": true,
         "other": false
     },
+    "divisor_tres_vias": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "dustline": {
         "code": false,
         "graphics": false,
