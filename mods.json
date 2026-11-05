@@ -1936,6 +1936,13 @@
         "thumbnail": true,
         "other": false
     },
+    "sulfur-everywhere": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "supply-challenge-plus-plus": {
         "code": false,
         "graphics": false,
