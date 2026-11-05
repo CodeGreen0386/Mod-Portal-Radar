@@ -965,6 +965,13 @@
         "thumbnail": true,
         "other": false
     },
+    "biter-resource-farms": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "blueprint-deconstruction-markers": {
         "code": false,
         "graphics": false,
