@@ -1428,6 +1428,13 @@
         "thumbnail": true,
         "other": false
     },
+    "objective-chests": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "open-discord-bridge": {
         "code": true,
         "graphics": false,
