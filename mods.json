@@ -632,6 +632,13 @@
         "thumbnail": true,
         "other": false
     },
+    "auto-train-manager": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "auto-train-refuel": {
         "code": true,
         "graphics": false,
