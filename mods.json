@@ -1981,6 +1981,13 @@
         "thumbnail": true,
         "other": false
     },
+    "sem-levelup-fork": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "sem-levelup-plus-fork": {
         "code": true,
         "graphics": false,
