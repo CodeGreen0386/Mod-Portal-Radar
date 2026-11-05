@@ -1405,6 +1405,13 @@
         "thumbnail": true,
         "other": false
     },
+    "factory-radar": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "fast-quality-buttons": {
         "code": false,
         "graphics": false,
