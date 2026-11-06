@@ -1495,6 +1495,13 @@
         "thumbnail": true,
         "other": false
     },
+    "gizmod": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "global-storage": {
         "code": false,
         "graphics": false,
