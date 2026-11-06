@@ -130,6 +130,13 @@
         "text": true,
         "thumbnail": true
     },
+    "Electric_Furnaces_Reborn": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "Exteros-QoL-System": {
         "code": false,
         "graphics": false,
