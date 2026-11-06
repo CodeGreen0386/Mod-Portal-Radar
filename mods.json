@@ -312,6 +312,13 @@
         "thumbnail": true,
         "other": false
     },
+    "RERailworld": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "RExtended": {
         "code": false,
         "graphics": true,
