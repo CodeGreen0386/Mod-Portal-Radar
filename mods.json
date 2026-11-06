@@ -1536,6 +1536,13 @@
         "thumbnail": true,
         "other": false
     },
+    "gz-infrastructure": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "gz-loot": {
         "code": true,
         "graphics": true,
