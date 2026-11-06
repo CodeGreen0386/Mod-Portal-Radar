@@ -1529,6 +1529,13 @@
         "thumbnail": true,
         "other": false
     },
+    "gz-rpg": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "gz-threat": {
         "code": true,
         "graphics": true,
