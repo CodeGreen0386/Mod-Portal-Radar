@@ -1522,6 +1522,13 @@
         "thumbnail": true,
         "other": false
     },
+    "gz-ecology": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "gz-economy": {
         "code": true,
         "graphics": true,
