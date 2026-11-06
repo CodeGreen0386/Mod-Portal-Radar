@@ -2363,6 +2363,13 @@
         "text": true,
         "thumbnail": true
     },
+    "quality-atomic-bombs": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "quality-compressor": {
         "code": false,
         "graphics": true,
