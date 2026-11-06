@@ -2423,6 +2423,13 @@
         "thumbnail": false,
         "other": false
     },
+    "nulla-cerys-radiation-fix": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "objective-chests": {
         "code": false,
         "graphics": false,
