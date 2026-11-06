@@ -299,6 +299,13 @@
         "thumbnail": true,
         "other": false
     },
+    "PlanetsLib": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "Player-Upgrade-System": {
         "code": false,
         "graphics": false,
