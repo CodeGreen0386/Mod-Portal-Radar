@@ -1168,6 +1168,13 @@
         "thumbnail": true,
         "other": false
     },
+    "clear-science-dyes": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "cliff-builder": {
         "code": false,
         "graphics": false,
