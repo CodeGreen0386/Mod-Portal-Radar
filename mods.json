@@ -1573,6 +1573,13 @@
         "thumbnail": true,
         "other": false
     },
+    "fluid-heat-dissipation": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "gallium": {
         "code": false,
         "graphics": true,
