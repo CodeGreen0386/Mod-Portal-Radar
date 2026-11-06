@@ -790,6 +790,13 @@
         "text": false,
         "thumbnail": true
     },
+    "always-firing-flamethrower-turret": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "angelbob-spaceage-rebalance": {
         "code": false,
         "graphics": false,
