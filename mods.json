@@ -2344,6 +2344,13 @@
         "thumbnail": false,
         "other": false
     },
+    "planet-pandora": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "planet-zoo": {
         "code": true,
         "graphics": false,
