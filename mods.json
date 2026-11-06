@@ -1421,6 +1421,13 @@
         "thumbnail": false,
         "other": false
     },
+    "factokyo-drift": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "factorio-admin-command-center-locales": {
         "code": false,
         "graphics": false,
