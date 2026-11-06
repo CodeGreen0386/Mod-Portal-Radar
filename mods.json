@@ -2348,6 +2348,13 @@
         "thumbnail": true,
         "other": false
     },
+    "radar-dependent-map-view": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "radar_range_speed_control": {
         "code": true,
         "graphics": true,
