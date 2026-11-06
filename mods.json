@@ -2185,6 +2185,13 @@
         "thumbnail": true,
         "other": true
     },
+    "minigun-turret-HD": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "miniloader-redux-fork": {
         "code": true,
         "graphics": false,
