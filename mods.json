@@ -1301,6 +1301,13 @@
         "text": true,
         "thumbnail": true
     },
+    "clock-generator-sidecar": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "cma-graphics": {
         "code": false,
         "graphics": true,
