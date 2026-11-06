@@ -1601,6 +1601,13 @@
         "thumbnail": true,
         "other": false
     },
+    "freight-stations-rats-fork": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "gallium": {
         "code": false,
         "graphics": true,
