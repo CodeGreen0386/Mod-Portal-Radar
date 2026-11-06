@@ -1978,6 +1978,13 @@
         "thumbnail": true,
         "other": false
     },
+    "house-fire-overhaul-mod": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "hydrocarbon-industry": {
         "code": true,
         "graphics": false,
