@@ -2255,6 +2255,13 @@
         "thumbnail": true,
         "other": true
     },
+    "mineore": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "minigun-turret-HD": {
         "code": false,
         "graphics": true,
