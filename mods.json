@@ -2017,6 +2017,13 @@
         "text": true,
         "thumbnail": true
     },
+    "loaders-modernized-integrations": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "logistic-network-grids": {
         "code": false,
         "graphics": false,
