@@ -804,6 +804,13 @@
         "thumbnail": true,
         "other": false
     },
+    "anti-jam-stack-inserter": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "antimony": {
         "code": false,
         "graphics": true,
