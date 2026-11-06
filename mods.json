@@ -2136,6 +2136,13 @@
         "thumbnail": true,
         "other": false
     },
+    "nautical_map": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "neodymium": {
         "code": false,
         "graphics": false,
