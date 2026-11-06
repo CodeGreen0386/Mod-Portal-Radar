@@ -369,6 +369,13 @@
         "thumbnail": true,
         "other": false
     },
+    "RealisticFusionPower-DSHfork": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "RealisticReactorsReborn_MasterShogoFork": {
         "code": true,
         "graphics": false,
