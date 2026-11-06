@@ -2864,6 +2864,13 @@
         "thumbnail": true,
         "other": false
     },
+    "smart-train-combinator": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "space-age-easy-mode": {
         "code": false,
         "graphics": false,
