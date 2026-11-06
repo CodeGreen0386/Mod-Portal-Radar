@@ -1335,6 +1335,13 @@
         "text": false,
         "thumbnail": true
     },
+    "cybersyn2-combinator-fork": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "dark-matter-replicators-reborn": {
         "code": false,
         "graphics": false,
