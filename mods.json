@@ -1585,6 +1585,13 @@
         "thumbnail": true,
         "other": false
     },
+    "gz-strikes": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "gz-terra-assets": {
         "code": false,
         "graphics": false,
