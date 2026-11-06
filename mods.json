@@ -2101,6 +2101,13 @@
         "thumbnail": true,
         "other": false
     },
+    "loaders-modernized": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "logistic-network-grids": {
         "code": false,
         "graphics": false,
