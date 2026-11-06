@@ -2738,6 +2738,13 @@
         "thumbnail": false,
         "other": false
     },
+    "shotgun-turret": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "silbas-classes": {
         "code": false,
         "graphics": false,
