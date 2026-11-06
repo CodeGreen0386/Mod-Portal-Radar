@@ -2059,6 +2059,13 @@
         "thumbnail": true,
         "other": false
     },
+    "ns-locomotive": {
+        "code": true,
+        "graphics": true,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "objective-chests": {
         "code": false,
         "graphics": false,
