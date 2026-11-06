@@ -1550,6 +1550,13 @@
         "thumbnail": true,
         "other": false
     },
+    "gz-flattening-industry": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "gz-hardmode": {
         "code": false,
         "graphics": false,
