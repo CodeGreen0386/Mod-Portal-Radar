@@ -445,6 +445,13 @@
         "thumbnail": true,
         "other": false
     },
+    "Sortify": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "SpaceIndustryContinued": {
         "code": false,
         "graphics": false,
