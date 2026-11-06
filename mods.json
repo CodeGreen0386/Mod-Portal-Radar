@@ -2059,6 +2059,13 @@
         "thumbnail": true,
         "other": false
     },
+    "no-solid-fuel-vehicles": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "no-spoilage-recipe-efficiency-module-3": {
         "code": false,
         "graphics": false,
