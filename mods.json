@@ -1648,6 +1648,13 @@
         "thumbnail": true,
         "other": false
     },
+    "gz-terra-multi": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "gz-terra-nauvis": {
         "code": false,
         "graphics": false,
