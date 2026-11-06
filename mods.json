@@ -1351,6 +1351,13 @@
         "thumbnail": false,
         "other": false
     },
+    "cbs-electric-steel-furnace": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "character-control": {
         "code": true,
         "graphics": true,
