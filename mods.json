@@ -1690,6 +1690,13 @@
         "thumbnail": true,
         "other": false
     },
+    "gz-water-balloons": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "gz-wooden-platform": {
         "code": false,
         "graphics": true,
