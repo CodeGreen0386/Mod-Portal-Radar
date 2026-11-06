@@ -131,7 +131,7 @@
         "thumbnail": true
     },
     "Electric_Furnaces_Reborn": {
-        "code": false,
+        "code": true,
         "graphics": false,
         "text": true,
         "thumbnail": false,
