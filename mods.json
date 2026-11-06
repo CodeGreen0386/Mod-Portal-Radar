@@ -193,6 +193,13 @@
         "thumbnail": true,
         "other": false
     },
+    "Igrys": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "InfiniteOres": {
         "code": false,
         "graphics": false,
