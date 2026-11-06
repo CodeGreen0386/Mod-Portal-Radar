@@ -172,6 +172,13 @@
         "thumbnail": true,
         "other": false
     },
+    "GZ-Saurus-Wrecks-QOL": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "Haystack": {
         "code": true,
         "graphics": false,
