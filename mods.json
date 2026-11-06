@@ -69,6 +69,13 @@
         "thumbnail": true,
         "other": false
     },
+    "CheaperCoalSynthesis": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "Compatibility-Mod-5D-and-bobsassembly": {
         "code": false,
         "graphics": false,
@@ -179,6 +186,13 @@
         "thumbnail": true
     },
     "Inventory-Declutter-Pocket-Dimension": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "K1-space": {
         "code": true,
         "graphics": false,
         "text": true,
@@ -296,6 +310,13 @@
         "graphics": true,
         "text": true,
         "thumbnail": true,
+        "other": false
+    },
+    "RealisticReactorsReborn_MasterShogoFork": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
         "other": false
     },
     "RiftRail": {
@@ -503,6 +524,13 @@
         "thumbnail": false,
         "other": false
     },
+    "YKR_Early_Scrapper": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "YKR_Easy_Mats": {
         "code": false,
         "graphics": false,
@@ -594,6 +622,13 @@
         "thumbnail": false,
         "other": false
     },
+    "aai-loaders-stacking-filtering-bob": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "adjustable-quality": {
         "code": true,
         "graphics": false,
@@ -677,6 +712,13 @@
         "thumbnail": true,
         "other": false
     },
+    "apia-bone-flesh": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "aquilo-start": {
         "code": true,
         "graphics": false,
@@ -698,7 +740,7 @@
         "thumbnail": true
     },
     "atan-ash-fork": {
-        "code": false,
+        "code": true,
         "graphics": false,
         "text": false,
         "thumbnail": false,
@@ -1139,6 +1181,13 @@
         "thumbnail": true,
         "other": false
     },
+    "crop-spray": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "crushing-industry-tweaks": {
         "code": false,
         "graphics": true,
@@ -1231,6 +1280,13 @@
         "graphics": false,
         "text": false,
         "thumbnail": true,
+        "other": false
+    },
+    "electromagnetic-plant-boost": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
         "other": false
     },
     "estrogen-mod": {
@@ -1363,6 +1419,13 @@
         "thumbnail": true,
         "other": false
     },
+    "factory-radar": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "fast-quality-buttons": {
         "code": false,
         "graphics": false,
@@ -1424,6 +1487,13 @@
         "thumbnail": true,
         "other": false
     },
+    "hydrocarbon-industry": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "immersive_locomotives_fork": {
         "code": true,
         "graphics": false,
@@ -1442,6 +1512,13 @@
         "graphics": true,
         "text": true,
         "thumbnail": true
+    },
+    "interplanetary-rockets": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
     },
     "interstellar-progression-overhaul": {
         "code": false,
@@ -1464,6 +1541,13 @@
         "thumbnail": true,
         "other": false
     },
+    "k2-science-flasks": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "k2-standalone-balance": {
         "code": true,
         "graphics": false,
@@ -1476,6 +1560,13 @@
         "graphics": false,
         "text": true,
         "thumbnail": true,
+        "other": false
+    },
+    "lawlzer-enemy-overhaul": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
         "other": false
     },
     "lazy-bastards-friend": {
@@ -1496,6 +1587,13 @@
         "graphics": false,
         "text": true,
         "thumbnail": true,
+        "other": false
+    },
+    "machine-swapper": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
         "other": false
     },
     "magic-science-chest-optimized": {
@@ -1841,6 +1939,13 @@
         "thumbnail": true,
         "other": false
     },
+    "robot-battery-swap": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "russian-bobs-angels": {
         "code": false,
         "graphics": false,
@@ -1874,6 +1979,20 @@
         "graphics": false,
         "text": true,
         "thumbnail": true,
+        "other": false
+    },
+    "sem-levelup-fork": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "sem-levelup-plus-fork": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
         "other": false
     },
     "space-age-easy-mode": {
@@ -1927,6 +2046,13 @@
         "graphics": false,
         "text": true,
         "thumbnail": true,
+        "other": false
+    },
+    "sulfur-everywhere": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
         "other": false
     },
     "supply-challenge-plus-plus": {
@@ -2025,6 +2151,13 @@
         "thumbnail": true
     },
     "tweaked-computers": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
+    "uranium_geiger_continued": {
         "code": true,
         "graphics": false,
         "text": true,
