@@ -2864,6 +2864,13 @@
         "thumbnail": false,
         "other": false
     },
+    "shared-radar": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "shotgun-turret": {
         "code": false,
         "graphics": false,
