@@ -2810,6 +2810,13 @@
         "thumbnail": false,
         "other": false
     },
+    "trains_hit_mech_armor": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "turbo_player": {
         "code": false,
         "graphics": false,
