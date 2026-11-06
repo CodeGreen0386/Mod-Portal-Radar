@@ -2668,6 +2668,13 @@
         "thumbnail": false,
         "other": false
     },
+    "rubia": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": false,
+        "other": true
+    },
     "russian-bobs-angels": {
         "code": false,
         "graphics": false,
