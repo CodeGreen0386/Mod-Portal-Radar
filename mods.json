@@ -1509,6 +1509,13 @@
         "thumbnail": true,
         "other": false
     },
+    "gizmod-overhaul": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "gizmod": {
         "code": true,
         "graphics": false,
