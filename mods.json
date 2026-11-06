@@ -2171,6 +2171,13 @@
         "thumbnail": true,
         "other": false
     },
+    "ores-avoid-water": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "oxygen_survival": {
         "code": false,
         "graphics": true,
