@@ -832,6 +832,13 @@
         "thumbnail": true,
         "other": false
     },
+    "aotixzhcn": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "apia-bone-flesh": {
         "code": true,
         "graphics": false,
