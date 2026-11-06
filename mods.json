@@ -1683,6 +1683,13 @@
         "thumbnail": true,
         "other": false
     },
+    "gz-toroia": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "gz-tweaks": {
         "code": true,
         "graphics": true,
