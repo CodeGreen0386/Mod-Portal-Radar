@@ -1996,6 +1996,13 @@
         "thumbnail": false,
         "other": true
     },
+    "military-su100": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "military-support": {
         "code": true,
         "graphics": true,
