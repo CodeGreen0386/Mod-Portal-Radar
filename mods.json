@@ -287,6 +287,13 @@
         "thumbnail": false,
         "other": false
     },
+    "OrbitalIonCannon-Battery": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "PI-Instrumental-songs": {
         "code": true,
         "graphics": false,
