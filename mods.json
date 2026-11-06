@@ -1989,6 +1989,13 @@
         "thumbnail": true,
         "other": false
     },
+    "military-smerch": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": false,
+        "other": true
+    },
     "miniloader-redux-fork": {
         "code": true,
         "graphics": false,
