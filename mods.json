@@ -975,6 +975,13 @@
         "thumbnail": false,
         "other": false
     },
+    "back-to-stone-age": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "basic_cannon_turret": {
         "code": false,
         "graphics": false,
