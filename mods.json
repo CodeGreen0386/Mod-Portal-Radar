@@ -1571,6 +1571,13 @@
         "thumbnail": true,
         "other": false
     },
+    "gz-hazmat": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "gz-impact": {
         "code": false,
         "graphics": false,
