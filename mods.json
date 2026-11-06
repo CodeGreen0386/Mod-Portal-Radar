@@ -1280,6 +1280,13 @@
         "thumbnail": true,
         "other": false
     },
+    "csx-locomotive": {
+        "code": true,
+        "graphics": true,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "custom-recipe-loader": {
         "code": true,
         "graphics": false,
