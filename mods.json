@@ -1606,6 +1606,13 @@
         "thumbnail": true,
         "other": false
     },
+    "gz-pipeworks": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "gz-rpg": {
         "code": true,
         "graphics": false,
