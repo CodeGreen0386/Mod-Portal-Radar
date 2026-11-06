@@ -2704,6 +2704,13 @@
         "thumbnail": false,
         "other": false
     },
+    "water-is-not-infinite": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "weplay_se_kr": {
         "code": false,
         "graphics": false,
