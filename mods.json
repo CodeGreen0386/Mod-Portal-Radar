@@ -490,6 +490,13 @@
         "thumbnail": true,
         "other": false
     },
+    "Warp-Drive-Machine": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": true
+    },
     "WePlayBurnerBooster": {
         "code": false,
         "graphics": false,
