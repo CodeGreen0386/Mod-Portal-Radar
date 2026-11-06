@@ -1996,6 +1996,13 @@
         "thumbnail": false,
         "other": true
     },
+    "military-trucks": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": true
+    },
     "miniloader-redux-fork": {
         "code": true,
         "graphics": false,
