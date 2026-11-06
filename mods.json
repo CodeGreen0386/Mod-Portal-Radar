@@ -1555,6 +1555,13 @@
         "thumbnail": false,
         "other": false
     },
+    "just-the-beginning": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "k2-planet-mod": {
         "code": true,
         "graphics": true,
