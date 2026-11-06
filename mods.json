@@ -1627,6 +1627,13 @@
         "thumbnail": true,
         "other": false
     },
+    "gz-void-glass": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "gz-wooden-platform": {
         "code": false,
         "graphics": true,
