@@ -1485,6 +1485,13 @@
         "thumbnail": true,
         "other": false
     },
+    "everything-explodes": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "exotic-space-industries-remembrance": {
         "code": true,
         "graphics": false,
