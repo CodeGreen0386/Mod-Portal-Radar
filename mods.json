@@ -2460,6 +2460,13 @@
         "thumbnail": true,
         "other": false
     },
+    "tenebris": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "thats-no-rock": {
         "code": false,
         "graphics": false,
