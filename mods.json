@@ -466,6 +466,13 @@
         "thumbnail": false,
         "other": false
     },
+    "Stashify": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "TeleportAnywhere": {
         "code": false,
         "graphics": false,
