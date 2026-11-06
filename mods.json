@@ -34,6 +34,13 @@
         "thumbnail": false,
         "other": false
     },
+    "Atmos-Auto-Heal": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "Atmos-Enemy-Range-Visualizer": {
         "code": true,
         "graphics": false,
