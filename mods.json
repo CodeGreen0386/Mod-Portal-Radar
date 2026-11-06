@@ -1508,6 +1508,13 @@
         "text": true,
         "thumbnail": true
     },
+    "gz-diplomacy": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "gz-economy": {
         "code": true,
         "graphics": true,
