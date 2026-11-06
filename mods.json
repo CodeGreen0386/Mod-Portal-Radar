@@ -856,6 +856,13 @@
         "text": false,
         "thumbnail": true
     },
+    "autoprint-fixed": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "berbcorp-agricultural-power-planner": {
         "code": false,
         "graphics": false,
