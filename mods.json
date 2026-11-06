@@ -235,6 +235,13 @@
         "text": false,
         "thumbnail": true
     },
+    "InterstellarTeleport": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "Inventory-Declutter-Pocket-Dimension": {
         "code": true,
         "graphics": false,
