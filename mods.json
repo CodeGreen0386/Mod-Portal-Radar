@@ -1071,6 +1071,13 @@
         "thumbnail": true,
         "other": false
     },
+    "better-belt-balancer": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "better-pumpjacks": {
         "code": false,
         "graphics": false,
