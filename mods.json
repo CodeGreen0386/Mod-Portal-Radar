@@ -145,6 +145,13 @@
         "thumbnail": false,
         "other": false
     },
+    "ElectrifiedRailways": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "Exteros-QoL-System": {
         "code": false,
         "graphics": false,
