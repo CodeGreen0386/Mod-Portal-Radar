@@ -734,6 +734,13 @@
         "thumbnail": true,
         "other": false
     },
+    "advanced-energy": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "advanced-furnaces-2-updated": {
         "code": true,
         "graphics": false,
