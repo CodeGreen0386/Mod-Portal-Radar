@@ -1541,6 +1541,13 @@
         "thumbnail": true,
         "other": false
     },
+    "exotic-space-industries-remembrance-soundtrack-1": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": true
+    },
     "exotic-space-industries-remembrance": {
         "code": true,
         "graphics": false,
