@@ -1092,6 +1092,13 @@
         "thumbnail": true,
         "other": false
     },
+    "beyond-the-galaxy": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "big-pink-eraser": {
         "code": false,
         "graphics": false,
