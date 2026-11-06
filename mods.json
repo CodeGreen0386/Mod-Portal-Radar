@@ -1620,6 +1620,13 @@
         "thumbnail": true,
         "other": false
     },
+    "gz-wooden-platform": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "hive-mind": {
         "code": false,
         "graphics": true,
