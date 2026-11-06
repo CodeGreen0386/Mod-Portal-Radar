@@ -2133,6 +2133,13 @@
         "thumbnail": false,
         "other": false
     },
+    "planets-japanese": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "pocket-planner": {
         "code": true,
         "graphics": false,
