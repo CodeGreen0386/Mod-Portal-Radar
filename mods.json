@@ -1606,6 +1606,13 @@
         "thumbnail": true,
         "other": false
     },
+    "gz-teleport": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "gz-terra-assets": {
         "code": false,
         "graphics": false,
