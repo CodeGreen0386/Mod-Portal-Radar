@@ -2900,6 +2900,13 @@
         "thumbnail": false,
         "other": false
     },
+    "virentis": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "water-is-not-infinite-demo": {
         "code": false,
         "graphics": false,
