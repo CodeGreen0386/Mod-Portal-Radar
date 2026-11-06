@@ -2540,6 +2540,13 @@
         "thumbnail": true,
         "other": false
     },
+    "spoilage-combinator": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "sprint": {
         "code": false,
         "graphics": false,
