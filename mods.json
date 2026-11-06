@@ -1964,6 +1964,13 @@
         "thumbnail": true,
         "other": false
     },
+    "heavy_cannon_turret": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "hive-mind": {
         "code": false,
         "graphics": true,
