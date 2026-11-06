@@ -3019,6 +3019,13 @@
         "thumbnail": true,
         "other": false
     },
+    "warehouse-depots": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "water-is-not-infinite-demo": {
         "code": false,
         "graphics": false,
