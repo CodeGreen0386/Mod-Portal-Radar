@@ -2189,6 +2189,13 @@
         "thumbnail": true,
         "other": false
     },
+    "spider-mines": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "spidertrons-manager": {
         "code": false,
         "graphics": false,
