@@ -1536,6 +1536,13 @@
         "thumbnail": true,
         "other": false
     },
+    "gz-hardmode": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "gz-hazardous-materials": {
         "code": false,
         "graphics": false,
