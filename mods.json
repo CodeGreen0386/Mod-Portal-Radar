@@ -1530,6 +1530,13 @@
         "text": false,
         "thumbnail": true
     },
+    "first-of-his-name": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "flma": {
         "code": true,
         "graphics": false,
