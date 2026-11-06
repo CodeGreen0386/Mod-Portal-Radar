@@ -567,6 +567,13 @@
         "thumbnail": true,
         "other": false
     },
+    "WePlayTaxiLocomotive": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "WePlayTeslaEquipment": {
         "code": false,
         "graphics": false,
