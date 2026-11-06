@@ -2158,6 +2158,13 @@
         "thumbnail": false,
         "other": false
     },
+    "quiet-little-foundry-blue": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "quiet-little-foundry-green": {
         "code": false,
         "graphics": false,
