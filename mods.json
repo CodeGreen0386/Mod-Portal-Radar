@@ -1981,6 +1981,13 @@
         "thumbnail": true,
         "other": false
     },
+    "se_quality_priority": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "seablock-2-fixed": {
         "code": false,
         "graphics": false,
