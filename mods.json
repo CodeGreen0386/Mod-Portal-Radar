@@ -326,6 +326,13 @@
         "thumbnail": true,
         "other": false
     },
+    "Rapid-Deployment-Start": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "RealisticReactorsReborn_MasterShogoFork": {
         "code": true,
         "graphics": false,
