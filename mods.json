@@ -1967,6 +1967,13 @@
         "thumbnail": true,
         "other": false
     },
+    "more-everything": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "mts-dimension-warp": {
         "code": true,
         "graphics": false,
