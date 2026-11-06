@@ -1534,6 +1534,13 @@
         "thumbnail": false,
         "other": false
     },
+    "exotic-space-industries-remembrance-graphics-1": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "exotic-space-industries-remembrance": {
         "code": true,
         "graphics": false,
