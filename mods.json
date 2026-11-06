@@ -2477,6 +2477,13 @@
         "thumbnail": true,
         "other": false
     },
+    "pipe-draw": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "pipe-dream": {
         "code": false,
         "graphics": false,
