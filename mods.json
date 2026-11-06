@@ -121,8 +121,9 @@
     "Deep_Core_Operations_cn": {
         "code": false,
         "graphics": false,
-        "text": false,
-        "thumbnail": true
+        "text": true,
+        "thumbnail": true,
+        "other": false
     },
     "EditorPowerToggle": {
         "code": false,
