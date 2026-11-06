@@ -1753,6 +1753,13 @@
         "thumbnail": true,
         "other": false
     },
+    "heat_glow_reborn": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "hive-mind": {
         "code": false,
         "graphics": true,
