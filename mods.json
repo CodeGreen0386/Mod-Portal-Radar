@@ -1529,6 +1529,13 @@
         "thumbnail": true,
         "other": false
     },
+    "gz-tweaks": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "hive-mind": {
         "code": false,
         "graphics": true,
