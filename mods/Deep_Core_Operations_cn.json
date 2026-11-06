@@ -1,6 +1,7 @@
 {
     "code": false,
     "graphics": false,
-    "text": false,
-    "thumbnail": true
+    "text": true,
+    "thumbnail": true,
+    "other": false
 }
