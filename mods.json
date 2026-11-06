@@ -2347,6 +2347,13 @@
         "thumbnail": true,
         "other": false
     },
+    "razi-protocol": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "ready-to-shoot-2": {
         "code": false,
         "graphics": false,
