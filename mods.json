@@ -968,6 +968,13 @@
         "thumbnail": false,
         "other": false
     },
+    "basic_cannon_turret": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "berbcorp-agricultural-power-planner": {
         "code": false,
         "graphics": false,
