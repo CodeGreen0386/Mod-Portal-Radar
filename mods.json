@@ -2704,6 +2704,13 @@
         "thumbnail": false,
         "other": false
     },
+    "water-is-not-infinite-demo": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "water-is-not-infinite": {
         "code": false,
         "graphics": false,
