@@ -1870,6 +1870,13 @@
         "thumbnail": true,
         "other": false
     },
+    "krastorio2-vanilla-plates": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "land-title-registry": {
         "code": true,
         "graphics": false,
