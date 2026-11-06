@@ -1627,6 +1627,13 @@
         "thumbnail": true,
         "other": false
     },
+    "gz-terrain": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "gz-threat": {
         "code": true,
         "graphics": true,
