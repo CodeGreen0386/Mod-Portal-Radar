@@ -1309,6 +1309,13 @@
         "thumbnail": true,
         "other": false
     },
+    "chemical-complex": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "circuit-box": {
         "code": true,
         "graphics": false,
