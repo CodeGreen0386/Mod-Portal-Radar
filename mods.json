@@ -1881,6 +1881,13 @@
         "thumbnail": true,
         "other": false
     },
+    "personal-launcher-equipment": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "personal-repair-network": {
         "code": false,
         "graphics": false,
