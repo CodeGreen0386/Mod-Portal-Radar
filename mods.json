@@ -2049,6 +2049,13 @@
         "thumbnail": true,
         "other": false
     },
+    "planet-muluna": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "planet-zoo": {
         "code": true,
         "graphics": false,
