@@ -1,0 +1,48 @@
+name: Comment mod info
+on:
+  issues:
+    types: [opened]
+  push:
+    branches:
+      - master
+    paths:
+      - '.github/workflows/comment-mod-info.yml'
+      - 'scripts/issue-info.js'
+  workflow_dispatch:
+concurrency:
+  group: comment-mod-info
+  cancel-in-progress: false
+permissions:
+  contents: read
+  issues: write
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Generate mod info
+        if: github.event_name == 'issues'
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: node scripts/issue-info.js
+      - name: Post comment on new issue
+        if: github.event_name == 'issues' && env.COMMENT_FILE != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          already_commented="$(gh issue view "$ISSUE_NUMBER" --repo "$GH_REPO" --json comments \
+            --jq 'any(.comments[]; (.body // "") | contains("<!-- mod-portal-radar:mod-info -->"))')"
+          if [ "$already_commented" = "true" ]; then
+            echo "Mod info comment already exists; skipping"
+            exit 0
+          fi
+          gh issue comment "$ISSUE_NUMBER" --repo "$GH_REPO" --body-file "$COMMENT_FILE"
+      - name: Backfill open issues
+        if: github.event_name != 'issues'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+        run: node scripts/issue-info.js --all
