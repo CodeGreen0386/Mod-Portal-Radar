@@ -2772,6 +2772,13 @@
         "text": true,
         "thumbnail": true
     },
+    "space-age-railway-expansion": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "space-exploration-spaceproductivity-2-1": {
         "code": true,
         "graphics": false,
