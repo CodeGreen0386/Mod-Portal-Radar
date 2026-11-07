@@ -2795,6 +2795,13 @@
         "thumbnail": true,
         "other": false
     },
+    "range-tech": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "razi-more-asteroids": {
         "code": false,
         "graphics": false,
