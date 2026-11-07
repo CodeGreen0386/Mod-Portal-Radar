@@ -1296,6 +1296,13 @@
         "thumbnail": false,
         "other": false
     },
+    "big-miner": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "big-pink-eraser": {
         "code": false,
         "graphics": false,
