@@ -256,6 +256,13 @@
         "thumbnail": false,
         "other": false
     },
+    "K2_SO_nuclear_fuel_Compatibility": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "KrastorioAirPurifier21": {
         "code": false,
         "graphics": false,
