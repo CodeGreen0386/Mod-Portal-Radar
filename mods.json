@@ -2337,7 +2337,7 @@
         "graphics": true,
         "text": true,
         "thumbnail": false,
-        "other": false
+        "other": true
     },
     "military-trucks": {
         "code": true,
