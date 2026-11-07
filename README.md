@@ -24,4 +24,6 @@ Mods are labeled according to how AI was used, that way you can filter depending
 - Thumbnail: This one's pretty simple, if the mod has an AI-generated thumbnail.
 - Other: This is a catch-all for anything that doesn't fit the other labels. More specifically, it's still only things that were used in the creation of the mod, for example audio.
 
+Any mod that has its assets separated into one or more asset mods will be labeled as if it contains the assets, to appear consistent with mods that don't split their assets. This caveat only applies to the original mod the asset mods were intended to be used for.
+
 Due to the the nature of the labels being used for *any* amount of AI usage, be aware that choosing to hide mods could prevent you from seeing mods of good quality, especially for the Code label.
