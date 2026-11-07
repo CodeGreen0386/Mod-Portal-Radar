@@ -2972,8 +2972,8 @@
     "sosciencity-graphics": {
         "code": false,
         "graphics": true,
-        "text": true,
-        "thumbnail": true,
+        "text": false,
+        "thumbnail": false,
         "other": true
     },
     "sosciencity": {
