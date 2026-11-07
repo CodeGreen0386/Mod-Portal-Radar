@@ -609,6 +609,13 @@
         "thumbnail": true,
         "other": false
     },
+    "WePlayCartographerEquipment": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "WePlayChooChooTaxi": {
         "code": false,
         "graphics": false,
