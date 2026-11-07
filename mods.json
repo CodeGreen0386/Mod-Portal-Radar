@@ -201,6 +201,13 @@
         "thumbnail": true,
         "other": false
     },
+    "Gregtorio": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "Haystack": {
         "code": true,
         "graphics": false,
