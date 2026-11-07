@@ -2325,6 +2325,13 @@
         "thumbnail": true,
         "other": true
     },
+    "military-t90": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": false,
+        "other": false
+    },
     "military-trucks": {
         "code": true,
         "graphics": true,
