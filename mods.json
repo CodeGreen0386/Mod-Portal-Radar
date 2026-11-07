@@ -1010,6 +1010,13 @@
         "thumbnail": true,
         "other": false
     },
+    "behrooz-factorissimo-space-age": {
+        "code": false,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "berbcorp-agricultural-power-planner": {
         "code": false,
         "graphics": false,
