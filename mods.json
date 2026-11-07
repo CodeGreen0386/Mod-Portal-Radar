@@ -2979,8 +2979,8 @@
     "sosciencity": {
         "code": true,
         "graphics": true,
-        "text": true,
-        "thumbnail": true,
+        "text": false,
+        "thumbnail": false,
         "other": true
     },
     "space-age-easy-mode": {
