@@ -2458,6 +2458,13 @@
         "thumbnail": true,
         "other": false
     },
+    "omniab-space-age-compat": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "open-discord-bridge": {
         "code": true,
         "graphics": false,
