@@ -3,5 +3,5 @@
     "graphics": true,
     "text": true,
     "thumbnail": false,
-    "other": false
+    "other": true
 }
