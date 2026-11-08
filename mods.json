@@ -1619,6 +1619,13 @@
         "thumbnail": true,
         "other": false
     },
+    "dynamic-travel-distance": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "early-elevated-rails": {
         "code": true,
         "graphics": false,
