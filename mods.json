@@ -860,6 +860,13 @@
         "thumbnail": true,
         "other": false
     },
+    "advanced-radar-network": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "agentic-companion": {
         "code": true,
         "graphics": false,
