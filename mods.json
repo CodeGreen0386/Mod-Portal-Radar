@@ -559,7 +559,7 @@
         "code": true,
         "graphics": false,
         "text": true,
-        "thumbnail": true,
+        "thumbnail": false,
         "other": false
     },
     "UTLCouplingYard": {
