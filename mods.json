@@ -1393,6 +1393,13 @@
         "thumbnail": true,
         "other": false
     },
+    "bodyguard-companion-drones": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "bot-priority": {
         "code": true,
         "graphics": false,
