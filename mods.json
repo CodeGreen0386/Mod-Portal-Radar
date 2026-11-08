@@ -2997,6 +2997,13 @@
         "thumbnail": true,
         "other": false
     },
+    "shortcut-trash": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "shotgun-turret": {
         "code": false,
         "graphics": false,
