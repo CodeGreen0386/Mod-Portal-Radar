@@ -3293,6 +3293,13 @@
         "thumbnail": false,
         "other": false
     },
+    "turbo_fluids": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "turbo_player": {
         "code": false,
         "graphics": false,
