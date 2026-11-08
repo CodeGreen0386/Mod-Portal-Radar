@@ -2934,6 +2934,13 @@
         "thumbnail": true,
         "other": false
     },
+    "se-dynamic-ingot-plate-multiplier": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "se_quality_priority": {
         "code": false,
         "graphics": false,
