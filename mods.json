@@ -2899,6 +2899,13 @@
         "thumbnail": false,
         "other": false
     },
+    "rubia-rabbasca-icon": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "rubia": {
         "code": false,
         "graphics": true,
