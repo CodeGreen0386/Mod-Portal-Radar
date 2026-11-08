@@ -2381,6 +2381,13 @@
         "thumbnail": true,
         "other": false
     },
+    "military-mlrs": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "military-smerch": {
         "code": true,
         "graphics": true,
