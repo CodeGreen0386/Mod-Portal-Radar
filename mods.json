@@ -908,10 +908,11 @@
         "thumbnail": true
     },
     "ai_combinator": {
-        "code": false,
+        "code": true,
         "graphics": false,
-        "text": false,
-        "thumbnail": true
+        "text": true,
+        "thumbnail": true,
+        "other": true
     },
     "air-cleaning": {
         "code": false,
