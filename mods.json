@@ -958,6 +958,13 @@
         "thumbnail": false,
         "other": false
     },
+    "apia": {
+        "code": false,
+        "graphics": true,
+        "text": false,
+        "thumbnail": false,
+        "other": false
+    },
     "aquilo-start": {
         "code": true,
         "graphics": false,
