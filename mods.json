@@ -2528,6 +2528,13 @@
         "thumbnail": true,
         "other": false
     },
+    "no-power-drains-improved": {
+        "code": true,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "no-solid-fuel-vehicles": {
         "code": false,
         "graphics": false,
