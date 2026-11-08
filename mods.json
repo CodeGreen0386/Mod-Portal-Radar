@@ -3264,6 +3264,13 @@
         "thumbnail": true,
         "other": false
     },
+    "water-ford": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true,
+        "other": true
+    },
     "water-is-not-infinite-demo": {
         "code": false,
         "graphics": false,
