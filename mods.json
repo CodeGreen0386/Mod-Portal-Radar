@@ -658,6 +658,13 @@
         "thumbnail": true,
         "other": false
     },
+    "WePlayObservationBuggy": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "WePlayPlutoniumJetpackFuel": {
         "code": false,
         "graphics": false,
