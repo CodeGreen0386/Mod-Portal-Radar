@@ -700,6 +700,13 @@
         "thumbnail": true,
         "other": false
     },
+    "WePlayTrainsGetRadar": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "WePlayWindowOutputCombinator": {
         "code": false,
         "graphics": false,
