@@ -860,6 +860,13 @@
         "thumbnail": true,
         "other": false
     },
+    "agentic-companion": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": false,
+        "other": true
+    },
     "ai-agent-bridge": {
         "code": true,
         "graphics": false,
