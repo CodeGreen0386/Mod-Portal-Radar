@@ -1744,6 +1744,13 @@
         "thumbnail": true,
         "other": false
     },
+    "extended-undergrounds": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "extremely-fluffy": {
         "code": false,
         "graphics": false,
