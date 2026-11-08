@@ -2768,6 +2768,13 @@
         "thumbnail": true,
         "other": false
     },
+    "quality-underground-pipes": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "quality-unlocked-from-start-updated": {
         "code": true,
         "graphics": false,
