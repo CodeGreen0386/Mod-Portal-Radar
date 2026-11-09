@@ -33,7 +33,7 @@ async function init() {
     const filtersResult = await browser.storage.local.get("filters")
     filters = filtersResult.filters ?? {}
     for (let [name, _] of Object.entries(categories)) {
-        if (filters[name] === undefined) filters[name] = true
+        if (filters[name] === undefined) filters[name] = false
     }
 
     filter()
