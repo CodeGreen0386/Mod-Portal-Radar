@@ -462,6 +462,9 @@
     "YAIM904-d16b-electricity-without-pollution": {
         "text": true
     },
+    "YAIM904-d18b-force-production-in-all-recipes": {
+        "text": true
+    },
     "YAIM904-d19b-force-a-slot-for-modules": {
         "text": true
     },
