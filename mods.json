@@ -1408,6 +1408,13 @@
         "thumbnail": true,
         "other": false
     },
+    "blueprint-preview-editor": {
+        "code": true,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "blueprint-share": {
         "code": false,
         "graphics": false,
