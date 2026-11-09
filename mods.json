@@ -465,6 +465,9 @@
     "YAIM904-d16b-electricity-without-pollution": {
         "text": true
     },
+    "YAIM904-d17b-combustion-without-pollution": {
+        "text": true
+    },
     "YAIM904-d18b-force-production-in-all-recipes": {
         "text": true
     },
