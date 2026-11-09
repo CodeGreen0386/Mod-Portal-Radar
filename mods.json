@@ -356,7 +356,7 @@
         "thumbnail": true
     },
     "Warp-Drive-Machine": {
-        "other": true
+        "audio": true
     },
     "WePlayBurnerBooster": {
         "text": true,
@@ -1032,8 +1032,7 @@
     },
     "exotic-space-industries-remembrance-soundtrack-1": {
         "text": true,
-        "thumbnail": true,
-        "other": true
+        "thumbnail": true
     },
     "exotic-space-industries-remembrance": {
         "code": true,
@@ -1401,10 +1400,10 @@
         "thumbnail": true
     },
     "military-smerch": {
+        "audio": true,
         "code": true,
         "graphics": true,
-        "text": true,
-        "other": true
+        "text": true
     },
     "military-su100": {
         "code": true,
@@ -1412,24 +1411,24 @@
         "text": true
     },
     "military-support": {
+        "audio": true,
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": true
+        "thumbnail": true
     },
     "military-t90": {
+        "audio": true,
         "code": true,
         "graphics": true,
-        "text": true,
-        "other": true
+        "text": true
     },
     "military-trucks": {
+        "audio": true,
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": true
+        "thumbnail": true
     },
     "mineore": {
         "code": true,
@@ -1746,8 +1745,8 @@
         "thumbnail": true
     },
     "rubia": {
-        "graphics": true,
-        "other": true
+        "audio": true,
+        "graphics": true
     },
     "russian-bobs-angels": {
         "thumbnail": true
@@ -1804,13 +1803,11 @@
         "thumbnail": true
     },
     "sosciencity-graphics": {
-        "graphics": true,
-        "other": true
+        "graphics": true
     },
     "sosciencity": {
         "code": true,
-        "graphics": true,
-        "other": true
+        "graphics": true
     },
     "space-age-easy-mode": {
         "text": true,
