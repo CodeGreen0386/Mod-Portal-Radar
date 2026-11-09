@@ -435,7 +435,13 @@
     "YAIM904-d11b-loader": {
         "text": true
     },
+    "YAIM904-d12b-compactors": {
+        "text": true
+    },
     "YAIM904-d21b-equipment-1x1": {
+        "text": true
+    },
+    "YAIM904-d25b-fast-crafting": {
         "text": true
     },
     "YAIM904-d26b-fast-mining": {
