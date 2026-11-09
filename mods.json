@@ -190,6 +190,10 @@
     "MysteriousStranger": {
         "text": true
     },
+    "NM_More_Module": {
+        "text": true,
+        "thumbnail": true
+    },
     "Nanobots3": {
         "text": true
     },
@@ -936,7 +940,8 @@
         "thumbnail": true
     },
     "diggy": {
-        "other": false
+        "text": true,
+        "thumbnail": true
     },
     "dimensional_storage": {
         "thumbnail": true
@@ -1305,7 +1310,8 @@
         "thumbnail": true
     },
     "just-one-last-task": {
-        "other": false
+        "text": true,
+        "thumbnail": true
     },
     "just-the-beginning": {
         "text": true,
