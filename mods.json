@@ -456,6 +456,9 @@
     "YAIM904-d16b-electricity-without-pollution": {
         "text": true
     },
+    "YAIM904-d19b-force-a-slot-for-modules": {
+        "text": true
+    },
     "YAIM904-d20b-maximum-stack-size": {
         "text": true
     },
