@@ -456,6 +456,9 @@
     "YAIM904-d12b-compactors": {
         "text": true
     },
+    "YAIM904-d14b-minimal-drain-electricity": {
+        "text": true
+    },
     "YAIM904-d16b-electricity-without-pollution": {
         "text": true
     },
