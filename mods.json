@@ -432,6 +432,9 @@
     "YAIM904-d01b-1x1-entities": {
         "text": true
     },
+    "YAIM904-d02b-armors-with-immunity": {
+        "text": true
+    },
     "YAIM904-d03b-robots-with-immunity": {
         "text": true
     },
@@ -460,6 +463,9 @@
         "text": true
     },
     "YAIM904-d12b-compactors": {
+        "text": true
+    },
+    "YAIM904-d13b-compacted-update": {
         "text": true
     },
     "YAIM904-d14b-minimal-drain-electricity": {
