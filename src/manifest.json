@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Mod Portal Radar",
-    "version": "1.0",
+    "version": "1.1",
     "description": "Hide and tag Factorio mods with AI usage, powered by a community-maintained database.",
     "icons": {
         "32": "radar-32.png",
