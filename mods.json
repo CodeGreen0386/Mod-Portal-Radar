@@ -76,6 +76,13 @@
         "thumbnail": true,
         "other": false
     },
+    "BeltThreadUpgrades": {
+        "code": false,
+        "graphics": false,
+        "text": false,
+        "thumbnail": true,
+        "other": false
+    },
     "BlueprintPrimer": {
         "code": true,
         "graphics": false,
