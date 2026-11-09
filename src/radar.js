@@ -1,6 +1,10 @@
 const loggedIn = !document.querySelector('a[href^="/login"]')
 
 const categories = {
+    audio: {
+        title: "Audio",
+        description: "Sound effects, music, or other in-game audio sources."
+    },
     code: {
         title: "Code",
         description: "Any amount of generated or assisted code."

@@ -17,6 +17,7 @@ body:
       label: AI Usage
       description: In what ways the mod uses AI. (check all that apply)
       options:
+        - label: Audio
         - label: Code
         - label: Graphics
         - label: Text

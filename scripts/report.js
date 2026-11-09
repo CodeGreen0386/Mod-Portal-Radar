@@ -22,6 +22,7 @@ const output = `mods/${name}.json`
 
 const aiUsage = getSection("AI Usage")
 const mod = {
+    audio: /- \[x\] Audio/.test(aiUsage),
     code: /- \[x\] Code/.test(aiUsage),
     graphics: /- \[x\] Graphics/.test(aiUsage),
     text: /- \[x\] Text/.test(aiUsage),
