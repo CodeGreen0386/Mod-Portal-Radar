@@ -895,6 +895,13 @@
         "thumbnail": false,
         "other": true
     },
+    "agritario": {
+        "code": false,
+        "graphics": false,
+        "text": true,
+        "thumbnail": true,
+        "other": false
+    },
     "ai-agent-bridge": {
         "code": true,
         "graphics": false,
