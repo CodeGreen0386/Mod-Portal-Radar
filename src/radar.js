@@ -54,21 +54,20 @@ function filter() {
         createSearchFilters()
     }
 
-    document.querySelectorAll('a[href*="/mod/"]').forEach((link) => {
-        if (link.className !== "block") return
-
-        let panel = link
-        for (let i = 0; i < 5; i++) {
+    document.querySelectorAll('.mod-card-info').forEach((card) => {
+        let panel = card
+        for (let i = 0; i < 3; i++) {
             panel = panel.parentElement
         }
 
         // tooltip z-index jank
         panel.children[0].style.zIndex = 100 - [...panel.parentElement.children].indexOf(panel)
 
-        let modName = link.pathname.split("/")[2]
-        let usage = mods[modName]
+        const link = panel.querySelector('a[href*="/mod/"]')
+        const modName = link.pathname.split("/")[2]
+        const usage = mods[modName]
         if (usage) {
-            createAITag(panel, usage)
+            createAITag(card, usage)
 
             if (inSearchList) {
                 if (panel.style.display === "none") {
@@ -133,7 +132,7 @@ function createSearchFilters() {
             span.className = checkbox.checked ? "disabled-label" : ""
             filters[name] = checkbox.checked
             filter()
-            
+
             browser.storage.local.set({
                 filters: filters
             })
@@ -141,11 +140,10 @@ function createSearchFilters() {
     }
 }
 
-function createAITag(panel, usage) {
-    if (panel.querySelector("#ai-usage")) return
-    let info = panel.querySelector(".mod-card-info").parentElement
+function createAITag(card, usage) {
+    if (card.querySelector("#ai-usage")) return
 
-    let tag = info.appendChild(document.createElement("div"))
+    let tag = card.appendChild(document.createElement("div"))
     tag.id ="ai-usage"
     tag.className = "pb8 result-field category-label"
 
@@ -158,7 +156,7 @@ function createAITag(panel, usage) {
     span.textContent = "AI usage"
     span.className = "orange bold"
 
-    let tooltip = info.appendChild(document.createElement("div"))
+    let tooltip = card.appendChild(document.createElement("div"))
     tooltip.className = "tooltip"
     tooltip.role = "tooltip"
 
