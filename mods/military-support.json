@@ -1,7 +1,7 @@
 {
+    "audio": true,
     "code": true,
     "graphics": true,
     "text": true,
-    "thumbnail": true,
-    "other": true
+    "thumbnail": true
 }

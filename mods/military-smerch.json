@@ -1,6 +1,6 @@
 {
+    "audio": true,
     "code": true,
     "graphics": true,
-    "text": true,
-    "other": true
+    "text": true
 }
