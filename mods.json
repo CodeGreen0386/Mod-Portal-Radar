@@ -432,6 +432,9 @@
     "YAIM904-d01b-1x1-entities": {
         "text": true
     },
+    "YAIM904-d03b-robots-with-immunity": {
+        "text": true
+    },
     "YAIM904-d04b-robots-with-unlimited-electricity": {
         "text": true
     },
