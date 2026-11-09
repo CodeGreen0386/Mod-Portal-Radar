@@ -1436,6 +1436,10 @@
         "graphics": true,
         "thumbnail": true
     },
+    "lamp-slider": {
+        "code": true,
+        "text": true
+    },
     "land-title-registry": {
         "code": true,
         "text": true,
