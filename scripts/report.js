@@ -31,8 +31,11 @@ const mod = {
 }
 
 let anyUsed = false
-for (let [_, used] of Object.entries(mod)) {
+for (let [key, used] of Object.entries(mod)) {
     anyUsed = anyUsed || used
+    if (!used) {
+        delete mod[key]
+    }
 }
 
 if (anyUsed) {
