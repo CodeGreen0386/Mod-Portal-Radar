@@ -1,2262 +1,1294 @@
 {
     "ABS-CosmoDroneGPTComp": {
-        "code": false,
         "graphics": true,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "ABS-FriendsGPTComp": {
         "code": true,
         "graphics": true,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "AllDaPower": {
-        "code": false,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "AluminiumX": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "Aquilo_Ofenhocker": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "Atmos-Auto-Heal": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Atmos-Enemy-Range-Visualizer": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Atmos-Shotgun-Tiers": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "AutoBestQuality": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "BRCombinator": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "BeaconAdjust": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "BeltThreadUpgrades": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "BlueprintPrimer": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "CheaperCoalSynthesis": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "Citify": {
         "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Compatibility-Mod-5D-and-bobsassembly": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Compatibility-Mod-5D-and-bobslogistic": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Compatibility-Mod-5D-and-bobspower": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Compatibility-Mod-5D-and-bobswarfare": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "CzechTranslations": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "DCO-Tweaks": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Deep_Core_Operations_cn": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "EditorPowerToggle": {
-        "code": false,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
     "Electric_Furnaces_Reborn": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "ElectrifiedRailways": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Exteros-QoL-System": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "FactorioCasino": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "ForeverMine": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Fulgora_Replicators": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "GZ-Saurus-Wrecks-AS": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "GZ-Saurus-Wrecks-QOL": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Gregtorio": {
-        "code": false,
-        "graphics": true,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "graphics": true
     },
     "Haystack": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Hephaestus": {
         "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Igrys": {
-        "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "code": true
     },
     "InfiniteOres": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "Instant-Crafting": {
-        "code": false,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "InterstellarTeleport": {
-        "code": false,
         "graphics": true,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Inventory-Declutter-Pocket-Dimension": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "K1-space": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "K2_SO_nuclear_fuel_Compatibility": {
         "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "KrastorioAirPurifier21": {
-        "code": false,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "Li-VariationFactory": {
-        "code": false,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "LilEinstein": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Lumify": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "MegaRPG": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "MetalAndStarsSkin": {
-        "code": false,
         "graphics": true,
-        "text": false,
         "thumbnail": false
     },
     "MtnFortressAddons": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "MtnFortressAddonsPt2": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "MysteriousStranger": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "Nanobots3": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "OrbitalIonCannon-Battery": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "PI-Instrumental-songs": {
         "code": true,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
     "PI-house-made-music": {
-        "code": false,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
     "PlanetPadTeleporter": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "PlanetsLib": {
-        "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "code": true
     },
     "Player-Upgrade-System": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "PowerArmorMK11": {
         "code": true,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
     "PoweredFloorContinued": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Quantum-Teleporter": {
         "code": true,
         "graphics": true,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "RERailworld": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "RExtended": {
-        "code": false,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Rapid-Deployment-Start": {
         "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "RealisticFusionPower-DSHfork": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "RealisticReactorsReborn_MasterShogoFork": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "RiftRail": {
-        "code": false,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
     "Sceatorio-Natural-Spawns": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "Sceatorio": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "SeaBlock-RU-Localization": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "SeaBlock21": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "ShoterBeltPlanner": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "SmoothStart": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Sortify": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "SpaceIndustryContinued": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "SpacePlatformOrgUI-Enhanced": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "Squadify": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Stashify": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "StatsGui-HandcraftTimer-2-1": {
         "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Stockify": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "StoneToStars": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Sweepbot": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "TeleportAnywhere": {
-        "code": false,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
     "TeleportFavorites": {
-        "code": false,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
     "The_Beast": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "Thud": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "UTLCouplingYard": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "UTLogistics": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Unlimited_Inventory": {
-        "code": false,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "VanillaReviseV2": {
-        "code": false,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "Vehicle-Teleportator": {
-        "code": false,
         "graphics": true,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Warp-Drive-Machine": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": false,
         "other": true
     },
     "WePlayBurnerBooster": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "WePlayBurnerModule": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "WePlayCartographerEquipment": {
-        "code": false,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "WePlayChooChooTaxi": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "WePlayEverythingStacks": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "WePlayFactoryCart": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "WePlayJunkCannon": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "WePlayLightningRodEquipment": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "WePlayMrFusion": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "WePlayObservationBuggy": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "WePlayPlutoniumJetpackFuel": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "WePlayRocketLauncherEquipment": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "WePlaySinkLastSlot": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "WePlaySpaceAge": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "WePlayTakenForARide": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "WePlayTaxiLocomotive": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "WePlayTeslaEquipment": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "WePlayTrainsGetRadar": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "WePlayWindowOutputCombinator": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "YKR_Early_Scrapper": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "YKR_Easy_Mats": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "YKR_Far_Reach": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "YKR_Logistic_Chests": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "YKR_NewStartGame": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "YKR_PTBR": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "YKR_PolesMax": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": false,
         "other": true
     },
     "YKR_Quality_Cultivation": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "YKR_Stake_Size": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "YKR_inventory": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "YKR_inventory_100slot": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "YKR_inventory_500slot": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "YRK_underground_belts": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "Yuoki": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "aai-loaders-stacking-filtering-bob": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "adjustable-quality": {
         "code": true,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
     "advanced-assembling-machine-improved": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "advanced-energy": {
-        "code": false,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "advanced-furnaces-2-updated": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "advanced-radar-network": {
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "agentic-companion": {
         "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": false,
         "other": true
     },
     "agritario": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "ai-agent-bridge": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "ai-coworker": {
-        "code": false,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "ai-engineer": {
         "code": true,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "ai_combinator": {
         "code": true,
-        "graphics": false,
         "text": true,
         "thumbnail": true,
         "other": true
     },
     "air-cleaning": {
-        "code": false,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "air-logistics-tower": {
-        "code": false,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "air-scrubbing-ru": {
-        "code": false,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "alternative-pentapod-egg-recipe": {
-        "code": false,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "always-firing-flamethrower-turret": {
-        "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "code": true
     },
     "angelbob-spaceage-rebalance": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "anti-jam-stack-inserter": {
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "antimony": {
-        "code": false,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "aotixzhcn": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "apia-bone-flesh": {
-        "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "code": true
     },
     "apia": {
-        "code": false,
-        "graphics": true,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "graphics": true
     },
     "aquilo-start": {
-        "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "code": true
     },
     "arabic-complete": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "area-heating-tower": {
-        "code": false,
         "graphics": true,
         "text": true,
         "thumbnail": true
     },
     "atan-ash-fork": {
-        "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "code": true
     },
     "atmos_auto_fire": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "atrm": {
-        "code": false,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
     "auto-build-and-deconstruct": {
-        "code": false,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
     "auto-factory-planner": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "auto-loader-chest": {
         "code": true,
         "graphics": true,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "auto-train-manager": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "auto-train-refuel": {
         "code": true,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "autoprint-fixed": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "back-to-stone-age": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "basic_cannon_turret": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "behrooz-factorissimo-space-age": {
-        "code": false,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-agricultural-power-planner": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-agricultural-science-no-egg": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-area-cleaner": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-barrel-capacity": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-belts": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-biochamber-no-egg": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-biolab-no-biter-egg-needed": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-cheaper-artificial-jellynut-soil": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-cheaper-artificial-yumako-soil": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-cheaper-foundations": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-cheaper-ice-platform": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-cheaper-landfill": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-cheaper-overgrowth-jellynut-soil": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-cheaper-overgrowth-yumako-soil": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-coal-oil-assembler": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-coal-to-wood-recipe": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-double-heat-pipe-heating-radius": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-electro-heater": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-expansion-harness": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-filter-assistant": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-infinite-resources-ups-safe": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-inserter-control": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-item-stack-tuning": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-lane-balancers": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-lava-oil-landfill": {
-        "code": false,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
     "berbcorp-loaders": {
-        "code": false,
         "graphics": true,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-no-biter-egg-overgrowth-soil": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-pipe-to-ground-tier-2": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-teleporters-addon-2-1-ready": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "berbcorp-threshold-valves": {
-        "code": false,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-upgrade-cargo-bay-slots": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-upgrade-personal-trash-slots": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-uses-more-long-inserters": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-uses-warehousing": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "berbcorp-warehousing": {
-        "code": false,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "better-belt-balancer": {
-        "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "code": true
     },
     "better-pumpjacks": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "beyond-the-galaxy": {
-        "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "code": true
     },
     "big-miner": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "big-pink-eraser": {
-        "code": false,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "big-storage-tank-hd": {
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "biter-resource-farms": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "black-market-2-updated": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "blueprint-deconstruction-markers": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "blueprint-from-helmod": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "blueprint-preview-editor": {
         "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "blueprint-share": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "bodyguard-companion-drones": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "bot-priority": {
         "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "bots-infinite-charge-updated": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "brave-new-mts": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "cadmium": {
-        "code": false,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "caesium": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "car_defenes": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "cargo-bay-loader": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "cargo-landing-pad-logistics": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "carna": {
-        "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "code": true
     },
     "cbs-electric-steel-furnace": {
-        "code": false,
         "graphics": true,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "character-control": {
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "chemical-complex": {
         "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "circuit-box": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "clear-science-dyes": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "cliff-builder": {
-        "code": false,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
     "clock-generator-sidecar": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "cma-graphics": {
-        "code": false,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "coal-oil-2-1-ready": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "colonial-horizons": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "crop-spray": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "crushing-industry-tweaks": {
-        "code": false,
         "graphics": true,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "csx-locomotive": {
         "code": true,
-        "graphics": true,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "graphics": true
     },
     "custom-recipe-loader": {
         "code": true,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "cybersyn2-combinator-fork": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "dark-matter-replicators-reborn": {
-        "code": false,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
     "deepcore-exile": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "default-quickbar": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "diggy": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": false,
         "other": false
     },
     "dimensional_storage": {
-        "code": false,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "diode-combinator-redux": {
         "code": true,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "disco-science-lite": {
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "divisor_tres_vias": {
-        "code": false,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "dustline": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "dynamic-rain": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "dynamic-travel-distance": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "early-elevated-rails": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "early-foundations-fulgora-exclusive": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "easy-materials-2-1-ready": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "electromagnetic-plant-boost": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "estrogen-mod": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "even-better-deconstruction-planner": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "even-distribution-fork": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "even-distribution-updated": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "even-pickier-dollies": {
-        "code": false,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "even_distribution": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "everything-explodes": {
-        "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "code": true
     },
     "exotic-space-industries-remembrance-graphics-1": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "exotic-space-industries-remembrance-graphics-2": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "exotic-space-industries-remembrance-graphics-3": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "exotic-space-industries-remembrance-graphics-4": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "exotic-space-industries-remembrance-graphics-5": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "exotic-space-industries-remembrance-soundtrack-1": {
-        "code": false,
-        "graphics": false,
         "text": true,
         "thumbnail": true,
         "other": true
     },
     "exotic-space-industries-remembrance": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "extended-undergrounds": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "extremely-fluffy": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "facc-redux": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "factokyo-drift": {
-        "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "code": true
     },
     "factorio-admin-command-center-locales": {
-        "code": false,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "factorio-admin-command-center": {
-        "code": false,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
     "factorio-autodrive": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "factorio-light-space-age": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "factorio-research-queue-for-space_age": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "factorio_llm_use": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "factorissimo-gadgetroch": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "factory-extensions": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "factory-levels": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "factory-night-watch": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "factory-planning-room": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "factory-radar": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "fast-quality-buttons": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "fast-start-2": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "faster-rocket-animations": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "fireproof-land-mines-2-0-port": {
-        "code": false,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "first-of-his-name": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "flma": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "fluid-heat-dissipation": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "freight-stations-rats-fork": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "gallium": {
-        "code": false,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gizmod-overhaul": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gizmod": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "global-storage": {
-        "code": false,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
     "gregtorio-continued": {
         "code": true,
         "graphics": true,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "gz-bioflux-autofeeder": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-chitin": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-diplomacy": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-ecology": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-economy": {
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-flattening-industry": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-hardmode": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-hazardous-materials": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-hazmat": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-impact": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-infrastructure": {
-        "code": false,
         "graphics": true,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-loot": {
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-ore": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-pipeworks": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-rpg": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-strikes": {
-        "code": false,
         "graphics": true,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-teleport": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-terra-assets": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-terra-multi": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-terra-nauvis": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-terra": {
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-terrain": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-threat": {
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-toroia": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-tweaks": {
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-void-glass": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-water-balloons": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "gz-wooden-platform": {
-        "code": false,
         "graphics": true,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "heat_glow_reborn": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "heavy_cannon_turret": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "hive-mind": {
-        "code": false,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "hmph-wiretap": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "house-fire-overhaul-mod": {
-        "code": false,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "hydrocarbon-industry": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "immersive_locomotives_fork": {
         "code": true,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "industrial-worlds": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "inicio_rapido": {
         "code": true,
@@ -2266,184 +1298,112 @@
     },
     "interplanetary-rockets": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "interstellar-progression-overhaul": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "just-one-last-task": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": false,
         "other": false
     },
     "just-the-beginning": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "k2-planet-mod": {
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "k2-science-flasks": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "k2-standalone-balance": {
         "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "krastorio2-vanilla-plates": {
-        "code": false,
         "graphics": true,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "land-title-registry": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "lawlzer-enemy-overhaul": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "lazy-bastards-friend": {
-        "code": false,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
     "loaders-modernized-integrations": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "loaders-modernized": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "logistic-network-grids": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "logistic-reactors-2-fixed": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "machine-swapper": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "magic-science-chest-optimized": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "magnesium": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "maritime-industry": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "matts-logistics-updated": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "max-rate-calculator-updated": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "mech-armor-expanded": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "mechanicist-factorio": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "military-mlrs": {
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "military-smerch": {
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": false,
         "other": true
     },
     "military-su100": {
         "code": true,
         "graphics": true,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "military-support": {
         "code": true,
@@ -2456,7 +1416,6 @@
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": false,
         "other": true
     },
     "military-trucks": {
@@ -2468,740 +1427,421 @@
     },
     "mineore": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "minigun-turret-HD": {
-        "code": false,
-        "graphics": true,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "graphics": true
     },
     "miniloader-redux-fork": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "mining-yield-multiplier": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "molybdenum": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "more-everything": {
-        "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "code": true
     },
     "mts-dimension-warp": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "multi-team-support": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "nautical_map": {
-        "code": false,
         "graphics": true,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "neodymium": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "nexus-bosses": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "no-ammo-turrets": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "no-biter-egg-recipe-productivity-module-3": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "no-power-drains-improved": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "no-solid-fuel-vehicles": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "no-spoilage-recipe-efficiency-module-3": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "no-tungsten-recipe-speed-module-3": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "nomad": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "ns-locomotive": {
         "code": true,
-        "graphics": true,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "graphics": true
     },
     "nulla-cerys-radiation-fix": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "objective-chests": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "omniab-space-age-compat": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "open-discord-bridge": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "ores-avoid-water": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "oxygen_survival": {
-        "code": false,
         "graphics": true,
         "text": true,
         "thumbnail": true
     },
     "oxygen_survival_climate": {
-        "code": false,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "personal-autocraft": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "personal-launcher-equipment": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "personal-repair-network": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "phosphorus": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "pipe-draw": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "pipe-dream": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "planet-crafter-nauvis": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "planet-express": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "planet-muluna": {
-        "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "code": true
     },
     "planet-pandora": {
-        "code": false,
         "graphics": true,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "planet-zoo": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "planets-japanese": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "pocket-planner": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "pocket-supply": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "pole_range_plus": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "pollution-absorber-improved": {
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "power-logistics": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "pressure-barrel": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "production-ratio": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "productivity-through-science": {
-        "code": false,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "py-armor-quickstart": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "py-better-caravans": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "py-caravan-swarm": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "py_ai_speed_module": {
         "code": true,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
     "quality-atomic-bombs": {
-        "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "code": true
     },
     "quality-compressor": {
-        "code": false,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "quality-control": {
-        "code": false,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
     "quality-cycler": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "quality-seeds-on-nauvis": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "quality-underground-pipes": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "quality-unlocked-from-start-updated": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "quiet-little-foundry-blue": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "quiet-little-foundry-green": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "quiet-little-foundry-indigo": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "quiet-little-foundry-orange": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "quiet-little-foundry-violet": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "quiet-little-foundry-yellow": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "quiet-little-foundry": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "radar-dependent-map-view": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "radar_range_speed_control": {
         "code": true,
         "graphics": true,
-        "text": false,
         "thumbnail": false
     },
     "radiation-damage": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "radioactive-elements": {
-        "code": false,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "range-tech": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "razi-more-asteroids": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "razi-protocol": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "ready-to-shoot-2": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "real-industrial-chemistry": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "research-cost-shaper": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "resource-balance": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "resource-editor-tool": {
-        "code": false,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "resource-outpost-planner": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "robot-battery-swap": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "rubia-rabbasca-icon": {
-        "code": false,
         "graphics": true,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "rubia": {
-        "code": false,
         "graphics": true,
-        "text": false,
-        "thumbnail": false,
         "other": true
     },
     "russian-bobs-angels": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "sanity-check": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "schmuels-bot-start": {
         "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "se-dynamic-ingot-plate-multiplier": {
         "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "se_quality_priority": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "seablock-2-fixed": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "self-expanding-blueprints": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "sem-levelup-fork": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "sem-levelup-plus-fork": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "shared-radar": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "shortcut-trash": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "shotgun-turret": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "silbas-classes": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "smart-train-combinator": {
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "sosciencity-graphics": {
-        "code": false,
         "graphics": true,
-        "text": false,
-        "thumbnail": false,
         "other": true
     },
     "sosciencity": {
         "code": true,
         "graphics": true,
-        "text": false,
-        "thumbnail": false,
         "other": true
     },
     "space-age-easy-mode": {
-        "code": false,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
     "space-age-railway-expansion": {
-        "code": false,
         "graphics": true,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "space-exploration-spaceproductivity-2-1": {
-        "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "code": true
     },
     "space-platform-blueprint-helper": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "space_teleport_v2": {
-        "code": false,
-        "graphics": false,
-        "text": false,
         "thumbnail": true
     },
     "speedy_bots": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "spider-mines": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "spidertrons-manager": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "spoilage-combinator": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "sprint": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "st-pollution-on-kill": {
-        "code": false,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
@@ -3209,102 +1849,63 @@
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "stackwise-circuits": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "starter-construction-bots": {
         "code": true,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "sulfur-everywhere": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "supply-challenge-plus-plus": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "tanvec-ai-cn": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "tdr_central": {
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "tech-cards-retexture-AI-powered": {
-        "code": false,
         "graphics": true,
-        "text": false,
         "thumbnail": false
     },
     "teleporters-2-1-ready": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "tellurium": {
-        "code": false,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "tenebris-prime": {
-        "code": false,
         "graphics": true,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "tenebris": {
-        "code": false,
         "graphics": true,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "thats-no-rock": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "this-is-my-island": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "time-control": {
-        "code": false,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
@@ -3312,98 +1913,59 @@
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "train-foundry": {
-        "code": false,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "train-interiors": {
-        "code": false,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "trainConstructionSiteFork": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "trainConstructionSiteManager": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "trains_hit_mech_armor": {
-        "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "code": true
     },
     "turbo_fluids": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "turbo_player": {
-        "code": false,
-        "graphics": false,
         "text": true,
         "thumbnail": true
     },
     "tweaked-computers": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "uranium_geiger_continued": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "vagor_perevodchik": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "very-fluffy": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "virentis": {
-        "code": false,
         "graphics": true,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "warehouse-depots": {
-        "code": false,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "water-ford": {
         "code": true,
@@ -3413,135 +1975,78 @@
         "other": true
     },
     "water-is-not-infinite-demo": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "water-is-not-infinite": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "weplay_se_kr": {
-        "code": false,
-        "graphics": false,
-        "text": false,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "where-dat-is": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "winter-is-coming": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "worldscape-combat": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "xiuxian-english-translation": {
-        "code": false,
         "graphics": true,
         "text": true,
         "thumbnail": false
     },
     "yi_engines": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "yi_pfw": {
-        "code": false,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "yi_railway": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "yuoki-quinityn": {
         "code": true,
         "graphics": true,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "z_yira_UP": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "z_yira_american": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "z_yira_yuokirails": {
         "code": true,
-        "graphics": false,
-        "text": true,
-        "thumbnail": false,
-        "other": false
+        "text": true
     },
     "zzz-berbcorp-no-aquilo-belt-freeze": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "zzz-berbcorp-no-aquilo-fluid-freeze": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "zzz-berbcorp-no-aquilo-pumpjack-freeze": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "zzz-berbcorp-roboport-dont-freeze-on-aquilo": {
-        "code": false,
-        "graphics": false,
         "text": true,
-        "thumbnail": true,
-        "other": false
+        "thumbnail": true
     },
     "zzz-nonstandard-beacons-continued": {
-        "code": true,
-        "graphics": false,
-        "text": false,
-        "thumbnail": false,
-        "other": false
+        "code": true
     }
 }
