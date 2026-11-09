@@ -408,6 +408,10 @@
     "WePlayPlutoniumJetpackFuel": {
         "thumbnail": true
     },
+    "WePlayRadarProbeDroneLauncher": {
+        "text": true,
+        "thumbnail": true
+    },
     "WePlayRocketLauncherEquipment": {
         "text": true
     },
