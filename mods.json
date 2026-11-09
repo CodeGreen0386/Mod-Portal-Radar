@@ -429,6 +429,9 @@
     "WePlayWindowOutputCombinator": {
         "text": true
     },
+    "YAIM904-d06b-free-minerals": {
+        "text": true
+    },
     "YAIM904-d08b-linked-chest": {
         "text": true
     },
@@ -439,6 +442,9 @@
         "text": true
     },
     "YAIM904-d12b-compactors": {
+        "text": true
+    },
+    "YAIM904-d16b-electricity-without-pollution": {
         "text": true
     },
     "YAIM904-d20b-maximum-stack-size": {
