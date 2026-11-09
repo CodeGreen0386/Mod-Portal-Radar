@@ -1668,6 +1668,10 @@
         "code": true,
         "text": true
     },
+    "planet_erimos_prime": {
+        "text": true,
+        "thumbnail": true
+    },
     "planets-japanese": {
         "text": true
     },
