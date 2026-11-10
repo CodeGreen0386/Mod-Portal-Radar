@@ -393,6 +393,9 @@
     "Warp-Drive-Machine": {
         "audio": true
     },
+    "WePlayAtomicBombWeight": {
+        "text": true
+    },
     "WePlayBurnerBooster": {
         "text": true,
         "thumbnail": true
