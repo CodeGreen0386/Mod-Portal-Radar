@@ -331,6 +331,9 @@
     "StoneToStars": {
         "thumbnail": true
     },
+    "SupplyDropRefurbished_Continued": {
+        "thumbnail": true
+    },
     "Sweepbot": {
         "code": true,
         "text": true,
