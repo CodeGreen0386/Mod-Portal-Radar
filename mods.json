@@ -409,6 +409,9 @@
         "text": true,
         "thumbnail": true
     },
+    "WePlayDemolisherResistances": {
+        "text": true
+    },
     "WePlayEverythingStacks": {
         "text": true,
         "thumbnail": true
