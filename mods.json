@@ -2071,6 +2071,11 @@
         "text": true,
         "thumbnail": true
     },
+    "stun-drones": {
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "sulfur-everywhere": {
         "code": true,
         "text": true
