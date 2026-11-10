@@ -1121,6 +1121,10 @@
     "dynamic-travel-distance": {
         "thumbnail": true
     },
+    "early-drones-defence": {
+        "text": true,
+        "thumbnail": true
+    },
     "early-drones": {
         "text": true,
         "thumbnail": true
