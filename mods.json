@@ -1650,6 +1650,9 @@
         "text": true,
         "thumbnail": true
     },
+    "mythic-quality-reborn": {
+        "text": true
+    },
     "nautical_map": {
         "graphics": true,
         "thumbnail": true
