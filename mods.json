@@ -1956,6 +1956,9 @@
         "text": true,
         "thumbnail": true
     },
+    "simple-calculator": {
+        "code": true
+    },
     "smart-train-combinator": {
         "code": true,
         "graphics": true,
