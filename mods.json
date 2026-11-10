@@ -92,6 +92,9 @@
     "DuHLibs": {
         "thumbnail": true
     },
+    "EditMapSettings": {
+        "thumbnail": true
+    },
     "EditMapSettingsFix": {
         "thumbnail": true
     },
@@ -110,6 +113,9 @@
     },
     "ElectrifiedRailways": {
         "text": true,
+        "thumbnail": true
+    },
+    "Engineersvsenvironmentalist-redux": {
         "thumbnail": true
     },
     "Exteros-QoL-System": {
