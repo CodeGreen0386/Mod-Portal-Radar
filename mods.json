@@ -393,6 +393,9 @@
         "graphics": true,
         "thumbnail": true
     },
+    "ViidisElectricOffshorePump_Reborn": {
+        "text": true
+    },
     "Warp-Drive-Machine": {
         "audio": true
     },
