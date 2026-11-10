@@ -647,6 +647,9 @@
         "text": true,
         "thumbnail": true
     },
+    "advanced-furnace-plus": {
+        "text": true
+    },
     "advanced-furnaces-2-updated": {
         "code": true,
         "text": true,
