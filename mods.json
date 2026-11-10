@@ -1424,6 +1424,9 @@
     "heavy_cannon_turret": {
         "thumbnail": true
     },
+    "helmod-fork": {
+        "code": true
+    },
     "hive-mind": {
         "graphics": true,
         "text": true,
