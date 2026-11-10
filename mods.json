@@ -430,6 +430,11 @@
     "WePlayLightningRodEquipment": {
         "text": true
     },
+    "WePlayLongHaulLogistics": {
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "WePlayMrFusion": {
         "text": true,
         "thumbnail": true
