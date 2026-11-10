@@ -1226,6 +1226,10 @@
         "text": true,
         "thumbnail": true
     },
+    "forgeworks-railforge": {
+        "text": true,
+        "thumbnail": true
+    },
     "freight-stations-rats-fork": {
         "code": true,
         "text": true
