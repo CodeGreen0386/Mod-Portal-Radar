@@ -2025,6 +2025,11 @@
     "space-platform-blueprint-helper": {
         "thumbnail": true
     },
+    "space-platform-flow-monitor": {
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "space_teleport_v2": {
         "thumbnail": true
     },
