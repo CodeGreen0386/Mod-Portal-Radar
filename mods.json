@@ -92,6 +92,9 @@
     "DuHLibs": {
         "thumbnail": true
     },
+    "EditMapSettingsFix": {
+        "thumbnail": true
+    },
     "EditorPowerToggle": {
         "text": true,
         "thumbnail": true
