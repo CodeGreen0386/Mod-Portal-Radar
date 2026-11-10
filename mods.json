@@ -89,6 +89,9 @@
         "text": true,
         "thumbnail": true
     },
+    "DuHLibs": {
+        "thumbnail": true
+    },
     "EditorPowerToggle": {
         "text": true,
         "thumbnail": true
