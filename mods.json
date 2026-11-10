@@ -1692,6 +1692,10 @@
         "text": true,
         "thumbnail": true
     },
+    "ore-feeder": {
+        "text": true,
+        "thumbnail": true
+    },
     "ores-avoid-water": {
         "thumbnail": true
     },
