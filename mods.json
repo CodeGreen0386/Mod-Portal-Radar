@@ -193,6 +193,11 @@
         "graphics": true,
         "thumbnail": false
     },
+    "Mobile_Factory_Space_Age": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "MtnFortressAddons": {
         "thumbnail": true
     },
