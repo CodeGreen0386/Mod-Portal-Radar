@@ -1021,6 +1021,11 @@
         "text": true,
         "thumbnail": true
     },
+    "claude-the-engineer": {
+        "code": true,
+        "text": true,
+        "other": true
+    },
     "clear-science-dyes": {
         "thumbnail": true
     },
