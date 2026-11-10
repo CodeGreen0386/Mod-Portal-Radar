@@ -1219,6 +1219,10 @@
     "factorio-research-queue-for-space_age": {
         "thumbnail": true
     },
+    "factorio-serf": {
+        "code": true,
+        "other": true
+    },
     "factorio_llm_use": {
         "thumbnail": true
     },
