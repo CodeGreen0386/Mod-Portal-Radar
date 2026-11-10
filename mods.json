@@ -85,6 +85,12 @@
     "DCO-Tweaks": {
         "thumbnail": true
     },
+    "Deep_Core_Operations": {
+        "audio": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "Deep_Core_Operations_cn": {
         "text": true,
         "thumbnail": true
