@@ -933,6 +933,9 @@
         "text": true,
         "thumbnail": true
     },
+    "better-quality-reborn": {
+        "text": true
+    },
     "beyond-the-galaxy": {
         "code": true
     },
