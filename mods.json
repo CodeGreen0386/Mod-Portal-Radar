@@ -1756,6 +1756,10 @@
     "planets-japanese": {
         "text": true
     },
+    "pneumatic-transport-pipes": {
+        "code": true,
+        "graphics": true
+    },
     "pocket-planner": {
         "code": true,
         "text": true,
