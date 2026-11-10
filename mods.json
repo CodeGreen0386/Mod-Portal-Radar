@@ -96,6 +96,11 @@
         "text": true,
         "thumbnail": true
     },
+    "ElectricElementFurnace": {
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "Electric_Furnaces_Reborn": {
         "code": true,
         "text": true
