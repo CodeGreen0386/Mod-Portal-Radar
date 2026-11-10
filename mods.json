@@ -1099,6 +1099,10 @@
         "code": true,
         "text": true
     },
+    "early-stack-size": {
+        "text": true,
+        "thumbnail": true
+    },
     "easy-materials-2-1-ready": {
         "thumbnail": true
     },
