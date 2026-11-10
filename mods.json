@@ -1984,6 +1984,9 @@
         "text": true,
         "thumbnail": true
     },
+    "solar-appliances": {
+        "thumbnail": true
+    },
     "sosciencity-graphics": {
         "graphics": true
     },
