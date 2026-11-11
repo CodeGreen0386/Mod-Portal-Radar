@@ -151,6 +151,9 @@
     "Gregtorio": {
         "graphics": true
     },
+    "Grossak_Research": {
+        "thumbnail": true
+    },
     "Haystack": {
         "code": true,
         "text": true,
