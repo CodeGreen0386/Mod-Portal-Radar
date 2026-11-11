@@ -2199,6 +2199,11 @@
         "text": true,
         "thumbnail": true
     },
+    "vehicle-_-rts-control": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "very-fluffy": {
         "text": true
     },
