@@ -361,6 +361,12 @@
     "StoneToStars": {
         "thumbnail": true
     },
+    "Storage_optimizer": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "SupplyDropRefurbished_Continued": {
         "thumbnail": true
     },
