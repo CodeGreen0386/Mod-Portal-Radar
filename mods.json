@@ -423,6 +423,11 @@
     "Warp-Drive-Machine": {
         "audio": true
     },
+    "WePlayArcosphereBalancer": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "WePlayAtomicBombWeight": {
         "text": true
     },
