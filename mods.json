@@ -528,6 +528,12 @@
         "text": true,
         "thumbnail": true
     },
+    "WePlayTornadoGun": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "WePlayTrainsGetRadar": {
         "text": true,
         "thumbnail": true
