@@ -505,6 +505,11 @@
     "WePlaySpaceAge": {
         "thumbnail": true
     },
+    "WePlayStayOffMyLawn": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "WePlayTakenForARide": {
         "text": true,
         "thumbnail": true
