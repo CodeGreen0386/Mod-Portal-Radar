@@ -482,6 +482,10 @@
         "text": true,
         "thumbnail": true
     },
+    "WePlayPentapodsRespectWalls": {
+        "code": true,
+        "text": true
+    },
     "WePlayPlutoniumJetpackFuel": {
         "thumbnail": true
     },
