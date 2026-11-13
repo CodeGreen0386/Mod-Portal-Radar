@@ -274,6 +274,12 @@
     "PoweredFloorContinued": {
         "thumbnail": true
     },
+    "Pythonator": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "Quantum-Teleporter": {
         "code": true,
         "graphics": true,
