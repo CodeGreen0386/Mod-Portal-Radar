@@ -1887,6 +1887,11 @@
         "text": true,
         "thumbnail": true
     },
+    "power-propagation-improved": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "pressure-barrel": {
         "text": true,
         "thumbnail": true
