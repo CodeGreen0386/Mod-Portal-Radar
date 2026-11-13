@@ -498,6 +498,12 @@
     "WePlayRocketLauncherEquipment": {
         "text": true
     },
+    "WePlayShockLance": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "WePlaySinkLastSlot": {
         "text": true,
         "thumbnail": true
