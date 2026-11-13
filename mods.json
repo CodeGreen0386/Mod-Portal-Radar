@@ -1580,6 +1580,10 @@
         "text": true,
         "thumbnail": true
     },
+    "leave-ecliptic": {
+        "text": true,
+        "thumbnail": true
+    },
     "line-loss": {
         "code": true,
         "text": true
