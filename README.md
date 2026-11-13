@@ -19,7 +19,7 @@ Accepted reports may take up to an hour to have an effect on the mod portal, as 
 Mods are labeled according to how AI was used, that way you can filter depending on your level of comfort.
 
 - <ins>**Audio**</ins>: If the mod contains any AI-generated sound effects, music, or other sound sources.
-- <ins>**Code**</ins>: When a mod has any amount of AI-written or assisted code. It is only applied specifically when the mod's code has an agent as a contributor, if the repository contains AI-specific files or folders like AGENTS.md or /skills, or if it is otherwise disclosed in the mod description or readme.
+- <ins>**Code**</ins>: When a mod has any amount of AI-written or assisted code. It is only applied specifically when the mod's code has an agent as a contributor, if the repository contains AI-specific files or folders like AGENTS.md or /skills, or if it is disclosed in the mod description, readme, or elsewhere by the author. Otherwise, the source code may be investigated for any obvious LLM usage, though that is seldom applied.
 - <ins>**Graphics**</ins>: If the mod has any AI-generated or modified sprites/animations used in-game. This does not include images used in the mod portal gallery or description, unless those images are screenshots of in-game assets.
 - <ins>**Text**</ins>: If there is any LLM text, either in the mod portal summary, description, changelog, or in-game. Generally speaking, if there's LLM text anywhere, it's included.
 - <ins>**Thumbnail**</ins>: This one's pretty simple, if the mod has an AI-generated thumbnail. Also applies to gallery images that are meant to be thumbnail-y.
