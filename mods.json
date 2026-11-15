@@ -2309,6 +2309,10 @@
         "graphics": true,
         "thumbnail": true
     },
+    "volatile-fuels-and-fires": {
+        "text": true,
+        "thumbnail": true
+    },
     "warehouse-depots": {
         "graphics": true,
         "text": true,
