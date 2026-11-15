@@ -1104,6 +1104,9 @@
         "text": true,
         "thumbnail": true
     },
+    "circuit-network-inspector": {
+        "thumbnail": true
+    },
     "claude-the-engineer": {
         "code": true,
         "text": true,
