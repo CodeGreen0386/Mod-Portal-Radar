@@ -1577,6 +1577,10 @@
         "text": true,
         "thumbnail": true
     },
+    "integrated-orbital-strike-system": {
+        "text": true,
+        "thumbnail": true
+    },
     "interplanetary-rockets": {
         "code": true,
         "text": true
