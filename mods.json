@@ -1899,6 +1899,9 @@
     "planets-japanese": {
         "text": true
     },
+    "player-queue": {
+        "text": true
+    },
     "pneumatic-transport-pipes": {
         "code": true,
         "graphics": true
