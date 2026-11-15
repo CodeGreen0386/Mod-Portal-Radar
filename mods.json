@@ -1911,6 +1911,9 @@
     "productivity-through-science": {
         "thumbnail": true
     },
+    "psy-concentrated-solar": {
+        "text": true
+    },
     "py-armor-quickstart": {
         "text": true,
         "thumbnail": true
