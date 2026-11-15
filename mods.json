@@ -454,6 +454,11 @@
     "WePlayAtomicBombWeight": {
         "text": true
     },
+    "WePlayBubbleGun": {
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "WePlayBurnerBooster": {
         "text": true,
         "thumbnail": true
