@@ -1715,6 +1715,9 @@
         "text": true,
         "thumbnail": true
     },
+    "mods-patch": {
+        "thumbnail": true
+    },
     "molybdenum": {
         "text": true,
         "thumbnail": true
