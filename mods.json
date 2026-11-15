@@ -36,6 +36,11 @@
         "text": true,
         "thumbnail": true
     },
+    "Atmos-Faster-Start": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "Atmos-QoL-Pack": {
         "code": true,
         "text": true,
