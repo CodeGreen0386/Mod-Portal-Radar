@@ -1807,6 +1807,10 @@
     "omniab-space-age-compat": {
         "thumbnail": true
     },
+    "omnidepot": {
+        "text": true,
+        "thumbnail": true
+    },
     "open-discord-bridge": {
         "code": true,
         "text": true,
