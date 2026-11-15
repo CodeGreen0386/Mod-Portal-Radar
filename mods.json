@@ -2277,6 +2277,9 @@
     "unified-chem-plant": {
         "text": true
     },
+    "ups-guard": {
+        "text": true
+    },
     "uranium_geiger_continued": {
         "code": true,
         "text": true
