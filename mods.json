@@ -1631,6 +1631,10 @@
     "loaders-modernized": {
         "thumbnail": true
     },
+    "local-build-grid": {
+        "text": true,
+        "thumbnail": true
+    },
     "logistic-network-grids": {
         "text": true,
         "thumbnail": true
