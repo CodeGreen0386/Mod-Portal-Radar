@@ -1738,6 +1738,9 @@
         "text": true,
         "thumbnail": true
     },
+    "multisignal-combinator": {
+        "thumbnail": true
+    },
     "mythic-quality-reborn": {
         "text": true
     },
