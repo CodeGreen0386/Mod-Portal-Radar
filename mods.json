@@ -396,6 +396,9 @@
         "text": true,
         "thumbnail": true
     },
+    "StrategicZoom": {
+        "code": true
+    },
     "SupplyDropRefurbished_Continued": {
         "thumbnail": true
     },
