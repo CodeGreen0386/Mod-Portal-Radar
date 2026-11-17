@@ -1374,6 +1374,10 @@
         "code": true,
         "text": true
     },
+    "factoryplanner-tweaks": {
+        "text": true,
+        "thumbnail": true
+    },
     "fast-quality-buttons": {
         "text": true,
         "thumbnail": true
