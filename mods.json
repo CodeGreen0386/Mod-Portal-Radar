@@ -771,6 +771,10 @@
         "code": true,
         "thumbnail": true
     },
+    "ai-smart-logistics": {
+        "graphics": true,
+        "thumbnail": true
+    },
     "ai_combinator": {
         "code": true,
         "text": true,
