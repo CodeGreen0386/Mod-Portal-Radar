@@ -2355,6 +2355,9 @@
         "text": true,
         "thumbnail": true
     },
+    "vanilla_yellow_ammo": {
+        "thumbnail": true
+    },
     "vehicle-_-rts-control": {
         "code": true,
         "text": true,
