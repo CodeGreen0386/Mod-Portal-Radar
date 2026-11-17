@@ -2096,6 +2096,9 @@
         "text": true,
         "thumbnail": true
     },
+    "resources-anywhere-plus": {
+        "thumbnail": true
+    },
     "robot-battery-swap": {
         "code": true,
         "text": true
