@@ -2280,6 +2280,10 @@
     "thats-no-rock": {
         "text": true
     },
+    "the-cave": {
+        "text": true,
+        "thumbnail": true
+    },
     "this-is-my-island": {
         "text": true,
         "thumbnail": true
