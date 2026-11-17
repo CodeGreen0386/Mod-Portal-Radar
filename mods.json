@@ -1567,6 +1567,10 @@
         "text": true,
         "thumbnail": true
     },
+    "hover-alt-mode": {
+        "code": true,
+        "text": true
+    },
     "hydrocarbon-industry": {
         "code": true,
         "text": true
