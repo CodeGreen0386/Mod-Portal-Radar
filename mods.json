@@ -2349,6 +2349,11 @@
         "graphics": true,
         "thumbnail": true
     },
+    "testosterone-mod": {
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "thats-no-rock": {
         "text": true
     },
