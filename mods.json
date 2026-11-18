@@ -1083,6 +1083,12 @@
         "text": true,
         "thumbnail": true
     },
+    "biochem": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "biter-resource-farms": {
         "text": true,
         "thumbnail": true
