@@ -2631,6 +2631,10 @@
         "text": true,
         "thumbnail": true
     },
+    "wreck-to-ghost": {
+        "text": true,
+        "thumbnail": true
+    },
     "xiuxian-english-translation": {
         "graphics": true,
         "text": true,
