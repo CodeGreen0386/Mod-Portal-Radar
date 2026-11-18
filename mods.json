@@ -1533,6 +1533,10 @@
         "text": true,
         "thumbnail": true
     },
+    "ghost-filler": {
+        "text": true,
+        "thumbnail": true
+    },
     "ghost-timer": {
         "text": true,
         "thumbnail": true
