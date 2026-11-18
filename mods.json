@@ -1241,6 +1241,10 @@
         "text": true,
         "thumbnail": true
     },
+    "codex-companion": {
+        "text": true,
+        "other": true
+    },
     "colonial-horizons": {
         "code": true,
         "text": true,
