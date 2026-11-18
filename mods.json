@@ -461,6 +461,10 @@
     "WePlayAtomicBombWeight": {
         "text": true
     },
+    "WePlayBeamLib": {
+        "text": true,
+        "thumbnail": true
+    },
     "WePlayBubbleGun": {
         "graphics": true,
         "text": true,
