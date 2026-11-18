@@ -2407,6 +2407,9 @@
         "text": true,
         "thumbnail": true
     },
+    "stock-quality-requests": {
+        "text": true
+    },
     "stun-drones": {
         "graphics": true,
         "text": true,
