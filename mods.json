@@ -452,6 +452,10 @@
     "Unlimited_Inventory": {
         "thumbnail": true
     },
+    "VanillaAssemblerOutput": {
+        "text": true,
+        "thumbnail": true
+    },
     "VanillaReviseV2": {
         "thumbnail": true
     },
