@@ -1798,6 +1798,10 @@
         "text": true,
         "thumbnail": true
     },
+    "milestone-saver": {
+        "text": true,
+        "thumbnail": true
+    },
     "military-mlrs": {
         "code": true,
         "graphics": true,
