@@ -1276,6 +1276,10 @@
         "text": true,
         "thumbnail": true
     },
+    "dimensional-bag": {
+        "text": true,
+        "thumbnail": true
+    },
     "dimensional_storage": {
         "thumbnail": true
     },
