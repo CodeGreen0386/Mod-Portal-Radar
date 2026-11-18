@@ -349,6 +349,9 @@
         "text": true,
         "thumbnail": true
     },
+    "Robocharger_Extreme": {
+        "thumbnail": true
+    },
     "Sceatorio-Natural-Spawns": {
         "code": true,
         "text": true
