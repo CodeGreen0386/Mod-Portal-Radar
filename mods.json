@@ -1810,6 +1810,9 @@
         "text": true,
         "thumbnail": true
     },
+    "military-core": {
+        "text": true
+    },
     "military-mlrs": {
         "code": true,
         "graphics": true,
