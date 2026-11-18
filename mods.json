@@ -1238,6 +1238,9 @@
         "code": true,
         "thumbnail": true
     },
+    "cybersyn2-chinese": {
+        "text": true
+    },
     "cybersyn2-combinator-fork": {
         "text": true
     },
