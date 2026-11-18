@@ -489,6 +489,10 @@
     "WePlayDemolisherResistances": {
         "text": true
     },
+    "WePlayDroneSwarms": {
+        "text": true,
+        "thumbnail": true
+    },
     "WePlayEverythingStacks": {
         "text": true,
         "thumbnail": true
