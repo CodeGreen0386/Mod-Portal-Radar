@@ -539,6 +539,12 @@
         "code": true,
         "text": true
     },
+    "WePlayPersonalUnicornLasers": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "WePlayPhaseDisruptor": {
         "text": true,
         "thumbnail": true
