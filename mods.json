@@ -1448,7 +1448,8 @@
     },
     "factorio-mcp": {
         "text": true,
-        "thumbnail": true
+        "thumbnail": true,
+        "other": true
     },
     "factorio-research-queue-for-space_age": {
         "thumbnail": true
