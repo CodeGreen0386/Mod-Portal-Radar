@@ -2211,6 +2211,11 @@
         "text": true,
         "thumbnail": true
     },
+    "silbas-replicators": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "simple-calculator": {
         "code": true
     },
