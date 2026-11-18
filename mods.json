@@ -456,6 +456,10 @@
         "text": true,
         "thumbnail": true
     },
+    "VanillaFurnaceOutput": {
+        "text": true,
+        "thumbnail": true
+    },
     "VanillaReviseV2": {
         "thumbnail": true
     },
@@ -1958,6 +1962,10 @@
         "thumbnail": true
     },
     "ore-feeder": {
+        "text": true,
+        "thumbnail": true
+    },
+    "ore-master": {
         "text": true,
         "thumbnail": true
     },
