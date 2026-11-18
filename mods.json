@@ -2083,6 +2083,11 @@
         "text": true,
         "thumbnail": true
     },
+    "qol-logistics": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "quality-atomic-bombs": {
         "code": true
     },
