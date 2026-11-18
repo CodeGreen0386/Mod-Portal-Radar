@@ -1147,6 +1147,9 @@
         "text": true,
         "thumbnail": true
     },
+    "bufferminer": {
+        "text": true
+    },
     "cadmium": {
         "graphics": true,
         "text": true,
