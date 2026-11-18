@@ -867,6 +867,9 @@
         "text": true,
         "thumbnail": true
     },
+    "arc-rate-calc": {
+        "text": true
+    },
     "area-heating-tower": {
         "graphics": true,
         "text": true,
