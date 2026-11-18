@@ -2277,6 +2277,10 @@
         "code": true,
         "graphics": true
     },
+    "soundtrack-selector": {
+        "text": true,
+        "thumbnail": true
+    },
     "space-age-easy-mode": {
         "text": true,
         "thumbnail": true
