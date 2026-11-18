@@ -1181,6 +1181,12 @@
     "carna": {
         "code": true
     },
+    "casper-ghost-tracking": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "cbs-electric-steel-furnace": {
         "graphics": true,
         "thumbnail": true
