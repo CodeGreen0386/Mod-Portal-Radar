@@ -1840,6 +1840,9 @@
     "more-everything": {
         "code": true
     },
+    "more-infinite-research": {
+        "text": true
+    },
     "mts-dimension-warp": {
         "code": true,
         "text": true,
