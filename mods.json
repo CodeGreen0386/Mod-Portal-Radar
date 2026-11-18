@@ -1402,6 +1402,10 @@
         "text": true,
         "thumbnail": true
     },
+    "factorio-event-recorder": {
+        "text": true,
+        "thumbnail": true
+    },
     "factorio-light-space-age": {
         "text": true,
         "thumbnail": true
