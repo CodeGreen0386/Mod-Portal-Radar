@@ -924,6 +924,10 @@
         "code": true,
         "thumbnail": true
     },
+    "automatic-small-rocket-deliveries": {
+        "text": true,
+        "thumbnail": true
+    },
     "autoprint-fixed": {
         "text": true
     },
