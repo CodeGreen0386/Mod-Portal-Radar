@@ -2559,6 +2559,10 @@
         "text": true,
         "thumbnail": true
     },
+    "wire-fix": {
+        "text": true,
+        "thumbnail": true
+    },
     "worldscape-combat": {
         "text": true,
         "thumbnail": true
