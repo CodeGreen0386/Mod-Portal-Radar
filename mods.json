@@ -2451,8 +2451,7 @@
         "text": true
     },
     "stock-quality-upgrader": {
-        "text": true,
-        "thumbnail": true
+        "text": true
     },
     "stun-drones": {
         "graphics": true,
