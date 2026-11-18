@@ -2153,6 +2153,9 @@
         "text": true,
         "thumbnail": true
     },
+    "quality-platform-upgrades": {
+        "text": true
+    },
     "quality-seeds-on-nauvis": {
         "thumbnail": true
     },
