@@ -233,6 +233,11 @@
         "text": true,
         "thumbnail": true
     },
+    "Lost-Beyond-Project": {
+        "code": true,
+        "graphics": true,
+        "thumbnail": true
+    },
     "Lumify": {
         "code": true,
         "text": true,
