@@ -1936,6 +1936,10 @@
     "oxygen_survival_climate": {
         "thumbnail": true
     },
+    "particle-trails": {
+        "text": true,
+        "thumbnail": true
+    },
     "personal-autocraft": {
         "text": true,
         "thumbnail": true
