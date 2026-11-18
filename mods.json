@@ -2449,6 +2449,11 @@
     "underground-heat-pipe-reborn": {
         "text": true
     },
+    "underground-power-lines-zars-fork": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "unified-chem-plant": {
         "text": true
     },
