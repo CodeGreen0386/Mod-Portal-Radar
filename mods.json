@@ -1493,6 +1493,10 @@
         "text": true,
         "thumbnail": true
     },
+    "ghost-timer": {
+        "text": true,
+        "thumbnail": true
+    },
     "gizmod-overhaul": {
         "thumbnail": true
     },
