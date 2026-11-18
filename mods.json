@@ -2496,6 +2496,9 @@
         "text": true,
         "thumbnail": true
     },
+    "tracer-trails": {
+        "text": true
+    },
     "train-foundry-stc": {
         "code": true,
         "graphics": true,
