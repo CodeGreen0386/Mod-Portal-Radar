@@ -1127,6 +1127,9 @@
         "text": true,
         "thumbnail": true
     },
+    "capsule-launcher": {
+        "text": true
+    },
     "car_defenes": {
         "text": true,
         "thumbnail": true
