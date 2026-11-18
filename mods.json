@@ -2157,6 +2157,9 @@
         "text": true,
         "thumbnail": true
     },
+    "request-only-platforms": {
+        "thumbnail": true
+    },
     "research-cost-shaper": {
         "code": true,
         "text": true,
