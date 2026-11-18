@@ -1219,6 +1219,10 @@
         "graphics": true,
         "thumbnail": true
     },
+    "cryo-logistics": {
+        "text": true,
+        "thumbnail": true
+    },
     "csx-locomotive": {
         "code": true,
         "graphics": true
