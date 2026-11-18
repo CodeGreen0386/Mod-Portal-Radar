@@ -533,6 +533,10 @@
         "code": true,
         "text": true
     },
+    "WePlayPhaseDisruptor": {
+        "text": true,
+        "thumbnail": true
+    },
     "WePlayPlutoniumJetpackFuel": {
         "thumbnail": true
     },
