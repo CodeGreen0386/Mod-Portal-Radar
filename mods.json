@@ -1947,6 +1947,12 @@
         "text": true,
         "thumbnail": true
     },
+    "pharmaceuticals": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "phosphorus": {
         "text": true,
         "thumbnail": true
