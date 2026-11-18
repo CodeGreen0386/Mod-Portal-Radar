@@ -1523,6 +1523,9 @@
         "code": true,
         "text": true
     },
+    "flip-thruster-fluid": {
+        "thumbnail": true
+    },
     "flma": {
         "code": true,
         "text": true,
