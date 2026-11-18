@@ -1299,7 +1299,10 @@
         "text": true
     },
     "estrogen-mod": {
-        "text": true
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
     },
     "even-better-deconstruction-planner": {
         "text": true
