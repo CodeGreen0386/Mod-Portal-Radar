@@ -316,6 +316,10 @@
         "text": true,
         "thumbnail": true
     },
+    "QualityLogisticRequestGenerator": {
+        "text": true,
+        "thumbnail": true
+    },
     "Quantum-Teleporter": {
         "code": true,
         "graphics": true,
