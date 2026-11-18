@@ -2429,6 +2429,10 @@
     "stock-quality-requests": {
         "text": true
     },
+    "stock-quality-upgrader": {
+        "text": true,
+        "thumbnail": true
+    },
     "stun-drones": {
         "graphics": true,
         "text": true,
