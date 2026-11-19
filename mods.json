@@ -62,6 +62,10 @@
     "BeaconAdjust": {
         "thumbnail": true
     },
+    "BeltCapacityHelper": {
+        "text": true,
+        "thumbnail": true
+    },
     "BeltThreadUpgrades": {
         "thumbnail": true
     },
