@@ -2286,6 +2286,10 @@
         "code": true,
         "text": true
     },
+    "quantum-catapult": {
+        "text": true,
+        "thumbnail": true
+    },
     "quiet-little-foundry-blue": {
         "thumbnail": true
     },
