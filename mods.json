@@ -2142,6 +2142,10 @@
         "text": true,
         "thumbnail": true
     },
+    "peaceful-planets": {
+        "text": true,
+        "thumbnail": true
+    },
     "personal-autocraft": {
         "text": true,
         "thumbnail": true
