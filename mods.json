@@ -2574,6 +2574,9 @@
     "teleporters-2-1-ready": {
         "text": true
     },
+    "teleporting_machine": {
+        "thumbnail": true
+    },
     "tellurium": {
         "graphics": true,
         "text": true,
