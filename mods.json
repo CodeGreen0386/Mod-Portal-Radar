@@ -1868,6 +1868,11 @@
         "text": true,
         "thumbnail": true
     },
+    "laser-fence": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "lawlzer-enemy-overhaul": {
         "text": true
     },
