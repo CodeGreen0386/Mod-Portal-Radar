@@ -363,7 +363,8 @@
     },
     "Sceatorio-Natural-Spawns": {
         "code": true,
-        "text": true
+        "text": true,
+        "thumbnail": true
     },
     "Sceatorio": {
         "code": true,
