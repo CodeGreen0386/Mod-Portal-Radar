@@ -2461,6 +2461,11 @@
     "simple-calculator": {
         "code": true
     },
+    "sky-freight": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "small-fast-boats": {
         "thumbnail": true
     },
