@@ -2595,6 +2595,9 @@
         "text": true,
         "thumbnail": true
     },
+    "subterrania": {
+        "text": true
+    },
     "sulfur-everywhere": {
         "code": true,
         "text": true
