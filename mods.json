@@ -2471,6 +2471,11 @@
     "simple-calculator": {
         "code": true
     },
+    "sky-freight-taxi": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "sky-freight": {
         "code": true,
         "text": true,
