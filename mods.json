@@ -1005,6 +1005,10 @@
     "belt-draw": {
         "thumbnail": true
     },
+    "belt-quality-speed": {
+        "text": true,
+        "thumbnail": true
+    },
     "berbcorp-agricultural-power-planner": {
         "text": true,
         "thumbnail": true
