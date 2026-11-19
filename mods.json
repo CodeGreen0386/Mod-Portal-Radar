@@ -2667,6 +2667,10 @@
     "tidy-wires": {
         "text": true
     },
+    "timber-and-industry": {
+        "text": true,
+        "thumbnail": true
+    },
     "time-control": {
         "text": true,
         "thumbnail": true
