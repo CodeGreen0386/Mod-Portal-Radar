@@ -139,6 +139,10 @@
     "DuHLibs": {
         "thumbnail": true
     },
+    "E-Tech": {
+        "text": true,
+        "thumbnail": true
+    },
     "EditMapSettings": {
         "thumbnail": true
     },
