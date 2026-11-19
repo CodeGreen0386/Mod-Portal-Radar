@@ -335,6 +335,10 @@
     "PoweredFloorContinued": {
         "thumbnail": true
     },
+    "Powered_Concrete": {
+        "text": true,
+        "thumbnail": true
+    },
     "Pythonator": {
         "code": true,
         "graphics": true,
@@ -2638,6 +2642,9 @@
         "code": true,
         "graphics": true,
         "text": true,
+        "thumbnail": true
+    },
+    "train-shortage-alert": {
         "thumbnail": true
     },
     "train-shortage-builder-link": {
