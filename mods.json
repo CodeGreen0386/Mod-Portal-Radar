@@ -1596,6 +1596,9 @@
         "text": true,
         "thumbnail": true
     },
+    "fulgora-rail-world": {
+        "thumbnail": true
+    },
     "gallium": {
         "graphics": true,
         "text": true,
