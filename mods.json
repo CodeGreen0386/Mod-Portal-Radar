@@ -92,6 +92,9 @@
         "text": true,
         "thumbnail": true
     },
+    "CaptiveSpawnerAnywhere": {
+        "thumbnail": true
+    },
     "CheaperCoalSynthesis": {
         "text": true
     },
