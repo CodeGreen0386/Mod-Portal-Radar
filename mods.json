@@ -1618,6 +1618,9 @@
         "text": true,
         "thumbnail": true
     },
+    "gleba-myco-power": {
+        "thumbnail": true
+    },
     "global-machine-chaining": {
         "code": true,
         "text": true,
