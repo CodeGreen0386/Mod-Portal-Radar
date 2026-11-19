@@ -2640,6 +2640,9 @@
         "text": true,
         "thumbnail": true
     },
+    "train-shortage-builder-link": {
+        "thumbnail": true
+    },
     "trainConstructionSiteFork": {
         "code": true,
         "text": true
