@@ -2359,6 +2359,9 @@
         "text": true,
         "thumbnail": true
     },
+    "railway-high-capacity-pump": {
+        "thumbnail": true
+    },
     "range-tech": {
         "code": true,
         "text": true,
