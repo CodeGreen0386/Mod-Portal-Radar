@@ -2693,6 +2693,9 @@
         "text": true,
         "thumbnail": true
     },
+    "vulcanus-seismometer": {
+        "thumbnail": true
+    },
     "warehouse-depots": {
         "graphics": true,
         "text": true,
