@@ -1581,6 +1581,11 @@
         "text": true,
         "thumbnail": true
     },
+    "global-machine-chaining": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "global-storage": {
         "text": true,
         "thumbnail": true
