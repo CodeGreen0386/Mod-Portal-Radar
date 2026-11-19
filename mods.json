@@ -2441,6 +2441,9 @@
         "text": true,
         "thumbnail": true
     },
+    "space-platform-robots": {
+        "thumbnail": true
+    },
     "space_teleport_v2": {
         "thumbnail": true
     },
