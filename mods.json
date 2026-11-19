@@ -463,6 +463,9 @@
     "Unlimited_Inventory": {
         "thumbnail": true
     },
+    "UnlockFPS": {
+        "thumbnail": true
+    },
     "VanillaAssemblerOutput": {
         "text": true,
         "thumbnail": true
