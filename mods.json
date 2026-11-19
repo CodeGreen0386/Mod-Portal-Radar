@@ -448,6 +448,9 @@
     "SupplyDropRefurbished_Continued": {
         "thumbnail": true
     },
+    "SurfaceOrganizer": {
+        "thumbnail": true
+    },
     "Sweepbot": {
         "code": true,
         "text": true,
