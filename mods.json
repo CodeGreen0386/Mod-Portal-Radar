@@ -958,6 +958,9 @@
         "text": true,
         "thumbnail": true
     },
+    "belt-draw": {
+        "thumbnail": true
+    },
     "berbcorp-agricultural-power-planner": {
         "text": true,
         "thumbnail": true
