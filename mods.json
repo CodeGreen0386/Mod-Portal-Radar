@@ -2434,6 +2434,9 @@
     "simple-calculator": {
         "code": true
     },
+    "small-fast-boats": {
+        "thumbnail": true
+    },
     "smart-train-combinator": {
         "code": true,
         "graphics": true,
