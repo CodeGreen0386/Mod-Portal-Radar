@@ -1549,6 +1549,10 @@
         "code": true,
         "text": true
     },
+    "friendly-bug-map": {
+        "text": true,
+        "thumbnail": true
+    },
     "gallium": {
         "graphics": true,
         "text": true,
