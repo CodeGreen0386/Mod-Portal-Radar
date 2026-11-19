@@ -2512,6 +2512,9 @@
         "text": true,
         "thumbnail": true
     },
+    "tidy-wires": {
+        "text": true
+    },
     "time-control": {
         "text": true,
         "thumbnail": true
