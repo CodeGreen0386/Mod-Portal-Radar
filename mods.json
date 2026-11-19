@@ -1204,6 +1204,10 @@
         "text": true,
         "thumbnail": true
     },
+    "blueprint-upgrade-cleanup": {
+        "text": true,
+        "thumbnail": true
+    },
     "bodyguard-companion-drones": {
         "text": true,
         "thumbnail": true
