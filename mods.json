@@ -2124,6 +2124,10 @@
         "code": true,
         "text": true
     },
+    "planet-zzhora": {
+        "code": true,
+        "thumbnail": true
+    },
     "planet_erimos_prime": {
         "text": true,
         "thumbnail": true
