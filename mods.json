@@ -2490,6 +2490,11 @@
         "text": true,
         "thumbnail": true
     },
+    "soil-autopilot": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "solar-appliances-reborn": {
         "text": true,
         "thumbnail": true
