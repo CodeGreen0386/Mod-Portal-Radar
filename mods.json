@@ -2650,6 +2650,10 @@
     "very-fluffy": {
         "text": true
     },
+    "vesta_k2so_ammonia_fix": {
+        "text": true,
+        "thumbnail": true
+    },
     "virentis": {
         "graphics": true,
         "thumbnail": true
