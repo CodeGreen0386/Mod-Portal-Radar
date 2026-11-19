@@ -2054,6 +2054,10 @@
         "text": true,
         "thumbnail": true
     },
+    "night-raids": {
+        "text": true,
+        "thumbnail": true
+    },
     "no-ammo-turrets": {
         "code": true,
         "text": true,
