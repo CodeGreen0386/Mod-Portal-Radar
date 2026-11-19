@@ -1963,6 +1963,10 @@
         "text": true,
         "thumbnail": true
     },
+    "moon-eneas": {
+        "code": true,
+        "graphics": true
+    },
     "more-everything": {
         "code": true
     },
