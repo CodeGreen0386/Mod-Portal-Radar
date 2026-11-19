@@ -1759,6 +1759,11 @@
     "heavy_cannon_turret": {
         "thumbnail": true
     },
+    "heliopause-foundry": {
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "helmod-fork": {
         "code": true
     },
