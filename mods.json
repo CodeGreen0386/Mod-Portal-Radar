@@ -2699,6 +2699,9 @@
         "text": true,
         "thumbnail": true
     },
+    "vulcanus-noise-pollution": {
+        "thumbnail": true
+    },
     "vulcanus-seismometer": {
         "thumbnail": true
     },
