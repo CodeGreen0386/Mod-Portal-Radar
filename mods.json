@@ -41,6 +41,11 @@
         "text": true,
         "thumbnail": true
     },
+    "Atmos-Machine-Tiers": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "Atmos-QoL-Pack": {
         "code": true,
         "text": true,
