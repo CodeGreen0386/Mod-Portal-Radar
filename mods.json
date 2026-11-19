@@ -1277,6 +1277,10 @@
         "text": true,
         "thumbnail": true
     },
+    "color-palette": {
+        "code": true,
+        "thumbnail": true
+    },
     "crop-spray": {
         "code": true,
         "text": true
