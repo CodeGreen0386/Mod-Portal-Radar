@@ -2641,6 +2641,10 @@
         "text": true,
         "thumbnail": true
     },
+    "too-many-buildables": {
+        "code": true,
+        "text": true
+    },
     "tracer-trails": {
         "text": true
     },
