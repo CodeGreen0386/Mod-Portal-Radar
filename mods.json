@@ -2428,6 +2428,9 @@
         "text": true,
         "thumbnail": true
     },
+    "shixi-chinese": {
+        "thumbnail": true
+    },
     "shortcut-trash": {
         "thumbnail": true
     },
