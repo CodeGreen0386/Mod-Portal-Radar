@@ -2631,6 +2631,9 @@
         "text": true,
         "thumbnail": true
     },
+    "train-preset-builder": {
+        "thumbnail": true
+    },
     "train-roguelite": {
         "code": true,
         "graphics": true,
