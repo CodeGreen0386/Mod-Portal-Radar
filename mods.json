@@ -2676,6 +2676,10 @@
         "text": true,
         "thumbnail": true
     },
+    "vanilla-space-map-connections": {
+        "code": true,
+        "thumbnail": true
+    },
     "vanilla_yellow_ammo": {
         "thumbnail": true
     },
