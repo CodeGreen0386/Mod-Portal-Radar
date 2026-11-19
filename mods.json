@@ -2545,6 +2545,10 @@
     "tracer-trails": {
         "text": true
     },
+    "train-construct": {
+        "text": true,
+        "thumbnail": true
+    },
     "train-foundry-stc": {
         "code": true,
         "graphics": true,
