@@ -2371,6 +2371,10 @@
     "request-only-platforms": {
         "thumbnail": true
     },
+    "research-autopilot": {
+        "text": true,
+        "thumbnail": true
+    },
     "research-cost-shaper": {
         "code": true,
         "text": true,
