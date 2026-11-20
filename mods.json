@@ -2896,6 +2896,9 @@
         "code": true,
         "text": true
     },
+    "zz-qol-editor": {
+        "thumbnail": true
+    },
     "zzz-berbcorp-no-aquilo-belt-freeze": {
         "text": true,
         "thumbnail": true
