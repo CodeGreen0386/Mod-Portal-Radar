@@ -219,6 +219,9 @@
     "Grossak_Research": {
         "thumbnail": true
     },
+    "Grossak_storage": {
+        "thumbnail": true
+    },
     "Haystack": {
         "code": true,
         "text": true,
