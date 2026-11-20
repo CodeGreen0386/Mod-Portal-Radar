@@ -1502,6 +1502,10 @@
         "text": true,
         "thumbnail": true
     },
+    "extended-underground-pipes": {
+        "code": true,
+        "thumbnail": true
+    },
     "extended-undergrounds": {
         "thumbnail": true
     },
