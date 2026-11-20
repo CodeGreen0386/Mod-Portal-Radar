@@ -1951,6 +1951,10 @@
         "text": true,
         "thumbnail": true
     },
+    "logistics-sensor": {
+        "code": true,
+        "thumbnail": true
+    },
     "ltn-space-exploration": {
         "code": true,
         "thumbnail": true
