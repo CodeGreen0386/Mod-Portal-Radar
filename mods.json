@@ -97,6 +97,10 @@
         "text": true,
         "thumbnail": true
     },
+    "BulkRailLoader": {
+        "text": true,
+        "thumbnail": true
+    },
     "CaptiveSpawnerAnywhere": {
         "thumbnail": true
     },
