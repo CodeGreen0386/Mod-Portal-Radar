@@ -2584,6 +2584,11 @@
     "space-platform-robots": {
         "thumbnail": true
     },
+    "space-taxi": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "space_teleport_v2": {
         "thumbnail": true
     },
