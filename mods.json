@@ -1412,6 +1412,9 @@
         "text": true,
         "thumbnail": true
     },
+    "drill-planner": {
+        "text": true
+    },
     "dustline": {
         "text": true,
         "thumbnail": true
