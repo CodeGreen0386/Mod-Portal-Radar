@@ -2525,6 +2525,9 @@
         "text": true,
         "thumbnail": true
     },
+    "se-train-browser": {
+        "thumbnail": true
+    },
     "se_quality_priority": {
         "text": true,
         "thumbnail": true
