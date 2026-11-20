@@ -2817,6 +2817,9 @@
     "train-shortage-builder-link": {
         "thumbnail": true
     },
+    "train-stop-item-color": {
+        "thumbnail": true
+    },
     "train-tracker": {
         "code": true,
         "thumbnail": true
