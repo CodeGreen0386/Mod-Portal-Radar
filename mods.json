@@ -2448,6 +2448,10 @@
         "text": true,
         "thumbnail": true
     },
+    "rail-signal-planner": {
+        "text": true,
+        "thumbnail": true
+    },
     "railwave": {
         "text": true,
         "thumbnail": true
