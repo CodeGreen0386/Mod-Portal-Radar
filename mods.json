@@ -1581,6 +1581,10 @@
         "code": true,
         "text": true
     },
+    "factory-train": {
+        "text": true,
+        "thumbnail": true
+    },
     "factoryplanner-tweaks": {
         "text": true,
         "thumbnail": true
