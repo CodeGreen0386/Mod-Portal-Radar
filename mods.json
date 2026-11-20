@@ -2075,6 +2075,10 @@
         "text": true,
         "thumbnail": true
     },
+    "mobile-factory-trains": {
+        "text": true,
+        "thumbnail": true
+    },
     "mods-patch": {
         "thumbnail": true
     },
