@@ -1855,6 +1855,10 @@
         "text": true,
         "thumbnail": true
     },
+    "inventory-sensor-improved": {
+        "code": true,
+        "thumbnail": true
+    },
     "jatz-distribution": {
         "code": true,
         "graphics": true,
