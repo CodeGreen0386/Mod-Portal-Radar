@@ -1432,6 +1432,10 @@
     "easy-materials-2-1-ready": {
         "thumbnail": true
     },
+    "electric-locomotives": {
+        "code": true,
+        "thumbnail": true
+    },
     "electromagnetic-plant-boost": {
         "code": true,
         "text": true
