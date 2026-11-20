@@ -2025,6 +2025,10 @@
         "text": true,
         "thumbnail": true
     },
+    "miniloader-redux": {
+        "code": true,
+        "thumbnail": true
+    },
     "mining-yield-multiplier": {
         "text": true,
         "thumbnail": true
