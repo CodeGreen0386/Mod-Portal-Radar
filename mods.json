@@ -485,6 +485,9 @@
         "code": true,
         "text": true
     },
+    "TrainContainer": {
+        "thumbnail": true
+    },
     "Transport_Drones_Continued_Fixed": {
         "text": true
     },
