@@ -2789,6 +2789,10 @@
         "text": true,
         "thumbnail": true
     },
+    "train-eta": {
+        "code": true,
+        "thumbnail": true
+    },
     "train-foundry-stc": {
         "code": true,
         "graphics": true,
