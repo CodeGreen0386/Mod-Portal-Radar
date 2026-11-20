@@ -1778,6 +1778,10 @@
         "graphics": true,
         "thumbnail": true
     },
+    "hattorio": {
+        "code": true,
+        "text": true
+    },
     "heat_glow_reborn": {
         "text": true,
         "thumbnail": true
