@@ -1904,6 +1904,9 @@
         "code": true,
         "text": true
     },
+    "lamp_led_display": {
+        "code": true
+    },
     "land-title-registry": {
         "code": true,
         "text": true,
