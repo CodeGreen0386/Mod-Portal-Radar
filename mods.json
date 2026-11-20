@@ -2631,6 +2631,10 @@
         "text": true,
         "thumbnail": true
     },
+    "stack-combinator-redux": {
+        "code": true,
+        "thumbnail": true
+    },
     "stack-size-control": {
         "code": true,
         "graphics": true,
