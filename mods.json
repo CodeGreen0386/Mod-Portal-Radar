@@ -2899,6 +2899,12 @@
     "zz-qol-editor": {
         "thumbnail": true
     },
+    "zz-qol-lite": {
+        "thumbnail": true
+    },
+    "zz-qol-plus": {
+        "thumbnail": true
+    },
     "zzz-berbcorp-no-aquilo-belt-freeze": {
         "text": true,
         "thumbnail": true
