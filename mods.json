@@ -1938,6 +1938,10 @@
         "text": true,
         "thumbnail": true
     },
+    "ltn-train-info": {
+        "code": true,
+        "thumbnail": true
+    },
     "machine-swapper": {
         "code": true,
         "text": true
