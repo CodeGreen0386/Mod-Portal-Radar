@@ -2451,6 +2451,10 @@
     "railway-high-capacity-pump": {
         "thumbnail": true
     },
+    "railwright": {
+        "text": true,
+        "thumbnail": true
+    },
     "range-tech": {
         "code": true,
         "text": true,
