@@ -498,6 +498,11 @@
     "Transport_Drones_Continued_Fixed": {
         "text": true
     },
+    "UPS-silos": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "UTLCouplingYard": {
         "code": true,
         "text": true,
