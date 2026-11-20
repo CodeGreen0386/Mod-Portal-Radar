@@ -2706,6 +2706,12 @@
         "code": true,
         "text": true
     },
+    "toxic-wasteland": {
+        "code": true,
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "tracer-trails": {
         "text": true
     },
