@@ -378,6 +378,11 @@
         "code": true,
         "text": true
     },
+    "Repair_Turret_2": {
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "RiftRail": {
         "text": true,
         "thumbnail": true
