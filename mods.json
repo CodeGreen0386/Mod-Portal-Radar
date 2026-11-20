@@ -1592,6 +1592,11 @@
     "faster-rocket-animations": {
         "text": true
     },
+    "fiber-optics": {
+        "code": true,
+        "graphics": true,
+        "thumbnail": true
+    },
     "filter-combinator-improved": {
         "code": true
     },
