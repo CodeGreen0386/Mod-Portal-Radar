@@ -2705,6 +2705,10 @@
     "tracer-trails": {
         "text": true
     },
+    "train-balance-monitor": {
+        "text": true,
+        "thumbnail": true
+    },
     "train-construct": {
         "text": true,
         "thumbnail": true
