@@ -2789,6 +2789,10 @@
     "train-shortage-builder-link": {
         "thumbnail": true
     },
+    "train-tracker": {
+        "code": true,
+        "thumbnail": true
+    },
     "trainConstructionSiteFork": {
         "code": true,
         "text": true
