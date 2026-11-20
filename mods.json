@@ -2444,6 +2444,10 @@
         "text": true,
         "thumbnail": true
     },
+    "railwave": {
+        "text": true,
+        "thumbnail": true
+    },
     "railway-high-capacity-pump": {
         "thumbnail": true
     },
