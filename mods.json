@@ -2551,6 +2551,9 @@
     "solar-appliances": {
         "thumbnail": true
     },
+    "solar-calculator": {
+        "text": true
+    },
     "sosciencity-graphics": {
         "graphics": true
     },
