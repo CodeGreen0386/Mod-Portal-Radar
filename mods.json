@@ -1179,6 +1179,11 @@
         "text": true,
         "thumbnail": true
     },
+    "biter-horror-visuals": {
+        "code": true,
+        "graphics": true,
+        "thumbnail": true
+    },
     "biter-resource-farms": {
         "text": true,
         "thumbnail": true
@@ -2036,6 +2041,10 @@
         "code": true,
         "text": true,
         "thumbnail": true
+    },
+    "mts-expanse": {
+        "code": true,
+        "text": true
     },
     "multi-team-support": {
         "code": true,
@@ -2900,6 +2909,9 @@
         "thumbnail": true
     },
     "zz-qol-lite": {
+        "thumbnail": true
+    },
+    "zz-qol-max": {
         "thumbnail": true
     },
     "zz-qol-plus": {
