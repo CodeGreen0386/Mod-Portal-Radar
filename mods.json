@@ -2794,6 +2794,10 @@
         "text": true,
         "thumbnail": true
     },
+    "threadwork": {
+        "text": true,
+        "thumbnail": true
+    },
     "tidy-wires": {
         "text": true
     },
