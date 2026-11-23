@@ -1654,6 +1654,9 @@
         "code": true,
         "text": true
     },
+    "fixed-24x28-resource-patches": {
+        "thumbnail": true
+    },
     "flip-thruster-fluid": {
         "thumbnail": true
     },
