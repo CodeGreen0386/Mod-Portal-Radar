@@ -2618,6 +2618,9 @@
         "code": true,
         "thumbnail": true
     },
+    "scrap-on-nauvis": {
+        "thumbnail": true
+    },
     "se-dynamic-ingot-plate-multiplier": {
         "code": true,
         "thumbnail": true
