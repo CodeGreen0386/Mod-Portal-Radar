@@ -1351,6 +1351,9 @@
         "code": true,
         "text": true
     },
+    "crucible-vanilla-recipe-restore": {
+        "code": true
+    },
     "crushing-industry-tweaks": {
         "graphics": true,
         "thumbnail": true
