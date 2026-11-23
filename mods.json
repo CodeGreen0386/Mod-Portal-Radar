@@ -2027,6 +2027,10 @@
         "code": true,
         "text": true
     },
+    "me-network": {
+        "code": true,
+        "text": true
+    },
     "mech-armor-expanded": {
         "text": true,
         "thumbnail": true
