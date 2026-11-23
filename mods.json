@@ -1469,6 +1469,10 @@
         "code": true,
         "text": true
     },
+    "enemy-reskins": {
+        "code": true,
+        "thumbnail": true
+    },
     "entity-renamer": {
         "code": true
     },
