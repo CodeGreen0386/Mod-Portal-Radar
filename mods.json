@@ -1701,6 +1701,11 @@
         "text": true,
         "thumbnail": true
     },
+    "free-once-free-build": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "freight-stations-rats-fork": {
         "code": true,
         "text": true
