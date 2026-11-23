@@ -2118,6 +2118,10 @@
     "more-setting": {
         "text": true
     },
+    "mortillary": {
+        "text": true,
+        "thumbnail": true
+    },
     "mts-dimension-warp": {
         "code": true,
         "text": true,
