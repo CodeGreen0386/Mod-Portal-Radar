@@ -1358,6 +1358,9 @@
         "text": true,
         "thumbnail": true
     },
+    "control-your-rods-fork": {
+        "text": true
+    },
     "crop-spray": {
         "code": true,
         "text": true
