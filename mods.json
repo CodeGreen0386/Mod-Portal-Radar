@@ -1347,6 +1347,11 @@
         "code": true,
         "thumbnail": true
     },
+    "combat-drone-and-projectile-turrets": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "crop-spray": {
         "code": true,
         "text": true
