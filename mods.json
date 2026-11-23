@@ -2416,6 +2416,10 @@
         "text": true,
         "thumbnail": true
     },
+    "production-flow": {
+        "code": true,
+        "text": true
+    },
     "production-ratio": {
         "thumbnail": true
     },
