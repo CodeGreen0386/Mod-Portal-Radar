@@ -434,6 +434,11 @@
     "SpacePlatformOrgUI-Enhanced": {
         "text": true
     },
+    "SpidertronHunter": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "Squadify": {
         "code": true,
         "text": true,
