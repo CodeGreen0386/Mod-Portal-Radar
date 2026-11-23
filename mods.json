@@ -1591,7 +1591,10 @@
         "other": true
     },
     "factorio_llm_use": {
-        "thumbnail": true
+        "code": true,
+        "text": true,
+        "thumbnail": true,
+        "other": true
     },
     "factorissimo-gadgetroch": {
         "code": true,
