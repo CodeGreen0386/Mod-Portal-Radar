@@ -2303,6 +2303,9 @@
         "text": true,
         "thumbnail": true
     },
+    "planet-mickora": {
+        "code": true
+    },
     "planet-muluna": {
         "code": true
     },
