@@ -1586,6 +1586,11 @@
         "text": true,
         "thumbnail": true
     },
+    "factorio-mcp-server": {
+        "text": true,
+        "thumbnail": true,
+        "other": true
+    },
     "factorio-mcp": {
         "text": true,
         "thumbnail": true,
