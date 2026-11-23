@@ -2310,6 +2310,9 @@
         "graphics": true,
         "thumbnail": true
     },
+    "planet-vicrox": {
+        "code": true
+    },
     "planet-zoo": {
         "code": true,
         "text": true
