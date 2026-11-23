@@ -1380,6 +1380,9 @@
         "text": true,
         "thumbnail": true
     },
+    "ddr5-ram": {
+        "code": true
+    },
     "deepcore-exile": {
         "code": true,
         "text": true,
@@ -2309,6 +2312,9 @@
     "planet-gerkizia": {
         "code": true
     },
+    "planet-hexalith": {
+        "code": true
+    },
     "planet-ithurice": {
         "code": true
     },
@@ -2323,6 +2329,9 @@
         "thumbnail": true
     },
     "planet-quadromire": {
+        "code": true
+    },
+    "planet-tapatrion": {
         "code": true
     },
     "planet-tchekor": {
