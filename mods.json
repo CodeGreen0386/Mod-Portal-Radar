@@ -2699,6 +2699,10 @@
         "text": true,
         "thumbnail": true
     },
+    "sloppenheimer": {
+        "code": true,
+        "thumbnail": true
+    },
     "small-fast-boats": {
         "thumbnail": true
     },
