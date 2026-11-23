@@ -1596,6 +1596,12 @@
         "thumbnail": true,
         "other": true
     },
+    "factorio_mcp": {
+        "code": true,
+        "text": true,
+        "thumbnail": true,
+        "other": true
+    },
     "factorissimo-gadgetroch": {
         "code": true,
         "text": true
