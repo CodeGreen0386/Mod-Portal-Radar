@@ -2640,6 +2640,10 @@
     "scrap-on-nauvis": {
         "thumbnail": true
     },
+    "se-data-duplicator": {
+        "text": true,
+        "thumbnail": true
+    },
     "se-dynamic-ingot-plate-multiplier": {
         "code": true,
         "thumbnail": true
