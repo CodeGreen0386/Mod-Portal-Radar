@@ -2291,6 +2291,9 @@
         "graphics": true,
         "thumbnail": true
     },
+    "planet-akularis": {
+        "code": true
+    },
     "planet-crafter-nauvis": {
         "text": true,
         "thumbnail": true
