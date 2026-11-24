@@ -2630,6 +2630,9 @@
     "resources-anywhere-plus": {
         "thumbnail": true
     },
+    "roboport-ghost-links": {
+        "thumbnail": true
+    },
     "robot-battery-swap": {
         "code": true,
         "text": true
