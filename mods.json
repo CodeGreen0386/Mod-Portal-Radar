@@ -1483,6 +1483,11 @@
         "code": true,
         "text": true
     },
+    "endless-resources-refilled": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "enemy-reskins": {
         "code": true,
         "thumbnail": true
