@@ -1657,6 +1657,11 @@
         "code": true,
         "text": true
     },
+    "factory-snapshot-exporter": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "factory-train": {
         "text": true,
         "thumbnail": true
