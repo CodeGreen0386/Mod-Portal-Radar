@@ -2831,6 +2831,10 @@
         "text": true,
         "thumbnail": true
     },
+    "space-teleport-chest": {
+        "graphics": true,
+        "thumbnail": true
+    },
     "space_teleport_v2": {
         "thumbnail": true
     },
