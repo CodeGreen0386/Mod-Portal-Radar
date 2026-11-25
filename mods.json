@@ -3075,6 +3075,11 @@
         "text": true,
         "thumbnail": true
     },
+    "vehicle-loading-dock": {
+        "graphics": true,
+        "text": true,
+        "thumbnail": true
+    },
     "very-fluffy": {
         "text": true
     },
