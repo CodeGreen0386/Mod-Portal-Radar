@@ -2341,6 +2341,10 @@
         "text": true,
         "thumbnail": true
     },
+    "personal-weapon-equipment": {
+        "graphics": true,
+        "thumbnail": true
+    },
     "pharmaceuticals": {
         "code": true,
         "graphics": true,
