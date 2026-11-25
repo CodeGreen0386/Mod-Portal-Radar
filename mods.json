@@ -266,6 +266,9 @@
     "LR_Turret_2": {
         "text": true
     },
+    "Laser_Scythe": {
+        "thumbnail": true
+    },
     "Li-VariationFactory": {
         "thumbnail": true
     },
