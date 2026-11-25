@@ -1274,6 +1274,10 @@
         "text": true,
         "thumbnail": true
     },
+    "cannon-turret-21": {
+        "graphics": true,
+        "thumbnail": true
+    },
     "capsule-launcher": {
         "text": true
     },
