@@ -83,6 +83,10 @@
         "text": true,
         "thumbnail": true
     },
+    "Bezierio": {
+        "code": true,
+        "text": true
+    },
     "BioTech_Reborn": {
         "code": true,
         "text": true
