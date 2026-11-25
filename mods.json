@@ -1963,6 +1963,10 @@
         "code": true,
         "thumbnail": true
     },
+    "invisible-enemy-sensor": {
+        "graphics": true,
+        "thumbnail": true
+    },
     "jatz-distribution": {
         "code": true,
         "graphics": true,
