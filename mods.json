@@ -2598,6 +2598,11 @@
         "text": true,
         "thumbnail": true
     },
+    "remote-view-favorites": {
+        "code": true,
+        "text": true,
+        "thumbnail": true
+    },
     "request-only-platforms": {
         "thumbnail": true
     },
