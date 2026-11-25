@@ -1937,6 +1937,9 @@
         "code": true,
         "thumbnail": true
     },
+    "incendiary-arsenal": {
+        "thumbnail": true
+    },
     "industrial-worlds": {
         "text": true,
         "thumbnail": true
