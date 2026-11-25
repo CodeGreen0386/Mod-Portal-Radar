@@ -3138,6 +3138,10 @@
         "text": true,
         "thumbnail": true
     },
+    "weapons-and-equipment-expanded": {
+        "graphics": true,
+        "thumbnail": true
+    },
     "wedol-promethium-tweaks": {
         "text": true,
         "thumbnail": true
