@@ -2093,6 +2093,9 @@
         "text": true,
         "thumbnail": true
     },
+    "maraxsis-quality-balance": {
+        "thumbnail": true
+    },
     "maritime-industry": {
         "text": true,
         "thumbnail": true
