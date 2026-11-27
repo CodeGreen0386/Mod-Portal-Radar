@@ -3092,6 +3092,10 @@
     "unified-chem-plant": {
         "text": true
     },
+    "upcycler-planner": {
+        "code": true,
+        "text": true
+    },
     "ups-guard": {
         "text": true
     },
